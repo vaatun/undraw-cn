@@ -2,8 +2,21 @@ import type { Registry, RegistryItem } from "@/hooks/use-registry"
 
 export type PackageManager = "pnpm" | "yarn" | "npm"
 
+// Number of illustrations to show on page load
+export const DEFAULT_DISPLAY_COUNT = 10
+
 export function normalizeForSearch(str: string): string {
   return str.toLowerCase().replace(/[^a-z0-9]/g, "")
+}
+
+// Fisher-Yates shuffle algorithm
+function shuffleArray<T>(array: T[]): T[] {
+  const shuffled = [...array]
+  for (let i = shuffled.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1))
+    ;[shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]]
+  }
+  return shuffled
 }
 
 export function filterItems(
@@ -11,8 +24,14 @@ export function filterItems(
   searchQuery: string
 ): RegistryItem[] {
   if (!registry) return []
-  if (!searchQuery.trim()) return registry.items.slice(0, 10)
 
+  // If no search query, return random illustrations
+  if (!searchQuery.trim()) {
+    const shuffled = shuffleArray(registry.items)
+    return shuffled.slice(0, DEFAULT_DISPLAY_COUNT)
+  }
+
+  // Search mode: filter and return matches
   const normalized = normalizeForSearch(searchQuery)
   return registry.items
     .filter((item) => {
@@ -20,7 +39,7 @@ export function filterItems(
       const normalizedTitle = normalizeForSearch(item.title)
       return normalizedName.includes(normalized) || normalizedTitle.includes(normalized)
     })
-    .slice(0, 10)
+    .slice(0, DEFAULT_DISPLAY_COUNT)
 }
 
 export function getInstallCommand(
