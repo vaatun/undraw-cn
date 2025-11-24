@@ -44,14 +44,14 @@ npx shadcn@latest add @undraw/mobile-login
 Import and use the illustration in your React app:
 
 ```tsx
-import { AWholeYear } from "@/registry/new-york/illustrations/a-whole-year/a-whole-year"
+import { AWholeYear } from "@/registry/new-york/illustrations/a-whole-year/a-whole-year";
 
 export function MyComponent() {
   return (
     <div className="flex items-center justify-center p-8">
       <AWholeYear className="w-full max-w-md" />
     </div>
-  )
+  );
 }
 ```
 
@@ -68,7 +68,7 @@ export interface IllustrationProps extends SVGProps<SVGSVGElement> {}
   style={{ opacity: 0.8 }}
   role="img"
   aria-label="A whole year illustration"
-/>
+/>;
 ```
 
 ## Color Customization
@@ -77,7 +77,7 @@ The primary color in all illustrations automatically uses your CSS variable `--c
 
 ```css
 :root {
-  --color-primary: #e76f51; /* Your brand color */
+  --color-primary: #5b3d91; /* Your brand color */
 }
 ```
 
@@ -131,6 +131,7 @@ node tools/convert-svgs.js
 ```
 
 This will:
+
 - Read SVG files from the configured source directory
 - Generate React components in `registry/new-york/illustrations/`
 - Update both `registry.json` and `public/r/registry.json`

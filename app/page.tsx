@@ -14,7 +14,7 @@ import {
 } from "@/lib/registry-utils"
 
 export default function Home() {
-  const [primaryColor, setPrimaryColor] = React.useState<string>("#e76f51")
+  const [primaryColor, setPrimaryColor] = React.useState<string>("#5B3D91")
   const [packageManager, setPackageManager] = React.useState<PackageManager>("pnpm")
   const [copiedId, setCopiedId] = React.useState<string | null>(null)
   const [searchQuery, setSearchQuery] = React.useState("")
