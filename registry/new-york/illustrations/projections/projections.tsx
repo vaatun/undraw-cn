@@ -34,7 +34,7 @@ export const Projections = (props: ProjectionsProps) => {
     </g>
     <polygon fill="#ffb6b6"
         points="310.6843 159.98014 319.44968 126.28289 353.59686 124.64036 363.8132 171.09089 310.6843 159.98014" />
-    <polygon isolation="isolate" opacity=".1"
+    <polygon style={{isolation: "isolate"}} opacity=".1"
         points="310.6843 159.98014 319.44968 126.28289 353.59686 124.64036 363.8132 171.09089 310.6843 159.98014" />
     <circle cx="333.15384" cy="103.92448" fill="#ffb6b6" r="41.21628" />
     <path

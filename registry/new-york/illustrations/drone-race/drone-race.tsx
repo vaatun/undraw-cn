@@ -376,17 +376,17 @@ export const DroneRace = (props: DroneRaceProps) => {
     <ellipse cx="283.58" cy="391.28" opacity="0.03" rx="34.35" ry="5.18" />
     <ellipse cx="310.12" cy="247.13" opacity="0.03" rx="19.73" ry="2.97" />
     <path d="M162.32,578.82s27.21,53.4,5,82.63,2,108.82,2,108.82" fill="none" stroke="#fc6681"
-        stroke-miterlimit="10" stroke-width="2" transform="translate(-88.62 -69.46)" />
+        strokeMiterlimit="10" strokeWidth="2" transform="translate(-88.62 -69.46)" />
     <path
         d="M170.39,562.19c0,10.3-7.56,18.64-7.56,18.64s-7.56-8.35-7.56-18.64,7.56-18.64,7.56-18.64S170.39,551.89,170.39,562.19Z"
         fill="#fc6681" transform="translate(-88.62 -69.46)" />
     <path d="M176.43,578.82s-27.21,53.4-5,82.63-2,108.82-2,108.82" fill="none" stroke="#ffd037"
-        stroke-miterlimit="10" stroke-width="2" transform="translate(-88.62 -69.46)" />
+        strokeMiterlimit="10" strokeWidth="2" transform="translate(-88.62 -69.46)" />
     <path
         d="M168.37,562.19c0,10.3,7.56,18.64,7.56,18.64s7.56-8.35,7.56-18.64-7.56-18.64-7.56-18.64S168.37,551.89,168.37,562.19Z"
         fill="#ffd037" transform="translate(-88.62 -69.46)" />
     <path d="M187.52,578.82s27.21,53.4,5,82.63,2,108.82,2,108.82" fill="none" stroke="#fc6681"
-        stroke-miterlimit="10" stroke-width="2" transform="translate(-88.62 -69.46)" />
+        strokeMiterlimit="10" strokeWidth="2" transform="translate(-88.62 -69.46)" />
     <path
         d="M195.58,562.19c0,10.3-7.56,18.64-7.56,18.64s-7.56-8.35-7.56-18.64S188,543.55,188,543.55,195.58,551.89,195.58,562.19Z"
         fill="#fc6681" transform="translate(-88.62 -69.46)" />
@@ -403,7 +403,7 @@ export const DroneRace = (props: DroneRaceProps) => {
         d="M159.6,583.52c8.58,5.69,11.36,16.6,11.36,16.6s-11.13,1.69-19.71-4-11.36-16.6-11.36-16.6S151,577.83,159.6,583.52Z"
         fill="#fc6681" transform="translate(-88.62 -69.46)" />
     <path d="M201.62,578.82s-27.21,53.4-5,82.63-2,108.82-2,108.82" fill="none" stroke="#ffd037"
-        stroke-miterlimit="10" stroke-width="2" transform="translate(-88.62 -69.46)" />
+        strokeMiterlimit="10" strokeWidth="2" transform="translate(-88.62 -69.46)" />
     <path
         d="M193.56,562.19c0,10.3,7.56,18.64,7.56,18.64s7.56-8.35,7.56-18.64-7.56-18.64-7.56-18.64S193.56,551.89,193.56,562.19Z"
         fill="#ffd037" transform="translate(-88.62 -69.46)" />
@@ -414,15 +414,15 @@ export const DroneRace = (props: DroneRaceProps) => {
         d="M209.91,656.78c-7.23,7.33-7.7,18.58-7.7,18.58s11.24-.64,18.47-8,7.7-18.58,7.7-18.58S217.13,649.45,209.91,656.78Z"
         fill="#ffd037" transform="translate(-88.62 -69.46)" />
     <path d="M189.06,645.57s16.38-25.81,39.36-26.37" fill="none" stroke="#ffd037"
-        stroke-miterlimit="10" stroke-width="2" transform="translate(-88.62 -69.46)" />
+        strokeMiterlimit="10" strokeWidth="2" transform="translate(-88.62 -69.46)" />
     <path d="M176.31,630s-16.38-25.81-39.36-26.37" fill="none" stroke="#fc6681"
-        stroke-miterlimit="10" stroke-width="2" transform="translate(-88.62 -69.46)" />
+        strokeMiterlimit="10" strokeWidth="2" transform="translate(-88.62 -69.46)" />
     <path d="M174.18,666.83s16.38-25.81,39.36-26.37" fill="none" stroke="#ffd037"
-        stroke-miterlimit="10" stroke-width="2" transform="translate(-88.62 -69.46)" />
+        strokeMiterlimit="10" strokeWidth="2" transform="translate(-88.62 -69.46)" />
     <circle cx="139.05" cy="549.55" fill="#ffd037" r="4.25" />
     <circle cx="48.72" cy="534.31" fill="#fc6681" r="4.25" />
     <path d="M186.22,675.33S169.85,649.51,146.86,649" fill="none" stroke="#fc6681"
-        stroke-miterlimit="10" stroke-width="2" transform="translate(-88.62 -69.46)" />
+        strokeMiterlimit="10" strokeWidth="2" transform="translate(-88.62 -69.46)" />
     <circle cx="58.64" cy="579.66" fill="#fc6681" r="4.25" />
     <circle cx="125.24" cy="571.16" fill="#ffd037" r="4.25" />
     <path

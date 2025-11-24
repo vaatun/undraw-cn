@@ -52,9 +52,9 @@ export const MintTea = (props: MintTeaProps) => {
     <ellipse cx="550.81" cy="673.32" fill="#a1c4f5" rx="211.21" ry="45.5" />
     <ellipse cx="552.06" cy="673.32" opacity="0.1" rx="155.63" ry="33.53" />
     <path d="M491.34,541.31s31,13.94,31.46,44.86" fill="none" stroke="#57b894"
-        stroke-miterlimit="10" stroke-width="6" transform="translate(-46.94 -75.49)" />
+        strokeMiterlimit="10" strokeWidth="6" transform="translate(-46.94 -75.49)" />
     <path d="M491.34,541.31s31,13.94,31.46,44.86" fill="none" opacity="0.3" stroke="#407d3b"
-        stroke-miterlimit="10" stroke-width="6" transform="translate(-46.94 -75.49)" />
+        strokeMiterlimit="10" strokeWidth="6" transform="translate(-46.94 -75.49)" />
     <path
         d="M483.73,534.67s9.55,18.2,4.56,28.13l-.41-1.24s-5.4,9.92-12,13.23V574a39.66,39.66,0,0,1-15.77,8.69v-.83s-5.82,3.73-22.42,5.38c0,0-8.3-.83-11.62,2.48h-1.25A20.65,20.65,0,0,0,426,576.45h-1.25s.42-12.41,2.08-14.89H426s2.49-10.76,6.22-13.65l-1.24-.42s4.15-7.86,10.79-9.51l-1-.62s9.34-3.11,13.91-3.52l-.83-.41S471.69,523.09,483.73,534.67Z"
         fill="#57b894" transform="translate(-46.94 -75.49)" />
@@ -104,9 +104,9 @@ export const MintTea = (props: MintTeaProps) => {
         d="M497.35,567.53a74.32,74.32,0,0,1-10-16.38c-3.85,4.48,1,13.36,1,13.36-5.19-7.12-2-12.73-1.22-13.86a42.43,42.43,0,0,1-2.16-6.57c-3.29,1.5-2.56,10.33-2.56,10.33-1.47-7.38,1.44-10,2.48-10.69a27.68,27.68,0,0,1-.68-5.75s.63,2.49,1.87,6.2c1.77-.3,7.73-.7,12.14,6.37,0,0-6.42-7.81-12-5.94.68,2,1.54,4.43,2.57,7,1.87.22,7.58,1.53,9.88,9.41,0,0-3.95-9-9.71-9A72.89,72.89,0,0,0,497.35,567.53Z"
         fill="#407d3b" opacity="0.3" transform="translate(-46.94 -75.49)" />
     <path d="M607.77,639.31s-31,13.94-31.46,44.86" fill="none" stroke="#57b894"
-        stroke-miterlimit="10" stroke-width="6" transform="translate(-46.94 -75.49)" />
+        strokeMiterlimit="10" strokeWidth="6" transform="translate(-46.94 -75.49)" />
     <path d="M607.77,639.31s-31,13.94-31.46,44.86" fill="none" opacity="0.3" stroke="#407d3b"
-        stroke-miterlimit="10" stroke-width="6" transform="translate(-46.94 -75.49)" />
+        strokeMiterlimit="10" strokeWidth="6" transform="translate(-46.94 -75.49)" />
     <path
         d="M615.39,632.67s-9.55,18.2-4.57,28.13l.42-1.24s5.39,9.92,12,13.23V672a39.66,39.66,0,0,0,15.77,8.69v-.83s5.81,3.73,22.42,5.38c0,0,8.3-.83,11.62,2.48h1.25a20.65,20.65,0,0,1-1.25-13.23h1.25s-.42-12.41-2.08-14.89h.83s-2.49-10.76-6.23-13.65l1.25-.42S664,637.63,657.32,636l1-.62s-9.34-3.11-13.9-3.52l.83-.41S627.43,621.09,615.39,632.67Z"
         fill="#57b894" transform="translate(-46.94 -75.49)" />
@@ -266,9 +266,9 @@ export const MintTea = (props: MintTeaProps) => {
         d="M771.57,637.09h0c2.57-8,5-16.72,7.19-26.1C754.25,594.16,685.1,582,603.63,582c-92,0-168.23,15.45-182.31,35.65.7,4.1,1.56,8.29,2.61,12.56,0,0,0,0,0,.08v-.07C454.43,641.41,609.16,692,771.57,637.09Z"
         fill="#fcc329" opacity="0.3" transform="translate(-46.94 -75.49)" />
     <path d="M471.31,751.64s-23.53-9.37-24.89-32.37" fill="none" stroke="#57b894"
-        stroke-miterlimit="10" stroke-width="6" transform="translate(-46.94 -75.49)" />
+        strokeMiterlimit="10" strokeWidth="6" transform="translate(-46.94 -75.49)" />
     <path d="M471.31,751.64s-23.53-9.37-24.89-32.37" fill="none" opacity="0.3" stroke="#407d3b"
-        stroke-miterlimit="10" stroke-width="6" transform="translate(-46.94 -75.49)" />
+        strokeMiterlimit="10" strokeWidth="6" transform="translate(-46.94 -75.49)" />
     <path
         d="M477.2,756.34s-7.71-13.24-4.32-20.8l.35.91s3.69-7.57,8.53-10.25l0,.62a29.61,29.61,0,0,1,11.46-7l0,.62s4.2-3,16.52-4.74c0,0,6.21.34,8.57-2.23l.93,0a15.44,15.44,0,0,0-.5,9.9l.93,0s.1,9.25-1.06,11.15l.62,0s-1.5,8.09-4.19,10.37l.94.26s-2.83,6-7.72,7.44l.79.43s-6.86,2.61-10.24,3.07l.63.28S486.54,764.57,477.2,756.34Z"
         fill="#57b894" transform="translate(-46.94 -75.49)" />

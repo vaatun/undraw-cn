@@ -35,33 +35,33 @@ export const StaticAssets = (props: StaticAssetsProps) => {
             d="M718.61,188.63c-2.85.81-6.34,2.92-8.06,8.69-3.37,11.31,4.46,19,1.88,30.79a23,23,0,0,1-4,8.64c-3.15,4.27-6.57,6.29-9.89,9.28a29.5,29.5,0,0,0-8.69,14.27,39.5,39.5,0,0,0-.39,18.55c1.18,5.12,3.19,8.85,4.95,13a96,96,0,0,1,5.11,16.37,39.87,39.87,0,0,1,1.12,8.32,73.21,73.21,0,0,1-1,11.12l-4.79,33.42a100.43,100.43,0,0,0-1.31,13.21,65.61,65.61,0,0,0,1.53,13.19c1.68,8.84,3.49,18,7.34,22.68s10.41,3,14.44-6.47c3.83-9.06,3.92-21.15,7.3-30.83,5.33-15.25,15.92-17.3,21.8-31.85,5.64-14,3.91-31.08,6.77-47,2-11.41,6.41-21.81,9-33.08,3.72-16.23,3.35-33.08.38-45.56a60.55,60.55,0,0,0-14.18-27.54c-2.49-2.75-5.16-5.2-8.29-5.45-3.33-.26-6.24,3.93-9.53,5.19C726.3,189.06,722.48,187.53,718.61,188.63Z"
             fill="var(--color-primary)" transform="translate(-84.99 -85.07)" />
         <path d="M736.64,183.23S731,327.57,707.28,412.68" fill="none" stroke="#535461"
-            stroke-miterlimit="10" stroke-width="2" transform="translate(-84.99 -85.07)" />
+            strokeMiterlimit="10" strokeWidth="2" transform="translate(-84.99 -85.07)" />
         <path d="M710.41,198s25.35,23.08,20.54,67" fill="none" stroke="#535461"
-            stroke-miterlimit="10" stroke-width="2" transform="translate(-84.99 -85.07)" />
+            strokeMiterlimit="10" strokeWidth="2" transform="translate(-84.99 -85.07)" />
         <path d="M689.14,263.68s41.61,8.37,38.52,33.26" fill="none" stroke="#535461"
-            stroke-miterlimit="10" stroke-width="2" transform="translate(-84.99 -85.07)" />
+            strokeMiterlimit="10" strokeWidth="2" transform="translate(-84.99 -85.07)" />
         <path d="M762.17,215.07s-16.84,14.74-31.84,56.49" fill="none" stroke="#535461"
-            stroke-miterlimit="10" stroke-width="2" transform="translate(-84.99 -85.07)" />
+            strokeMiterlimit="10" strokeWidth="2" transform="translate(-84.99 -85.07)" />
         <path d="M745.72,341.25s-11.49,9-20.71-22.51" fill="none" stroke="#535461"
-            stroke-miterlimit="10" stroke-width="2" transform="translate(-84.99 -85.07)" />
+            strokeMiterlimit="10" strokeWidth="2" transform="translate(-84.99 -85.07)" />
         <path d="M696.14,359.66s23.43-3.06,25.59-17.73" fill="none" stroke="#535461"
-            stroke-miterlimit="10" stroke-width="2" transform="translate(-84.99 -85.07)" />
+            strokeMiterlimit="10" strokeWidth="2" transform="translate(-84.99 -85.07)" />
     </g>
     <path
         d="M775.25,91.82c-5.8.86-12.78,3.55-15.65,11.84-5.63,16.26,11.48,28.57,7.54,45.56A25.53,25.53,0,0,1,760,161.47c-6,5.91-12.86,8.49-19.36,12.5s-13.25,10.32-16.3,20c-2.93,9.31-1.66,19.59,1.39,27.27s7.66,13.41,11.78,19.73A133.69,133.69,0,0,1,750,265.67,46.94,46.94,0,0,1,753.32,278c.53,5.2-.14,10.79-.81,16.26L746.56,343c-.79,6.48-1.59,13.06-1.14,19.3.51,7.19,2.64,13.47,4.74,19.6,4.52,13.22,9.36,27,17.89,34.28s21.91,5.72,29.12-7.82c6.86-12.89,5.6-30.68,11.45-44.53,9.22-21.83,30.9-23.6,41.33-44.32,10-19.88,4.41-45.31,8.43-68.41,2.88-16.55,10.68-31.35,14.68-47.64,5.77-23.47,3-48.32-4.62-67s-19.67-32-32.6-42.23c-5.48-4.35-11.29-8.28-17.8-9-6.92-.77-12.45,5.05-19.1,6.52C791.2,93.36,783.12,90.65,775.25,91.82Z"
         fill="var(--color-primary)" transform="translate(-84.99 -85.07)" />
     <path d="M811.93,86s5.46,211.89-33.56,334.42" fill="none" stroke="#535461"
-        stroke-miterlimit="10" stroke-width="2" transform="translate(-84.99 -85.07)" />
+        strokeMiterlimit="10" strokeWidth="2" transform="translate(-84.99 -85.07)" />
     <path d="M759.38,104.68s55.2,37,50.47,101.16" fill="none" stroke="#535461"
-        stroke-miterlimit="10" stroke-width="2" transform="translate(-84.99 -85.07)" />
+        strokeMiterlimit="10" strokeWidth="2" transform="translate(-84.99 -85.07)" />
     <path d="M723.15,198.85s87.12,17.26,83.68,53.54" fill="none" stroke="#535461"
-        stroke-miterlimit="10" stroke-width="2" transform="translate(-84.99 -85.07)" />
+        strokeMiterlimit="10" strokeWidth="2" transform="translate(-84.99 -85.07)" />
     <path d="M868.54,135.92s-33.11,19.71-59.19,79.41" fill="none" stroke="#535461"
-        stroke-miterlimit="10" stroke-width="2" transform="translate(-84.99 -85.07)" />
+        strokeMiterlimit="10" strokeWidth="2" transform="translate(-84.99 -85.07)" />
     <path d="M849.43,319.79s-22.7,12-45.53-35.61" fill="none" stroke="#535461"
-        stroke-miterlimit="10" stroke-width="2" transform="translate(-84.99 -85.07)" />
-    <path d="M749,341s48.13-1.73,50.87-23.08" fill="none" stroke="#535461" stroke-miterlimit="10"
-        stroke-width="2" transform="translate(-84.99 -85.07)" />
+        strokeMiterlimit="10" strokeWidth="2" transform="translate(-84.99 -85.07)" />
+    <path d="M749,341s48.13-1.73,50.87-23.08" fill="none" stroke="#535461" strokeMiterlimit="10"
+        strokeWidth="2" transform="translate(-84.99 -85.07)" />
     <path
         d="M152.24,663.66s8.38,11-3.87,27.5S126,721.68,130.11,732c0,0,18.48-30.73,33.52-31.16S168.79,682.14,152.24,663.66Z"
         fill="var(--color-primary)" transform="translate(-84.99 -85.07)" />

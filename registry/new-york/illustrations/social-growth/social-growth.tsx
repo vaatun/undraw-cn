@@ -118,7 +118,7 @@ export const SocialGrowth = (props: SocialGrowthProps) => {
         fill="#3f3d56" transform="translate(-203.59063 -157.70232)" />
     <path
         d="M453.67254,518.77715a33.69815,33.69815,0,1,0-38.96349,33.29041V528.521h-8.55843v-9.74386h8.55843v-7.42563c0-8.44412,5.03217-13.1122,12.72856-13.1122a51.78491,51.78491,0,0,1,7.54448.65892v8.29366H430.7307c-4.18368,0-5.49249,2.59656-5.49249,5.2653v6.32141h9.34522l-1.49236,9.74386h-7.85288v23.54809a33.70716,33.70716,0,0,0,28.43431-33.29349Z"
-        fill="var(--color-primary)" fill-rule="evenodd" transform="translate(-203.59063 -157.70232)" />
+        fill="var(--color-primary)" fillRule="evenodd" transform="translate(-203.59063 -157.70232)" />
     <path d="M994.6822,741.70232h-381a1,1,0,0,1,0-2h381a1,1,0,0,1,0,2Z" fill="#cbcbcb"
         transform="translate(-203.59063 -157.70232)" />
     </svg>

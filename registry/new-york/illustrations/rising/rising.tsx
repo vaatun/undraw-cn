@@ -29,19 +29,19 @@ export const Rising = (props: RisingProps) => {
         d="M788.5,58.66s-90.4,90.4-39.37,224.55-87.49,357.23-87.49,357.23,1.48-.22,4.24-.7C851.56,607,943.81,394.61,840.57,236.85,802.18,178.2,770.68,109.4,788.5,58.66Z"
         opacity="0.1" transform="translate(-147.13 -56.96)" />
     <path d="M788.5,57.16s-51,110.82,0,201.22,8.75,344.11-126.85,380.56" fill="none"
-        stroke="#535461" stroke-miterlimit="10" transform="translate(-147.13 -56.96)" />
+        stroke="#535461" strokeMiterlimit="10" transform="translate(-147.13 -56.96)" />
     <path
         d="M949.52,422.81s-103.16-16.43-112.56,76S638.59,604.1,638.59,604.1s1.23.84,3.54,2.36c156,102.42,305.17,65.24,282.69-70.76C916.47,485.13,917.15,434.35,949.52,422.81Z"
         fill="var(--color-primary)" transform="translate(-147.13 -56.96)" />
     <path d="M949.52,422.81s-80.07,17.58-73.5,90.38S757.11,673.28,638.59,604.1" fill="none"
-        stroke="#535461" stroke-miterlimit="10" transform="translate(-147.13 -56.96)" />
+        stroke="#535461" strokeMiterlimit="10" transform="translate(-147.13 -56.96)" />
     <path
         d="M772.31,661.65H363.09V305.39c0-113,91.61-204.61,204.61-204.61h0c113,0,204.61,91.61,204.61,204.61Z"
         fill="#a1a1aa" transform="translate(-147.13 -56.96)" />
     <rect height="16.85" opacity="0.1" rx="5.04" ry="5.04" width="293.68" x="273.73" y="280.93" />
     <rect height="16.85" opacity="0.1" rx="5.04" ry="5.04" width="233.5" x="303.82" y="315.83" />
     <path d="M360.8,684.75s24.29-165.24,9.61-224.6S351.8,341.9,351.8,341.9" fill="none"
-        stroke="#535461" stroke-miterlimit="10" stroke-width="2"
+        stroke="#535461" strokeMiterlimit="10" strokeWidth="2"
         transform="translate(-147.13 -56.96)" />
     <path d="M419.62,443.41,370,470.91S418.55,505.86,419.62,443.41Z" fill="var(--color-primary)"
         transform="translate(-147.13 -56.96)" />
@@ -67,7 +67,7 @@ export const Rising = (props: RisingProps) => {
         d="M746.8,697c-3.89-.87-173.29-43.51,48.24-271.28,0,0,97.14,92.06,61.5,206.5-14.33,46-60.42,74.42-107.1,65.32Z"
         fill="#fff" opacity="0.2" transform="translate(-147.13 -56.96)" />
     <path d="M749.12,698.33S842.66,557.41,795,425.74" fill="none" stroke="#535461"
-        stroke-miterlimit="10" transform="translate(-147.13 -56.96)" />
+        strokeMiterlimit="10" transform="translate(-147.13 -56.96)" />
     <path
         d="M861.95,699.19s-42.45-8.49-53.77-19.81-62.26-31.13-67.92-17-76.42,62.26-28.3,70.75,113.21,11.32,127.36,5.66S861.95,699.19,861.95,699.19Z"
         fill="#a8a8a8" transform="translate(-147.13 -56.96)" />
@@ -125,7 +125,7 @@ export const Rising = (props: RisingProps) => {
     <rect fill="#635151" height="4.41" width="2.76" x="464.77" y="614.96" />
     <rect fill="#635151" height="7.17" width="3.86" x="444.37" y="584.08" />
     <path d="M532,480.61s3.86-8.82,6.06-8.27" fill="none" opacity="0.1" stroke="#000"
-        stroke-miterlimit="10" stroke-width="2" transform="translate(-147.13 -56.96)" />
+        strokeMiterlimit="10" strokeWidth="2" transform="translate(-147.13 -56.96)" />
     <path d="M593.7,524.71s-56.46-30.35-59.65-48.25" opacity="0.1"
         transform="translate(-147.13 -56.96)" />
     <path d="M554.56,465.72s38.59,33.63,40.8,48" opacity="0.1" transform="translate(-147.13 -56.96)" />
@@ -134,43 +134,43 @@ export const Rising = (props: RisingProps) => {
     <path d="M597,460.21s29.22,11.58,28.12,19.3c0,0-11.58-12.13-19.85-9.92S597,460.21,597,460.21Z"
         opacity="0.1" transform="translate(-147.13 -56.96)" />
     <path d="M532,509.83s11.58,7.72,9.92,12.68-1.65,14.33-1.65,14.33" fill="none" opacity="0.1"
-        stroke="#000" stroke-miterlimit="10" stroke-width="2" transform="translate(-147.13 -56.96)" />
+        stroke="#000" strokeMiterlimit="10" strokeWidth="2" transform="translate(-147.13 -56.96)" />
     <path d="M506.6,531.33l1.1,5.51s3.31-1.65,3.86,0,4.41,5.51,4.41,5.51l2.21-3.31Z" opacity="0.1"
         transform="translate(-147.13 -56.96)" />
-    <line fill="none" opacity="0.1" stroke="#000" stroke-miterlimit="10" stroke-width="2" x1="331.9"
+    <line fill="none" opacity="0.1" stroke="#000" strokeMiterlimit="10" strokeWidth="2" x1="331.9"
         x2="317.95" y1="422.55" y2="436.8" />
     <path d="M476.83,493.84a16.48,16.48,0,0,1-1.65,6.62c-1.65,3.31-5.14,1.86-5.14,1.86" fill="none"
-        opacity="0.1" stroke="#000" stroke-miterlimit="10" stroke-width="2"
+        opacity="0.1" stroke="#000" strokeMiterlimit="10" strokeWidth="2"
         transform="translate(-147.13 -56.96)" />
     <path d="M481.79,488.33s13.78-12.68,20.95-5l3.09,6.34A23.93,23.93,0,0,0,481.79,488.33Z"
         opacity="0.1" transform="translate(-147.13 -56.96)" />
     <path d="M544.64,390.2s10.47-2.76,14.89,0" fill="none" opacity="0.1" stroke="#000"
-        stroke-miterlimit="10" stroke-width="2" transform="translate(-147.13 -56.96)" />
+        strokeMiterlimit="10" strokeWidth="2" transform="translate(-147.13 -56.96)" />
     <path d="M511,351.6s-3.86,9.37-2.76,18.19" fill="none" opacity="0.1" stroke="#000"
-        stroke-miterlimit="10" stroke-width="2" transform="translate(-147.13 -56.96)" />
+        strokeMiterlimit="10" strokeWidth="2" transform="translate(-147.13 -56.96)" />
     <path d="M491.16,379.17s-4.41,7.72,3.86,20.4" fill="none" opacity="0.1" stroke="#000"
-        stroke-miterlimit="10" stroke-width="2" transform="translate(-147.13 -56.96)" />
+        strokeMiterlimit="10" strokeWidth="2" transform="translate(-147.13 -56.96)" />
     <polygon opacity="0.1" points="350.1 353.09 358.92 347.02 358.92 349.78 350.1 353.09" />
-    <line fill="none" opacity="0.1" stroke="#000" stroke-miterlimit="10" stroke-width="2" x1="373.8"
+    <line fill="none" opacity="0.1" stroke="#000" strokeMiterlimit="10" strokeWidth="2" x1="373.8"
         x2="384.83" y1="381.75" y2="379.55" />
     <path d="M517.62,444.22s14.89-5.51,16.54-4.41,6.06-1.1,6.06-1.1" fill="none" opacity="0.1"
-        stroke="#000" stroke-miterlimit="10" stroke-width="2" transform="translate(-147.13 -56.96)" />
+        stroke="#000" strokeMiterlimit="10" strokeWidth="2" transform="translate(-147.13 -56.96)" />
     <path d="M551.8,395.71s13.23-6.06,20.4,5.51" fill="none" opacity="0.1" stroke="#000"
-        stroke-miterlimit="10" stroke-width="2" transform="translate(-147.13 -56.96)" />
+        strokeMiterlimit="10" strokeWidth="2" transform="translate(-147.13 -56.96)" />
     <path d="M492.26,373.66s14.89-2.76,19.85,1.65" fill="none" opacity="0.1" stroke="#000"
-        stroke-miterlimit="10" stroke-width="2" transform="translate(-147.13 -56.96)" />
+        strokeMiterlimit="10" strokeWidth="2" transform="translate(-147.13 -56.96)" />
     <path d="M588.74,342.23s-3.86,12.68-11,18.19" fill="none" opacity="0.1" stroke="#000"
-        stroke-miterlimit="10" stroke-width="2" transform="translate(-147.13 -56.96)" />
+        strokeMiterlimit="10" strokeWidth="2" transform="translate(-147.13 -56.96)" />
     <path d="M608.59,406.73s8.82,21.5,23.71,17.64" opacity="0.1"
         transform="translate(-147.13 -56.96)" />
     <path d="M637.81,561.65s16.73-13.78,18-30.32" opacity="0.1"
         transform="translate(-147.13 -56.96)" />
-    <line fill="none" opacity="0.1" stroke="#000" stroke-miterlimit="10" stroke-width="2"
+    <line fill="none" opacity="0.1" stroke="#000" strokeMiterlimit="10" strokeWidth="2"
         x1="489.58" x2="505.67" y1="445.71" y2="441.28" />
     <path d="M569.45,580.4s27-8.82,27.57-43.55" opacity="0.1" transform="translate(-147.13 -56.96)" />
-    <line fill="none" opacity="0.1" stroke="#000" stroke-miterlimit="10" stroke-width="2"
+    <line fill="none" opacity="0.1" stroke="#000" strokeMiterlimit="10" strokeWidth="2"
         x1="438.31" x2="441.61" y1="570.3" y2="523.44" />
-    <line fill="none" opacity="0.1" stroke="#000" stroke-miterlimit="10" stroke-width="2"
+    <line fill="none" opacity="0.1" stroke="#000" strokeMiterlimit="10" strokeWidth="2"
         x1="448.23" x2="453.19" y1="568.1" y2="523.44" />
     </svg>
   )

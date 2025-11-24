@@ -31,12 +31,12 @@ export const Marilyn = (props: MarilynProps) => {
     <ellipse cx="619.39" cy="797.02" fill="var(--color-primary)" opacity="0.1" rx="185.38"
         ry="42.24" />
     <path d="M902,716.81s16.42,32.24,3,49.88,1.22,65.7,1.22,65.7" fill="none" stroke="#6c63ff"
-        stroke-miterlimit="10" transform="translate(-120 -30.37)" />
+        strokeMiterlimit="10" transform="translate(-120 -30.37)" />
     <path
         d="M906.9,706.78c0,6.22-4.56,11.25-4.56,11.25s-4.56-5-4.56-11.25,4.56-11.25,4.56-11.25S906.9,700.56,906.9,706.78Z"
         fill="var(--color-primary)" transform="translate(-120 -30.37)" />
     <path d="M910.55,716.81s-16.42,32.24-3,49.88-1.22,65.7-1.22,65.7" fill="none" stroke="#6c63ff"
-        stroke-miterlimit="10" transform="translate(-120 -30.37)" />
+        strokeMiterlimit="10" transform="translate(-120 -30.37)" />
     <path
         d="M905.68,706.78c0,6.22,4.56,11.25,4.56,11.25s4.56-5,4.56-11.25-4.56-11.25-4.56-11.25S905.68,700.56,905.68,706.78Z"
         fill="var(--color-primary)" transform="translate(-120 -30.37)" />
@@ -44,7 +44,7 @@ export const Marilyn = (props: MarilynProps) => {
         d="M905.68,706.78c0,6.22,4.56,11.25,4.56,11.25s4.56-5,4.56-11.25-4.56-11.25-4.56-11.25S905.68,700.56,905.68,706.78Z"
         opacity="0.1" transform="translate(-120 -30.37)" />
     <path d="M917.24,716.81s16.42,32.24,3,49.88,1.22,65.7,1.22,65.7" fill="none" stroke="#6c63ff"
-        stroke-miterlimit="10" transform="translate(-120 -30.37)" />
+        strokeMiterlimit="10" transform="translate(-120 -30.37)" />
     <path
         d="M922.11,706.78c0,6.22-4.56,11.25-4.56,11.25S913,713,913,706.78s4.56-11.25,4.56-11.25S922.11,700.56,922.11,706.78Z"
         fill="var(--color-primary)" transform="translate(-120 -30.37)" />
@@ -64,7 +64,7 @@ export const Marilyn = (props: MarilynProps) => {
         d="M900.39,719.66c5.18,3.43,6.86,10,6.86,10s-6.72,1-11.9-2.41-6.86-10-6.86-10S895.21,716.22,900.39,719.66Z"
         opacity="0.1" transform="translate(-120 -30.37)" />
     <path d="M925.76,716.81s-16.42,32.24-3,49.88-1.22,65.7-1.22,65.7" fill="none" stroke="#6c63ff"
-        stroke-miterlimit="10" transform="translate(-120 -30.37)" />
+        strokeMiterlimit="10" transform="translate(-120 -30.37)" />
     <path
         d="M920.89,706.78c0,6.22,4.56,11.25,4.56,11.25s4.56-5,4.56-11.25-4.56-11.25-4.56-11.25S920.89,700.56,920.89,706.78Z"
         fill="var(--color-primary)" transform="translate(-120 -30.37)" />
@@ -81,15 +81,15 @@ export const Marilyn = (props: MarilynProps) => {
         d="M930.76,763.89c-4.36,4.43-4.65,11.22-4.65,11.22s6.79-.39,11.15-4.81,4.65-11.22,4.65-11.22S935.12,759.46,930.76,763.89Z"
         fill="var(--color-primary)" transform="translate(-120 -30.37)" />
     <path d="M918.17,757.12s9.89-15.58,23.76-15.92" fill="none" stroke="#6c63ff"
-        stroke-miterlimit="10" transform="translate(-120 -30.37)" />
+        strokeMiterlimit="10" transform="translate(-120 -30.37)" />
     <path d="M910.47,747.71s-9.89-15.58-23.76-15.92" fill="none" stroke="#6c63ff"
-        stroke-miterlimit="10" transform="translate(-120 -30.37)" />
+        strokeMiterlimit="10" transform="translate(-120 -30.37)" />
     <path d="M909.19,769.95S919.08,754.36,933,754" fill="none" stroke="#6c63ff"
-        stroke-miterlimit="10" transform="translate(-120 -30.37)" />
+        strokeMiterlimit="10" transform="translate(-120 -30.37)" />
     <circle cx="821.48" cy="710.71" fill="var(--color-primary)" r="2.57" />
     <circle cx="766.95" cy="701.51" fill="var(--color-primary)" r="2.57" />
     <path d="M916.46,775.08s-9.89-15.58-23.76-15.92" fill="none" stroke="#6c63ff"
-        stroke-miterlimit="10" transform="translate(-120 -30.37)" />
+        strokeMiterlimit="10" transform="translate(-120 -30.37)" />
     <circle cx="772.94" cy="728.88" fill="var(--color-primary)" r="2.57" />
     <circle cx="813.14" cy="723.75" fill="var(--color-primary)" r="2.57" />
     <path
@@ -227,7 +227,7 @@ export const Marilyn = (props: MarilynProps) => {
         d="M684.48,446.31s13.14-19.71,21.59-16.9,27.61-.28,27.61-.28l-4.15,14.36-21.59,2.82-19.71,6.57Z"
         fill="#fff" transform="translate(-120 -30.37)" />
     <path d="M859.3,416.13s27,5.77,43.88-12.06,11.26-33.79,20.65-43.18,18.77-17.83,16.9-25.34"
-        fill="none" opacity="0.05" stroke="#000" stroke-miterlimit="10" stroke-width="2"
+        fill="none" opacity="0.05" stroke="#000" strokeMiterlimit="10" strokeWidth="2"
         transform="translate(-120 -30.37)" />
     <path
         d="M835.13,843.82H803.21a17.23,17.23,0,0,1,1.38-1.41h29C834.08,842.84,834.6,843.32,835.13,843.82Z"

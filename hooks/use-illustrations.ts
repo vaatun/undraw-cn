@@ -3,28 +3,22 @@
 import * as React from "react"
 import type { RegistryItem } from "./use-registry"
 
-interface ComponentData {
-  name: string
-  type: string
-  files: Array<{
-    path: string
-    content: string
-    type: string
-  }>
-}
-
 export function useIllustrations(filteredItems: RegistryItem[]) {
   const [illustrations, setIllustrations] = React.useState<
-    Map<string, ComponentData>
+    Map<string, React.ComponentType<{ className?: string }>>
   >(new Map())
 
   React.useEffect(() => {
     filteredItems.forEach((item) => {
       if (!illustrations.has(item.name)) {
-        fetch(`/r/${item.name}.json`)
-          .then((res) => res.json())
-          .then((data: ComponentData) => {
-            setIllustrations((prev) => new Map(prev).set(item.name, data))
+        import(`@/registry/new-york/illustrations/${item.name}/${item.name}`)
+          .then((mod) => {
+            const componentKey = Object.keys(mod).find(
+              (key) => key !== "default" && typeof mod[key] === "function"
+            )
+            if (componentKey) {
+              setIllustrations((prev) => new Map(prev).set(item.name, mod[componentKey]))
+            }
           })
           .catch((err) => {
             console.error(`Failed to load ${item.name}:`, err)

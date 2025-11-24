@@ -33,7 +33,7 @@ export const GirlsJustWannaHaveFun = (props: GirlsJustWannaHaveFunProps) => {
         fill="var(--color-primary)" opacity="0.1" transform="translate(-88.62 -47.15)" />
     <path
         d="M415.27,400.85s-46.81-21.58-62.83-58.55a78.1,78.1,0,0,0-32.73-37,131.35,131.35,0,0,0-21.88-9.91"
-        fill="none" stroke="#535461" stroke-miterlimit="10" stroke-width="2"
+        fill="none" stroke="#535461" strokeMiterlimit="10" strokeWidth="2"
         transform="translate(-88.62 -47.15)" />
     <path
         d="M287.58,272.16c4.56,4,10.57,23.81,10.57,23.81s-20.45-3.3-25-7.29a11,11,0,1,1,14.44-16.52Z"
@@ -78,12 +78,12 @@ export const GirlsJustWannaHaveFun = (props: GirlsJustWannaHaveFunProps) => {
         d="M372.5,403.28c5.92-1.3,20.74-15.78,20.74-15.78s-19.51-7-25.43-5.66a11,11,0,0,0,4.7,21.44Z"
         fill="var(--color-primary)" opacity="0.1" transform="translate(-88.62 -47.15)" />
     <path d="M805.78,597.2s17.5,34.35,3.24,53.14,1.3,70,1.3,70" fill="none" stroke="#6c63ff"
-        stroke-miterlimit="10" transform="translate(-88.62 -47.15)" />
+        strokeMiterlimit="10" transform="translate(-88.62 -47.15)" />
     <path
         d="M811,586.5c0,6.62-4.86,12-4.86,12s-4.86-5.37-4.86-12,4.86-12,4.86-12S811,579.88,811,586.5Z"
         fill="var(--color-primary)" transform="translate(-88.62 -47.15)" />
     <path d="M814.85,597.2s-17.5,34.35-3.24,53.14-1.3,70-1.3,70" fill="none" stroke="#6c63ff"
-        stroke-miterlimit="10" transform="translate(-88.62 -47.15)" />
+        strokeMiterlimit="10" transform="translate(-88.62 -47.15)" />
     <path
         d="M809.67,586.5c0,6.62,4.86,12,4.86,12s4.86-5.37,4.86-12-4.86-12-4.86-12S809.67,579.88,809.67,586.5Z"
         fill="var(--color-primary)" transform="translate(-88.62 -47.15)" />
@@ -91,7 +91,7 @@ export const GirlsJustWannaHaveFun = (props: GirlsJustWannaHaveFunProps) => {
         d="M809.67,586.5c0,6.62,4.86,12,4.86,12s4.86-5.37,4.86-12-4.86-12-4.86-12S809.67,579.88,809.67,586.5Z"
         opacity="0.1" transform="translate(-88.62 -47.15)" />
     <path d="M822,597.2s17.5,34.35,3.24,53.14,1.3,70,1.3,70" fill="none" stroke="#6c63ff"
-        stroke-miterlimit="10" transform="translate(-88.62 -47.15)" />
+        strokeMiterlimit="10" transform="translate(-88.62 -47.15)" />
     <path
         d="M827.17,586.5c0,6.62-4.86,12-4.86,12s-4.86-5.37-4.86-12,4.86-12,4.86-12S827.17,579.88,827.17,586.5Z"
         fill="var(--color-primary)" transform="translate(-88.62 -47.15)" />
@@ -111,7 +111,7 @@ export const GirlsJustWannaHaveFun = (props: GirlsJustWannaHaveFunProps) => {
         d="M804,600.22c5.52,3.66,7.31,10.68,7.31,10.68s-7.16,1.09-12.68-2.57-7.31-10.68-7.31-10.68S798.51,596.56,804,600.22Z"
         opacity="0.1" transform="translate(-88.62 -47.15)" />
     <path d="M831.05,597.2s-17.5,34.35-3.24,53.14-1.3,70-1.3,70" fill="none" stroke="#6c63ff"
-        stroke-miterlimit="10" transform="translate(-88.62 -47.15)" />
+        strokeMiterlimit="10" transform="translate(-88.62 -47.15)" />
     <path
         d="M825.87,586.5c0,6.62,4.86,12,4.86,12s4.86-5.37,4.86-12-4.86-12-4.86-12S825.87,579.88,825.87,586.5Z"
         fill="var(--color-primary)" transform="translate(-88.62 -47.15)" />
@@ -127,16 +127,16 @@ export const GirlsJustWannaHaveFun = (props: GirlsJustWannaHaveFunProps) => {
     <path
         d="M836.38,647.34c-4.65,4.72-5,12-5,12s7.23-.41,11.88-5.13,5-12,5-12S841,642.63,836.38,647.34Z"
         fill="var(--color-primary)" transform="translate(-88.62 -47.15)" />
-    <path d="M823,640.13s10.53-16.6,25.32-17" fill="none" stroke="#6c63ff" stroke-miterlimit="10"
+    <path d="M823,640.13s10.53-16.6,25.32-17" fill="none" stroke="#6c63ff" strokeMiterlimit="10"
         transform="translate(-88.62 -47.15)" />
     <path d="M814.77,630.11s-10.53-16.6-25.32-17" fill="none" stroke="#6c63ff"
-        stroke-miterlimit="10" transform="translate(-88.62 -47.15)" />
-    <path d="M813.4,653.8s10.53-16.6,25.32-17" fill="none" stroke="#6c63ff" stroke-miterlimit="10"
+        strokeMiterlimit="10" transform="translate(-88.62 -47.15)" />
+    <path d="M813.4,653.8s10.53-16.6,25.32-17" fill="none" stroke="#6c63ff" strokeMiterlimit="10"
         transform="translate(-88.62 -47.15)" />
     <circle cx="759.19" cy="575.9" fill="var(--color-primary)" r="2.73" />
     <circle cx="701.09" cy="566.1" fill="var(--color-primary)" r="2.73" />
     <path d="M821.15,659.27s-10.53-16.6-25.32-17" fill="none" stroke="#6c63ff"
-        stroke-miterlimit="10" transform="translate(-88.62 -47.15)" />
+        strokeMiterlimit="10" transform="translate(-88.62 -47.15)" />
     <circle cx="707.47" cy="595.26" fill="var(--color-primary)" r="2.73" />
     <circle cx="750.31" cy="589.8" fill="var(--color-primary)" r="2.73" />
     <path

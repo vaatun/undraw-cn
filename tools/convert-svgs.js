@@ -64,6 +64,64 @@ function parseStyleAttribute(styleString) {
   return styles;
 }
 
+// Convert SVG attributes to camelCase for React
+function convertSVGAttributes(content) {
+  const attributeMap = {
+    'stroke-width': 'strokeWidth',
+    'stroke-miterlimit': 'strokeMiterlimit',
+    'stroke-linecap': 'strokeLinecap',
+    'stroke-linejoin': 'strokeLinejoin',
+    'stroke-dasharray': 'strokeDasharray',
+    'stroke-dashoffset': 'strokeDashoffset',
+    'fill-opacity': 'fillOpacity',
+    'stroke-opacity': 'strokeOpacity',
+    'font-family': 'fontFamily',
+    'font-size': 'fontSize',
+    'font-weight': 'fontWeight',
+    'text-anchor': 'textAnchor',
+    'text-decoration': 'textDecoration',
+    'clip-path': 'clipPath',
+    'clip-rule': 'clipRule',
+    'fill-rule': 'fillRule',
+  };
+
+  Object.entries(attributeMap).forEach(([kebab, camel]) => {
+    const regex = new RegExp(`\\s${kebab}="([^"]*)"`, 'g');
+    content = content.replace(regex, ` ${camel}="$1"`);
+  });
+
+  return content;
+}
+
+// Convert isolation attributes to style format
+function convertCSSAttributes(content) {
+  // Handle isolation before style (with possible whitespace/attributes between)
+  content = content.replace(
+    /isolation="isolate"\s+([^>]*?)style="([^"]*)"/g,
+    (match, between, styleValue) => {
+      const newStyleValue = `isolation: isolate; ${styleValue}`;
+      return `${between}style="${newStyleValue}"`;
+    }
+  );
+
+  // Handle style before isolation (with possible whitespace/attributes between)
+  content = content.replace(
+    /style="([^"]*)"\s+([^>]*?)isolation="isolate"/g,
+    (match, styleValue, between) => {
+      const newStyleValue = `isolation: isolate; ${styleValue}`;
+      return `style="${newStyleValue}"${between}`;
+    }
+  );
+
+  // Convert remaining isolation attributes (no existing style) to style
+  content = content.replace(
+    /isolation="isolate"/g,
+    'style="isolation: isolate"'
+  );
+
+  return content;
+}
+
 // Convert style attributes to JSX format
 function convertStyleAttributes(content) {
   return content.replace(/style="([^"]*)"/g, (match, styleString) => {
@@ -87,6 +145,12 @@ function parseSVG(svgContent) {
   // Extract the content between <svg> tags
   const contentMatch = svgContent.match(/<svg[^>]*>([\s\S]*)<\/svg>/);
   let innerContent = contentMatch ? contentMatch[1].trim() : '';
+
+  // Convert SVG attributes to camelCase (before style conversion)
+  innerContent = convertSVGAttributes(innerContent);
+
+  // Convert isolation attributes to style format (before style conversion)
+  innerContent = convertCSSAttributes(innerContent);
 
   // Convert style attributes to JSX format
   innerContent = convertStyleAttributes(innerContent);

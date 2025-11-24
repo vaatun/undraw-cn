@@ -35,13 +35,13 @@ export const ServerDown = (props: ServerDownProps) => {
     <ellipse cx="198.60911" cy="424.5" opacity="0.1" rx="157" ry="21.35866" />
     <ellipse cx="836.60911" cy="660.5" fill="#3f3d56" rx="283" ry="38.5" />
     <ellipse cx="310.60911" cy="645.5" fill="#3f3d56" rx="170" ry="23.12721" />
-    <path d="M494,726.5c90,23,263-30,282-90" fill="none" stroke="#2f2e41" stroke-miterlimit="10"
-        stroke-width="2" transform="translate(-31.39089 -100.5)" />
+    <path d="M494,726.5c90,23,263-30,282-90" fill="none" stroke="#2f2e41" strokeMiterlimit="10"
+        strokeWidth="2" transform="translate(-31.39089 -100.5)" />
     <path d="M341,359.5s130-36,138,80-107,149-17,172" fill="none" stroke="#2f2e41"
-        stroke-miterlimit="10" stroke-width="2" transform="translate(-31.39089 -100.5)" />
+        strokeMiterlimit="10" strokeWidth="2" transform="translate(-31.39089 -100.5)" />
     <path
         d="M215.40233,637.78332s39.0723-10.82,41.47675,24.04449-32.15951,44.78287-5.10946,51.69566"
-        fill="none" stroke="#2f2e41" stroke-miterlimit="10" stroke-width="2"
+        fill="none" stroke="#2f2e41" strokeMiterlimit="10" strokeWidth="2"
         transform="translate(-31.39089 -100.5)" />
     <path
         d="M810.09554,663.73988,802.218,714.03505s-38.78182,20.60284-11.51335,21.20881,155.73324,0,155.73324,0,24.84461,0-14.54318-21.81478l-7.87756-52.719Z"

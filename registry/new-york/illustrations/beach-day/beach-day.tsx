@@ -19,10 +19,10 @@ export const BeachDay = (props: BeachDayProps) => {
         fill="var(--color-primary)" />
     <path
         d="M394.07971,55.60182L116.93066,208.26465c-32.01562,41.04785,576.32227,43.58545,571.30177,.15088L419.48215,55.7528c-7.64948-4.34526-17.67978-4.40488-25.40244-.15098Z"
-        isolation="isolate" opacity=".2" />
+        style={{isolation: "isolate"}} opacity=".2" />
     <path
         d="M687.08313,756.35742l-70.49878-1.50256H133.16432L0,751.84973c441.47836-104.33716,305.73724-95.35333,687.08313,4.50769Z"
-        fill="#f2f2f2" isolation="isolate" opacity=".8" />
+        fill="#f2f2f2" style={{isolation: "isolate"}} opacity=".8" />
     <path
         d="M622.1795,751.84973l-5.59515,3.00513H133.16432c330.45421-68.21252,132.33598-62.20673,489.01518-3.00513Z"
         fill="#e6e6e6" />

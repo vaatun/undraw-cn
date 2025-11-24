@@ -21,10 +21,10 @@ export const Nakamoto = (props: NakamotoProps) => {
     <rect fill="#3f3d56" height="2" width="155" x="310.49413" y="364.99986" />
     <rect fill="#3f3d56" height="85" width="2" x="244.49413" y="391.99986" />
     <rect fill="#3f3d56" height="2" width="235" x="262.49413" y="491.99986" />
-    <path d="M623.24692,551.05234" fill="none" stroke="#3f3d56" stroke-miterlimit="10"
-        stroke-width="2" transform="translate(-109.75308 -74.05234)" />
-    <path d="M623.24692,469.05234" fill="none" stroke="#3f3d56" stroke-miterlimit="10"
-        stroke-width="2" transform="translate(-109.75308 -74.05234)" />
+    <path d="M623.24692,551.05234" fill="none" stroke="#3f3d56" strokeMiterlimit="10"
+        strokeWidth="2" transform="translate(-109.75308 -74.05234)" />
+    <path d="M623.24692,469.05234" fill="none" stroke="#3f3d56" strokeMiterlimit="10"
+        strokeWidth="2" transform="translate(-109.75308 -74.05234)" />
     <rect fill="#3f3d56" height="101" width="2" x="691.49413" y="48.99986" />
     <rect fill="#3f3d56" height="2" width="147.03418" x="529.45995" y="165.99986" />
     <rect fill="#3f3d56" height="135" width="2" x="512.49399" y="181.9999" />

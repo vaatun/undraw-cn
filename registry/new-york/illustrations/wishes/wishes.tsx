@@ -33,7 +33,7 @@ export const Wishes = (props: WishesProps) => {
         fill="var(--color-primary)" opacity="0.1" transform="translate(-131.37 -44.87)" />
     <path
         d="M242.15,749.65s24.67-83.76-4.63-145.41c-12.3-25.87-16.38-54.92-10.7-83a222.5,222.5,0,0,1,11.75-39"
-        fill="none" stroke="#535461" stroke-miterlimit="10" stroke-width="2"
+        fill="none" stroke="#535461" strokeMiterlimit="10" strokeWidth="2"
         transform="translate(-131.37 -44.87)" />
     <path
         d="M220.35,443.33c0,10.27,18.59,40,18.59,40s18.59-29.77,18.59-40a18.59,18.59,0,0,0-37.17,0Z"
@@ -79,7 +79,7 @@ export const Wishes = (props: WishesProps) => {
         opacity="0.25" transform="translate(-131.37 -44.87)" />
     <path
         d="M369.44,724.14s13.36-45.35-2.5-78.72a71.62,71.62,0,0,1-5.79-44.93,120.46,120.46,0,0,1,6.36-21.09"
-        fill="none" stroke="#535461" stroke-miterlimit="10" stroke-width="2"
+        fill="none" stroke="#535461" strokeMiterlimit="10" strokeWidth="2"
         transform="translate(-131.37 -44.87)" />
     <path
         d="M357.64,558.3c0,5.56,10.06,21.67,10.06,21.67s10.06-16.12,10.06-21.67a10.06,10.06,0,0,0-20.13,0Z"
@@ -354,10 +354,10 @@ export const Wishes = (props: WishesProps) => {
         d="M971.2,657.65s74.33,54.11-76.56,114.45c0,0-26.73-61.9,12.67-107.07a47.66,47.66,0,0,1,62.77-8.16Z"
         fill="var(--color-primary)" transform="translate(-131.37 -44.87)" />
     <path d="M970.38,656.57s-71.57,45.54-75.74,115.52" fill="none" stroke="#535461"
-        stroke-miterlimit="10" transform="translate(-131.37 -44.87)" />
+        strokeMiterlimit="10" transform="translate(-131.37 -44.87)" />
     <path
         d="M893.1,764s24.67-83.76-4.63-145.41c-12.3-25.87-16.38-54.92-10.7-83a222.5,222.5,0,0,1,11.75-39"
-        fill="none" stroke="#535461" stroke-miterlimit="10" stroke-width="2"
+        fill="none" stroke="#535461" strokeMiterlimit="10" strokeWidth="2"
         transform="translate(-131.37 -44.87)" />
     <path
         d="M871.29,457.7c0,10.27,18.59,40,18.59,40s18.59-29.77,18.59-40a18.59,18.59,0,0,0-37.17,0Z"

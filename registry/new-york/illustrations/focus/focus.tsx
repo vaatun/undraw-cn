@@ -42,7 +42,7 @@ export const Focus = (props: FocusProps) => {
     <g opacity="0.1">
         <path
             d="M643,654.59s25.94-61.45,74.38-84.24c20.33-9.57,37.14-24.91,47.44-44.28a165,165,0,0,0,11.89-28.72"
-            fill="none" stroke="#535461" stroke-miterlimit="10" stroke-width="2"
+            fill="none" stroke="#535461" strokeMiterlimit="10" strokeWidth="2"
             transform="translate(-84.38 -34.7)" />
         <path
             d="M807.18,482.81c-5,6.11-31.18,15-31.18,15s3.14-26.48,8.19-32.58A15.09,15.09,0,0,1,804.83,463,13.74,13.74,0,0,1,807.18,482.81Z"
@@ -90,7 +90,7 @@ export const Focus = (props: FocusProps) => {
     <g opacity="0.1">
         <path
             d="M662.45,561.56s3.27-66.25,41.1-103.2C719.43,442.86,730,423,733,401.47a162.46,162.46,0,0,0,1.32-30.88"
-            fill="none" stroke="#535461" stroke-miterlimit="10" stroke-width="2"
+            fill="none" stroke="#535461" strokeMiterlimit="10" strokeWidth="2"
             transform="translate(-84.38 -34.7)" />
         <path
             d="M758,347.17c-2.65,7.36-24.24,24.1-24.24,24.1s-6.16-26-3.51-33.36A14.85,14.85,0,0,1,749,329.2,14,14,0,0,1,758,347.17Z"

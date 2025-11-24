@@ -23,7 +23,7 @@ export const NotFound = (props: NotFoundProps) => {
         <rect fill="#2f2e41" height="37.66125" width="36.38461" x="381.84177" y="30.34218" />
         <polygon fill="#ffb6b6"
             points="385.16196 70.18643 394.16196 43.18643 411.70447 43.18643 412.62653 70.18643 385.16196 70.18643" />
-        <polygon isolation="isolate" opacity=".1"
+        <polygon style={{isolation: "isolate"}} opacity=".1"
             points="385.16196 70.18643 394.16196 43.18643 411.70447 43.18643 412.62653 70.18643 385.16196 70.18643" />
         <path
             d="M394.66196,310.68642l-1,104-1,8v11.48425l15,1.51575,1-23s16-45,12-80-2-25-2-25l-24,3Z"

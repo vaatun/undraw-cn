@@ -21,39 +21,39 @@ export const PersonalNotes = (props: PersonalNotesProps) => {
         fill="#57b894" transform="translate(-194.14155 -107.75)" />
     <path
         d="M900.99471,568.45269c5.86434-7.19773,2.82261-17.97165-1.46524-26.20646s-9.757-16.99552-7.87174-26.08635c2.70952-13.06514,18.09575-18.15106,30.53479-22.97907a125.30021,125.30021,0,0,0,26.13329-13.89765c3.25992-2.26529,6.46588-4.741,8.74038-7.99445,3.27553-4.68539,4.32325-10.52684,5.24887-16.16823q4.62529-28.18969,7.91667-56.57676"
-        fill="none" stroke="#3f3d56" stroke-miterlimit="10"
+        fill="none" stroke="#3f3d56" strokeMiterlimit="10"
         transform="translate(-194.14155 -107.75)" />
     <path
         d="M982.1109,467.77433a20.81252,20.81252,0,1,1,16.33087-36.52684l-5.49886,9.20789,8.791-5.71713a20.734,20.734,0,0,1,3.91329,15.37031,20.40864,20.40864,0,0,1-1.592,5.53119A20.80855,20.80855,0,0,1,982.1109,467.77433Z"
-        fill="none" stroke="#3f3d56" stroke-miterlimit="10"
+        fill="none" stroke="#3f3d56" strokeMiterlimit="10"
         transform="translate(-194.14155 -107.75)" />
     <path
         d="M990.83275,405.33352a20.78819,20.78819,0,0,0-7.01064-18.693l-6.30275,8.18053,2.22782-10.93287a20.81,20.81,0,1,0,11.08557,21.4453Z"
         fill="#57b894" transform="translate(-194.14155 -107.75)" />
     <path
         d="M991.5541,401.55094a20.7882,20.7882,0,0,0-7.01064-18.693l-6.30276,8.18053,2.22783-10.93287a20.81,20.81,0,1,0,11.08557,21.4453Z"
-        fill="none" stroke="#3f3d56" stroke-miterlimit="10"
+        fill="none" stroke="#3f3d56" strokeMiterlimit="10"
         transform="translate(-194.14155 -107.75)" />
     <path
         d="M925.31934,495.08155a20.81,20.81,0,0,1,1.16215-41.33508l-1.71221,8.40143,6.37461-8.27825a.36188.36188,0,0,1,.0562.00719,20.81112,20.81112,0,1,1-5.88075,41.20471Z"
         fill="#57b894" transform="translate(-194.14155 -107.75)" />
     <path
         d="M926.19767,491.32891a20.81,20.81,0,0,1,1.16215-41.33508l-1.71221,8.40143,6.37461-8.27825a.36188.36188,0,0,1,.0562.00719,20.81112,20.81112,0,1,1-5.88075,41.20471Z"
-        fill="none" stroke="#3f3d56" stroke-miterlimit="10"
+        fill="none" stroke="#3f3d56" strokeMiterlimit="10"
         transform="translate(-194.14155 -107.75)" />
     <path
         d="M928.18051,535.77362a20.80131,20.80131,0,1,1,4.12738-16.26818l-14.748,7.95391,14.66521-.57678A20.61632,20.61632,0,0,1,928.18051,535.77362Z"
         fill="#57b894" transform="translate(-194.14155 -107.75)" />
     <path
         d="M928.72152,532.93669a20.80131,20.80131,0,1,1,4.12738-16.26819l-14.748,7.95392,14.66521-.57678A20.61637,20.61637,0,0,1,928.72152,532.93669Z"
-        fill="none" stroke="#3f3d56" stroke-miterlimit="10"
+        fill="none" stroke="#3f3d56" strokeMiterlimit="10"
         transform="translate(-194.14155 -107.75)" />
     <rect fill="var(--color-primary)" height="77" width="69" x="160" y="7.5" />
-    <rect fill="none" height="77" stroke="#3f3d56" stroke-miterlimit="10" width="69" x="172" y="0.5" />
+    <rect fill="none" height="77" stroke="#3f3d56" strokeMiterlimit="10" width="69" x="172" y="0.5" />
     <rect fill="#f2f2f2" height="77" width="69" y="94.5" />
-    <rect fill="none" height="77" stroke="#3f3d56" stroke-miterlimit="10" width="69" x="12" y="87.5" />
+    <rect fill="none" height="77" stroke="#3f3d56" strokeMiterlimit="10" width="69" x="12" y="87.5" />
     <rect fill="var(--color-primary)" height="77" width="69" x="311" y="129.5" />
-    <rect fill="none" height="77" stroke="#3f3d56" stroke-miterlimit="10" width="69" x="323"
+    <rect fill="none" height="77" stroke="#3f3d56" strokeMiterlimit="10" width="69" x="323"
         y="122.5" />
     <ellipse cx="489.5" cy="472.5" fill="#36334a" rx="86.5" ry="98.09962" />
     <path

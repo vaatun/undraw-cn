@@ -140,16 +140,16 @@ export const Fishing = (props: FishingProps) => {
     <path
         d="M628.26,257.61s-26.13-2.9-21.77,34.83c0,0,17.42-10.16,31.93,0C638.42,292.44,644.22,264.87,628.26,257.61Z"
         fill="#cbcdda" transform="translate(-67.69 -50.53)" />
-    <line fill="none" stroke="#535461" stroke-miterlimit="10" stroke-width="2" x1="296.78"
+    <line fill="none" stroke="#535461" strokeMiterlimit="10" strokeWidth="2" x1="296.78"
         x2="288.21" y1="158.86" y2="589.1" />
     <path d="M334.49,608.57s-32.12,19.27-11.78,62.11" fill="none" opacity="0.15" stroke="#6c63ff"
-        stroke-miterlimit="10" transform="translate(-67.69 -50.53)" />
+        strokeMiterlimit="10" transform="translate(-67.69 -50.53)" />
     <path d="M349.48,616.07s-32.12,19.27-11.78,62.11" fill="none" opacity="0.15" stroke="#6c63ff"
-        stroke-miterlimit="10" transform="translate(-67.69 -50.53)" />
+        strokeMiterlimit="10" transform="translate(-67.69 -50.53)" />
     <path d="M366.61,608.57s32.12,19.27,11.78,62.11" fill="none" opacity="0.15" stroke="#6c63ff"
-        stroke-miterlimit="10" transform="translate(-67.69 -50.53)" />
+        strokeMiterlimit="10" transform="translate(-67.69 -50.53)" />
     <path d="M354.83,619.28s32.12,19.27,11.78,62.11" fill="none" opacity="0.15" stroke="#6c63ff"
-        stroke-miterlimit="10" transform="translate(-67.69 -50.53)" />
+        strokeMiterlimit="10" transform="translate(-67.69 -50.53)" />
     <path
         d="M226.57,109H219.2a5.16,5.16,0,0,0,0-10.32H159.52a5.16,5.16,0,1,0,0,10.32h7.37a5.16,5.16,0,0,0,0,10.32H156.57a5.16,5.16,0,0,0,0,10.32h59.68a5.16,5.16,0,0,0,0-10.32h10.32a5.16,5.16,0,1,0,0-10.32Z"
         fill="var(--color-primary)" opacity="0.1" transform="translate(-67.69 -50.53)" />

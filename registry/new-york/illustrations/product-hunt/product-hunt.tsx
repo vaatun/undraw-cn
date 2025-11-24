@@ -172,10 +172,10 @@ export const ProductHunt = (props: ProductHuntProps) => {
     <path
         d="M549.11,386.41H551a0,0,0,0,1,0,0v17.68a0,0,0,0,1,0,0h-1.93a6.21,6.21,0,0,1-6.21-6.21v-5.27a6.21,6.21,0,0,1,6.21-6.21Z"
         fill="#535461" />
-    <path d="M766.52,500.9s7.86,3.65,7.86-5.61" fill="none" stroke="#2b1f0e" stroke-linecap="round"
-        stroke-miterlimit="10" stroke-width="2" transform="translate(-184.74 -87.4)" />
-    <path d="M782.24,500.9s-7.86,3.65-7.86-5.61" fill="none" stroke="#2b1f0e" stroke-linecap="round"
-        stroke-miterlimit="10" stroke-width="2" transform="translate(-184.74 -87.4)" />
+    <path d="M766.52,500.9s7.86,3.65,7.86-5.61" fill="none" stroke="#2b1f0e" strokeLinecap="round"
+        strokeMiterlimit="10" strokeWidth="2" transform="translate(-184.74 -87.4)" />
+    <path d="M782.24,500.9s-7.86,3.65-7.86-5.61" fill="none" stroke="#2b1f0e" strokeLinecap="round"
+        strokeMiterlimit="10" strokeWidth="2" transform="translate(-184.74 -87.4)" />
     <ellipse cx="589.78" cy="404.09" fill="#f25f1d" rx="3.09" ry="3.93" />
     <ellipse cx="590.31" cy="646.1" fill="#cfd8dc" rx="17.6" ry="43.2" />
     <path

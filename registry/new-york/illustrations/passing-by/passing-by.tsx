@@ -65,7 +65,7 @@ export const PassingBy = (props: PassingByProps) => {
     <g>
         <polygon fill="#a0616a"
             points="539.79462 80.05389 534.25928 59.75782 559.16809 50.53233 561.93573 68.98329 539.79462 80.05389" />
-        <polygon isolation="isolate" opacity=".1"
+        <polygon style={{isolation: "isolate"}} opacity=".1"
             points="539.79462 80.05389 534.25928 59.75782 548.92847 53.57031 544.37091 77.49738 539.79462 80.05389" />
         <g>
             <path

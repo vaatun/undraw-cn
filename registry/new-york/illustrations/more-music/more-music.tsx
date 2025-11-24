@@ -64,7 +64,7 @@ export const MoreMusic = (props: MoreMusicProps) => {
         points="720.06 466.87 623.24 523.16 646.82 593.42 652.18 684.12 722.12 669.16 757.18 597.25 788.45 553.46 759.7 500.44 720.06 466.87" />
     <path
         d="M217.3,569.17s-32.86-68.34-16.38-125.28a114.87,114.87,0,0,0-2.44-72.64A193.24,193.24,0,0,0,183,339.5"
-        fill="none" stroke="#535461" stroke-miterlimit="10" stroke-width="2"
+        fill="none" stroke="#535461" strokeMiterlimit="10" strokeWidth="2"
         transform="translate(-58.07 -36.58)" />
     <path
         d="M193.13,303.55c1.44,8.8-10.33,36.92-10.33,36.92s-20.09-22.92-21.53-31.72a16.14,16.14,0,0,1,31.86-5.2Z"
@@ -110,7 +110,7 @@ export const MoreMusic = (props: MoreMusicProps) => {
         opacity="0.25" transform="translate(-58.07 -36.58)" />
     <path
         d="M217.45,566.66s-57.74-49.16-65.74-107.9A114.94,114.94,0,0,0,120,393.34,193.22,193.22,0,0,0,93,370.61"
-        fill="none" stroke="#535461" stroke-miterlimit="10" stroke-width="2"
+        fill="none" stroke="#535461" strokeMiterlimit="10" strokeWidth="2"
         transform="translate(-58.07 -36.58)" />
     <path
         d="M87.72,333.62c4.88,7.46,5.51,37.94,5.51,37.94S65.58,358.75,60.7,351.29a16.14,16.14,0,1,1,27-17.67Z"
@@ -377,21 +377,21 @@ export const MoreMusic = (props: MoreMusicProps) => {
     <path
         d="M1064,37.45s-2.61,36.48-27.41,28.85c0,0-4.59.25-6.09-4.08,0,0,1.89.18,1.73-3.55a16.7,16.7,0,0,1,.34-4,8.23,8.23,0,0,1,2.62-4.54h0s5.55-9.62,22.7-11.37c0,0,4-2.44,4.93-2.21l-3.41,5.77s-4.13-2.67-8-1.52c0,0,7.88,1.25,7.54,2.4-.07.23-2,3-2,3s-7.2-4.61-13.14-2.64c0,0,9.59.22,12.43,3.69l-3.07,4S1045.87,46,1039,48c0,0,10,.59,13.48,4.08l-3.55,3.5s-7.29-5-13-3.29c0,0,11.5,1.85,12.1,4,0,0-3.46,3-4.76,3.37,0,0-5.31-3.45-8.53-2.18,0,0,7.56,2.05,7.48,2.9,0,0-5.55,2.72-9.09,2.61a18.75,18.75,0,0,0,9.47-1.72,10.27,10.27,0,0,1-3.38,4.84s3.68,0,4.72-5.52c0,0,4.24-2.29,4.57-3,0,0-.26,5.54-2.18,8.66,0,0,3.79-2.47,3.16-9.56l3.65-3.43s0,7.35-1.47,10.26c0,0,3.48-3.12,2.32-11.2l3.06-3.85s.51,6.32-.46,9.92c0,0,2.6-3.59,1.29-11.06l1.74-2.82s.29,4.63.26,6,.32,1.46.32,1.46a15.81,15.81,0,0,0,.18-8.59S1063.66,37.28,1064,37.45Z"
         fill="var(--color-primary)" opacity="0.1" transform="translate(-58.07 -36.58)" />
-    <line fill="none" opacity="0.1" stroke="#000" stroke-miterlimit="10" x1="773.02" x2="808.92"
+    <line fill="none" opacity="0.1" stroke="#000" strokeMiterlimit="10" x1="773.02" x2="808.92"
         y1="597.25" y2="598.78" />
-    <line fill="none" opacity="0.1" stroke="#000" stroke-miterlimit="10" x1="767.18" x2="803.08"
+    <line fill="none" opacity="0.1" stroke="#000" strokeMiterlimit="10" x1="767.18" x2="803.08"
         y1="603.66" y2="605.19" />
-    <line fill="none" opacity="0.1" stroke="#000" stroke-miterlimit="10" x1="761.34" x2="797.24"
+    <line fill="none" opacity="0.1" stroke="#000" strokeMiterlimit="10" x1="761.34" x2="797.24"
         y1="610.06" y2="611.59" />
-    <line fill="none" opacity="0.1" stroke="#000" stroke-miterlimit="10" x1="755.49" x2="791.39"
+    <line fill="none" opacity="0.1" stroke="#000" strokeMiterlimit="10" x1="755.49" x2="791.39"
         y1="616.47" y2="618" />
-    <line fill="none" opacity="0.1" stroke="#000" stroke-miterlimit="10" x1="749.65" x2="785.55"
+    <line fill="none" opacity="0.1" stroke="#000" strokeMiterlimit="10" x1="749.65" x2="785.55"
         y1="622.87" y2="624.41" />
-    <line fill="none" opacity="0.1" stroke="#000" stroke-miterlimit="10" x1="743.81" x2="779.71"
+    <line fill="none" opacity="0.1" stroke="#000" strokeMiterlimit="10" x1="743.81" x2="779.71"
         y1="629.28" y2="630.81" />
-    <line fill="none" opacity="0.1" stroke="#000" stroke-miterlimit="10" x1="737.96" x2="773.86"
+    <line fill="none" opacity="0.1" stroke="#000" strokeMiterlimit="10" x1="737.96" x2="773.86"
         y1="635.69" y2="637.22" />
-    <line fill="none" opacity="0.1" stroke="#000" stroke-miterlimit="10" x1="732.12" x2="768.02"
+    <line fill="none" opacity="0.1" stroke="#000" strokeMiterlimit="10" x1="732.12" x2="768.02"
         y1="642.09" y2="643.62" />
     </svg>
   )

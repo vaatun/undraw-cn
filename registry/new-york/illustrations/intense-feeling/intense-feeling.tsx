@@ -130,23 +130,23 @@ export const IntenseFeeling = (props: IntenseFeelingProps) => {
     <path
         d="M441.238,499.64724s16.82049-9.65037,19.94313-7.23052,4.51,9.992,4.51,9.992l-19.44046,7.63044-5.701-10.45179Z"
         fill="#2f2e41" transform="translate(-69.34951 -42.79983)" />
-    <line fill="#3f3d56" stroke="#3f3d56" stroke-miterlimit="10" stroke-width="2" x1="291.73264"
+    <line fill="#3f3d56" stroke="#3f3d56" strokeMiterlimit="10" strokeWidth="2" x1="291.73264"
         x2="291.73264" y1="786.16036" y2="670.06684" />
     <circle cx="291.73264" cy="670.06684" fill="#3f3d56" r="16.41727" />
     <path d="M361.08215,784.41751s-2.34533-50.44293-50.42446-44.57962" fill="#3f3d56"
         transform="translate(-69.34951 -42.79983)" />
-    <line fill="#3f3d56" stroke="#3f3d56" stroke-miterlimit="10" stroke-width="2" x1="791.73264"
+    <line fill="#3f3d56" stroke="#3f3d56" strokeMiterlimit="10" strokeWidth="2" x1="791.73264"
         x2="791.73264" y1="700.16036" y2="584.06684" />
     <circle cx="791.73264" cy="584.06684" fill="#3f3d56" r="16.41727" />
     <path d="M861.08215,698.41751s-2.34533-50.44293-50.42446-44.57962" fill="#3f3d56"
         transform="translate(-69.34951 -42.79983)" />
-    <line fill="#3f3d56" stroke="#3f3d56" stroke-miterlimit="10" stroke-width="2" x1="994.45926"
+    <line fill="#3f3d56" stroke="#3f3d56" strokeMiterlimit="10" strokeWidth="2" x1="994.45926"
         x2="994.45926" y1="702.81504" y2="470.62799" />
     <circle cx="994.45926" cy="470.62799" fill="#3f3d56" r="16.41727" />
     <path d="M1063.80876,580.288s2.34533-50.44293,50.42446-44.57962" fill="#3f3d56"
         transform="translate(-69.34951 -42.79983)" />
     <path d="M1063.80876,741.10209s-10.55395-92.81816,50.42446-97.50881" fill="none"
-        stroke="#3f3d56" stroke-miterlimit="10" stroke-width="2"
+        stroke="#3f3d56" strokeMiterlimit="10" strokeWidth="2"
         transform="translate(-69.34951 -42.79983)" />
     <circle cx="1044.88372" cy="600.79346" fill="#3f3d56" r="16.41727" />
     </svg>

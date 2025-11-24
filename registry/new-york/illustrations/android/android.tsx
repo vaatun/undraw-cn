@@ -31,7 +31,7 @@ export const Android = (props: AndroidProps) => {
     <g opacity="0.1">
         <path
             d="M729,669.33s28.2-69.5,80.86-95.28A113.65,113.65,0,0,0,861.47,524,191.13,191.13,0,0,0,874.4,491.5"
-            fill="none" stroke="#535461" stroke-miterlimit="10" stroke-width="2"
+            fill="none" stroke="#535461" strokeMiterlimit="10" strokeWidth="2"
             transform="translate(-51.45 -46.05)" />
         <path d="M907.49,475.05c-5.49,6.9-33.9,17-33.9,17s3.42-30,8.91-36.85a16,16,0,0,1,25,19.88Z"
             fill="var(--color-primary)" transform="translate(-51.45 -46.05)" />
@@ -77,7 +77,7 @@ export const Android = (props: AndroidProps) => {
     <g opacity="0.1">
         <path
             d="M709,567.71s3.56-74.92,44.69-116.71a113.65,113.65,0,0,0,32-64.35,191.13,191.13,0,0,0,1.43-34.92"
-            fill="none" stroke="#535461" stroke-miterlimit="10" stroke-width="2"
+            fill="none" stroke="#535461" strokeMiterlimit="10" strokeWidth="2"
             transform="translate(-51.45 -46.05)" />
         <path
             d="M813,325.24c-2.89,8.33-26.35,27.26-26.35,27.26s-6.7-29.39-3.81-37.72A16,16,0,1,1,813,325.24Z"

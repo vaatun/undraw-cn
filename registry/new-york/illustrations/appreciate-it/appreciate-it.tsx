@@ -54,7 +54,7 @@ export const AppreciateIt = (props: AppreciateItProps) => {
         <path d="M309.11057,573l9,29-25,17-18-16s7-25,4-31l30,1Z" fill="#ffb6b6" />
         <polygon fill="#ffb6b6"
             points="436.11057 162.00001 450.44916 193.62991 408.4964 219.70866 406.11057 182.00001 436.11057 162.00001" />
-        <polygon isolation="isolate" opacity=".1"
+        <polygon style={{isolation: "isolate"}} opacity=".1"
             points="436.11057 162.00001 450.44916 193.62991 408.4964 219.70866 406.11057 182.00001 436.11057 162.00001" />
         <circle cx="419.62256" cy="159.73379" fill="#ffb6b6" r="30.46439" />
         <path

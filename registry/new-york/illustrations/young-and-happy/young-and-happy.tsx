@@ -201,7 +201,7 @@ export const YoungAndHappy = (props: YoungAndHappyProps) => {
     <rect fill="#4e5a86" height="483.03" width="55.36" x="395.64" y="19.42" />
     <polygon fill="none"
         points="356.94 385.76 356.94 385.76 356.94 385.76 356.94 385.76 356.94 385.76"
-        stroke="#c1272d" stroke-miterlimit="10" />
+        stroke="#c1272d" strokeMiterlimit="10" />
     <path
         d="M544.1,597.61a7.46,7.46,0,0,1-1.91.25H463.64a7.24,7.24,0,0,1-1.15-.09l.59-5.09a9.74,9.74,0,0,1,9.67-8.6h61.16a9.74,9.74,0,0,1,9.68,8.7Z"
         opacity="0.1" transform="translate(-79.59 -50.39)" />
@@ -222,17 +222,17 @@ export const YoungAndHappy = (props: YoungAndHappyProps) => {
             d="M949.48,727.76c15.33,22.63,10.43,103.65,10.43,103.65s-77-25.5-92.38-48.13a49.49,49.49,0,0,1,82-55.52Z"
             opacity="0.1" transform="translate(-79.59 -50.39)" />
         <path d="M881.05,714.6s57.74,44.58,79.16,116.87" fill="none" stroke="#535461"
-            stroke-miterlimit="10" transform="translate(-79.59 -50.39)" />
+            strokeMiterlimit="10" transform="translate(-79.59 -50.39)" />
         <path
             d="M974.75,770.06s-41-7-13,60.91c0,0,28.49-10.85,30.71-37.87a21.55,21.55,0,0,0-17.15-22.92Z"
             fill="var(--color-primary)" transform="translate(-79.59 -50.39)" />
         <path d="M975.36,770s7.81,37.56-13.56,61" fill="none" stroke="#535461"
-            stroke-miterlimit="10" transform="translate(-79.59 -50.39)" />
+            strokeMiterlimit="10" transform="translate(-79.59 -50.39)" />
     </g>
     <g opacity="0.1">
         <path
             d="M526.05,660s61.58-157,179.31-216.39c49.42-24.92,90.06-64.4,114.65-114a430,430,0,0,0,28.22-73.36"
-            fill="none" stroke="#535461" stroke-miterlimit="10" stroke-width="2"
+            fill="none" stroke="#535461" strokeMiterlimit="10" strokeWidth="2"
             transform="translate(-79.59 -50.39)" />
         <path
             d="M922.2,218.38c-12.16,15.67-75.78,39.07-75.78,39.07s6.9-67.44,19.06-83.1a35.9,35.9,0,1,1,56.72,44Z"
@@ -259,7 +259,7 @@ export const YoungAndHappy = (props: YoungAndHappyProps) => {
     <g opacity="0.1">
         <path
             d="M515.86,377.22s22.25-56.73,64.78-78.17a92.36,92.36,0,0,0,41.42-41.18,155.26,155.26,0,0,0,10.2-26.5"
-            fill="none" stroke="#535461" stroke-miterlimit="10" stroke-width="2"
+            fill="none" stroke="#535461" strokeMiterlimit="10" strokeWidth="2"
             transform="translate(-79.59 -50.39)" />
         <path
             d="M659,217.7c-4.4,5.66-27.38,14.11-27.38,14.11s2.49-24.36,6.89-30A13,13,0,1,1,659,217.7Z"
@@ -285,7 +285,7 @@ export const YoungAndHappy = (props: YoungAndHappyProps) => {
     <g opacity="0.1">
         <path
             d="M703.25,847.76s.94-60.92,33.25-95.92a92.26,92.26,0,0,0,24.36-53.08,155.39,155.39,0,0,0,.25-28.4"
-            fill="none" stroke="#535461" stroke-miterlimit="10" stroke-width="2"
+            fill="none" stroke="#535461" strokeMiterlimit="10" strokeWidth="2"
             transform="translate(-79.59 -50.39)" />
         <path
             d="M781.34,648.19C779.21,655,760.65,671,760.65,671s-6.2-23.7-4.07-30.54a13,13,0,0,1,24.76,7.72Z"
@@ -312,7 +312,7 @@ export const YoungAndHappy = (props: YoungAndHappyProps) => {
     <g opacity="0.1">
         <path
             d="M553.3,838.18s.94-60.93,33.25-95.93a92.26,92.26,0,0,0,24.36-53.08,155.28,155.28,0,0,0,.25-28.39"
-            fill="none" stroke="#535461" stroke-miterlimit="10" stroke-width="2"
+            fill="none" stroke="#535461" strokeMiterlimit="10" strokeWidth="2"
             transform="translate(-79.59 -50.39)" />
         <path
             d="M631.39,638.6c-2.13,6.84-20.69,22.82-20.69,22.82s-6.2-23.69-4.07-30.53a13,13,0,1,1,24.76,7.71Z"

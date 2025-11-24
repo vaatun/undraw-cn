@@ -28,7 +28,7 @@ export const FashionPhotoshoot = (props: FashionPhotoshootProps) => {
         points="197.922 302.074 193.716 318.87 174.312 300.526 179.171 283.496 197.922 302.074" />
     <polygon fill="none"
         points="167.418 266.274 166.527 269.833 198.902 301.328 201.701 302.029 208.936 300.071 209.334 300.063 210.243 296.433 203.806 289.664 210.385 287.94 196.345 274.31 189.019 275.848 183.142 270.013 187.108 268.428 187.483 266.935 182.678 263.153 167.418 266.274"
-        stroke="#3f3d56" stroke-miterlimit="10" />
+        stroke="#3f3d56" strokeMiterlimit="10" />
     <ellipse cx="285.17096" cy="376.88627" fill="var(--color-primary)" rx="1.82771" ry="2.69344"
         transform="translate(-252.48941 451.04714) rotate(-75.94348)" />
     <ellipse cx="305.73877" cy="404.0502" fill="var(--color-primary)" rx="1.82771" ry="2.69344"

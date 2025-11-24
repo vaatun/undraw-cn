@@ -459,7 +459,7 @@ export const MissedChances = (props: MissedChancesProps) => {
         fill="var(--color-primary)" transform="translate(-28.64 -16.61)" />
     <path
         d="M552.13,810.14s-11.12-37.73,2.08-65.5A59.59,59.59,0,0,0,559,707.25a101.21,101.21,0,0,0-5.29-17.55"
-        fill="none" stroke="#535461" stroke-miterlimit="10" stroke-width="2"
+        fill="none" stroke="#535461" strokeMiterlimit="10" strokeWidth="2"
         transform="translate(-28.64 -16.61)" />
     <path d="M562,672.15c0,4.62-8.38,18-8.38,18s-8.37-13.41-8.37-18a8.38,8.38,0,0,1,16.75,0Z"
         fill="var(--color-primary)" transform="translate(-28.64 -16.61)" />

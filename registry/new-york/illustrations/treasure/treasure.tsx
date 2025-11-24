@@ -84,7 +84,7 @@ export const Treasure = (props: TreasureProps) => {
         fill="#3f3d56" transform="translate(-173.11 -87)" />
     <path
         d="M972.49,741.17c3-5.51-.4-12.27-4.28-17.18s-8.62-10-8.52-16.29c.15-9,9.7-14.31,17.33-19.09a84,84,0,0,0,15.56-12.51,22.61,22.61,0,0,0,4.78-6.4c1.58-3.52,1.54-7.52,1.44-11.37q-.49-19.26-1.91-38.49"
-        fill="none" stroke="#3f3d56" stroke-miterlimit="10" stroke-width="4"
+        fill="none" stroke="#3f3d56" strokeMiterlimit="10" strokeWidth="4"
         transform="translate(-173.11 -87)" />
     <path
         d="M1011.4,619.14a14,14,0,0,0-7-11.5l-3.14,6.22.1-7.53a14.19,14.19,0,0,0-4.63-.56,14,14,0,1,0,14.68,13.37Z"

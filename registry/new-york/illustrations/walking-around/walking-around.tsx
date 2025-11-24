@@ -30,7 +30,7 @@ export const WalkingAround = (props: WalkingAroundProps) => {
         transform="translate(-492.333 723.5508) rotate(-65.69036)" />
     <ellipse cx="577.82501" cy="632.04001" opacity="0.1" rx="12" ry="54"
         transform="translate(-456.87145 828.48117) rotate(-65.69036)" />
-    <line fill="none" stroke="#3f3d56" stroke-miterlimit="10" stroke-width="2" x1="70.97529"
+    <line fill="none" stroke="#3f3d56" strokeMiterlimit="10" strokeWidth="2" x1="70.97529"
         x2="70.97529" y1="434.96378" y2="360.5524" />
     <circle cx="70.97529" cy="360.5524" fill="#3f3d56" r="10.52282" />
     <path d="M291.8003,476.37366s-1.50326-32.33192-32.32009-28.57377Z" fill="#3f3d56"
@@ -74,15 +74,15 @@ export const WalkingAround = (props: WalkingAroundProps) => {
     <path
         d="M569.395,830.04H220.825V622.89c12.97,1.37,22.78-12.38,34.59-18.73,9.24-4.97,20.18-5.38,30.67-5.44,16.91-.09,34.13.5,50.14,5.94a73.63623,73.63623,0,0,1,14.71,6.85c9.92,6.04,18.24,14.52,22.66,25.16,2.67,6.42,4.59,14.29,10.98,17.04,3.56,1.54,7.63.99,11.47.42q20.23507-3.02993,40.47-6.05c9.98-1.5,20.95-2.8,29.47,2.61,13.14,8.34,13.15,27.25,10.94,42.66-2.22,15.41-4.24,33.59,7.16,44.19,13.82,12.86,36.05,4.82995,54.73,7.52a46.841,46.841,0,0,1,37.55,32.93C581.185,795.16,575.685,813.16,569.395,830.04Z"
         fill="#2f2e41" transform="translate(-220.82501 -69.95999)" />
-    <line fill="none" stroke="#3f3d56" stroke-miterlimit="10" stroke-width="2" x1="85.09793"
+    <line fill="none" stroke="#3f3d56" strokeMiterlimit="10" strokeWidth="2" x1="85.09793"
         x2="88.32901" y1="759.59053" y2="552.26923" />
     <circle cx="88.32901" cy="552.26923" fill="#3f3d56" r="14.40135" />
     <path d="M308.24007,680.87237s-1.36755-44.27561-43.618-39.79011Z" fill="#3f3d56"
         transform="translate(-220.82501 -69.95999)" />
     <path d="M305.98463,825.59236s10.58286-84.93642-42.83726-89.88414" fill="none" stroke="#3f3d56"
-        stroke-miterlimit="10" stroke-width="2" transform="translate(-220.82501 -69.95999)" />
+        strokeMiterlimit="10" strokeWidth="2" transform="translate(-220.82501 -69.95999)" />
     <circle cx="42.32235" cy="665.74823" fill="#3f3d56" r="14.40135" />
-    <line fill="none" stroke="#3f3d56" stroke-miterlimit="10" stroke-width="2" x1="167.97529"
+    <line fill="none" stroke="#3f3d56" strokeMiterlimit="10" strokeWidth="2" x1="167.97529"
         x2="167.97529" y1="759.96378" y2="685.5524" />
     <circle cx="167.97529" cy="685.5524" fill="#3f3d56" r="10.52282" />
     <path d="M388.8003,801.37366s-1.50326-32.33192-32.32009-28.57377Z" fill="#3f3d56"
@@ -93,8 +93,8 @@ export const WalkingAround = (props: WalkingAroundProps) => {
     <rect fill="var(--color-primary)" height="4" width="166" x="440" y="340.08002" />
     <rect fill="var(--color-primary)" height="4" width="166" x="440" y="352.08002" />
     <circle cx="525" cy="296.08002" fill="var(--color-primary)" r="14" />
-    <circle cx="586" cy="390.08002" fill="none" r="13" stroke="#6c63ff" stroke-miterlimit="10"
-        stroke-width="2" />
+    <circle cx="586" cy="390.08002" fill="none" r="13" stroke="#6c63ff" strokeMiterlimit="10"
+        strokeWidth="2" />
     <circle cx="581" cy="385.08002" fill="var(--color-primary)" r="2" />
     <circle cx="591" cy="385.08002" fill="var(--color-primary)" r="2" />
     <path d="M800.825,463.04s5,7,12,0Z" fill="var(--color-primary)"

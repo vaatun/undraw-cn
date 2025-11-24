@@ -93,11 +93,11 @@ export const ConnectedWorld = (props: ConnectedWorldProps) => {
         fill="#3f3d56" transform="translate(-11.69692 -13.01074)" />
     <path
         d="M1002.86748,620.79489S729.66608,463.97233,612.04916,493.68608c0,0-249.26532,26.82491-278.15369,85.83971,0,0-79.23666-247.61456-108.125-255.86838"
-        fill="none" opacity="0.8" stroke="#6c63ff" stroke-miterlimit="10" stroke-width="2"
+        fill="none" opacity="0.8" stroke="#6c63ff" strokeMiterlimit="10" strokeWidth="2"
         transform="translate(-11.69692 -13.01074)" />
     <path
         d="M333.89547,579.52579C379.70417,457.36928,792.3951,322.00665,792.3951,322.00665,733.793,336.86352,612.04916,493.68608,612.04916,493.68608S354.53,306.32439,225.77045,323.65741c0,0,567.03734,18.57109,777.097,297.13748"
-        fill="none" opacity="0.8" stroke="#6c63ff" stroke-miterlimit="10" stroke-width="2"
+        fill="none" opacity="0.8" stroke="#6c63ff" strokeMiterlimit="10" strokeWidth="2"
         transform="translate(-11.69692 -13.01074)" />
     <circle cx="214.07353" cy="310.64667" fill="var(--color-primary)" r="11.96804" />
     <circle cx="322.19856" cy="566.51505" fill="var(--color-primary)" r="11.96804" />

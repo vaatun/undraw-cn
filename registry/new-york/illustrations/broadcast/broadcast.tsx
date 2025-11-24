@@ -52,10 +52,10 @@ export const Broadcast = (props: BroadcastProps) => {
     <path
         d="M618.47,344.61a4.76,4.76,0,0,1,4.75,4.75v40.83a4.76,4.76,0,0,1-4.75,4.75H581.53a4.76,4.76,0,0,1-4.75-4.75V349.36a4.76,4.76,0,0,1,4.75-4.75h36.95m0-2H581.53a6.75,6.75,0,0,0-6.75,6.75v40.83a6.75,6.75,0,0,0,6.75,6.75h36.95a6.75,6.75,0,0,0,6.75-6.75V349.36a6.75,6.75,0,0,0-6.75-6.75Z"
         fill="#e0e0e0" transform="translate(-297.37 -69.26)" />
-    <line fill="none" stroke="#6c63ff" stroke-linecap="round" stroke-miterlimit="10"
-        stroke-width="2" x1="302.63" x2="302.63" y1="288.42" y2="299.88" />
+    <line fill="none" stroke="#6c63ff" strokeLinecap="round" strokeMiterlimit="10"
+        strokeWidth="2" x1="302.63" x2="302.63" y1="288.42" y2="299.88" />
     <path d="M604.8,362.7a10.19,10.19,0,1,1-9.42-.09" fill="none" stroke="#6c63ff"
-        stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"
+        strokeLinecap="round" strokeMiterlimit="10" strokeWidth="2"
         transform="translate(-297.37 -69.26)" />
     </svg>
   )

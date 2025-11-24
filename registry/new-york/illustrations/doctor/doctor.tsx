@@ -33,7 +33,7 @@ export const Doctor = (props: DoctorProps) => {
         fill="var(--color-primary)" opacity="0.1" transform="translate(-56.94 -58.66)" />
     <path
         d="M299.19,783.7s-55-41.58-65.39-94.47a104.54,104.54,0,0,0-32.21-57.71,176,176,0,0,0-25.77-19.2"
-        fill="none" stroke="#535461" stroke-miterlimit="10" stroke-width="2"
+        fill="none" stroke="#535461" strokeMiterlimit="10" strokeWidth="2"
         transform="translate(-56.94 -58.66)" />
     <path
         d="M169.09,579c4.82,6.52,7,34.15,7,34.15S150.32,603,145.49,596.49A14.68,14.68,0,0,1,169.09,579Z"
@@ -58,7 +58,7 @@ export const Doctor = (props: DoctorProps) => {
         fill="var(--color-primary)" transform="translate(-56.94 -58.66)" />
     <path
         d="M833.49,424.07s33.9-60.05,85-77.35a104.53,104.53,0,0,0,52.92-39.59A175.34,175.34,0,0,0,987,279"
-        fill="none" stroke="#535461" stroke-miterlimit="10" stroke-width="2"
+        fill="none" stroke="#535461" strokeMiterlimit="10" strokeWidth="2"
         transform="translate(-56.94 -58.66)" />
     <path
         d="M1019.08,268c-5.82,5.64-32.91,11.48-32.91,11.48s6.65-26.9,12.47-32.55A14.68,14.68,0,0,1,1019.08,268Z"
@@ -104,7 +104,7 @@ export const Doctor = (props: DoctorProps) => {
         opacity="0.25" transform="translate(-56.94 -58.66)" />
     <path
         d="M835.44,422.88s6.66-68.64,46.32-105.14A104.57,104.57,0,0,0,914.1,260.1a175.28,175.28,0,0,0,2.89-32"
-        fill="none" stroke="#535461" stroke-miterlimit="10" stroke-width="2"
+        fill="none" stroke="#535461" strokeMiterlimit="10" strokeWidth="2"
         transform="translate(-56.94 -58.66)" />
     <path
         d="M941.85,204.94c-3,7.52-25.44,23.84-25.44,23.84s-4.82-27.29-1.79-34.81a14.68,14.68,0,0,1,27.23,11Z"

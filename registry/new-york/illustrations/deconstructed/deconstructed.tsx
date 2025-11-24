@@ -78,7 +78,7 @@ export const Deconstructed = (props: DeconstructedProps) => {
     <path
         d="M607,445.21046s15,15,15,17-10,11-3,23,7,42,7,42l24,5,45-4,7-69s-18,3-22,6-15-4-23-4-31-4-31-4l2-8-8-14Z"
         fill="#ff6584" transform="translate(-99 -71.78954)" />
-    <path d="M603.5,551.71046" fill="none" stroke="#ffb9b9" stroke-miterlimit="10"
+    <path d="M603.5,551.71046" fill="none" stroke="#ffb9b9" strokeMiterlimit="10"
         transform="translate(-99 -71.78954)" />
     <path
         d="M663.5,551.71046s-101-45-109-16-9,99-9,99-5,48-11,53,0,20,0,20l15,5,14-6,6-16s2-36,10-54,8-60,7-62c0,0,39,48,77,45s43.5-11.5,43.5-11.5S688.5,551.71046,663.5,551.71046Z"

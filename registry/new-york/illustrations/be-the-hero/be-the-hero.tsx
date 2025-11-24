@@ -115,27 +115,27 @@ export const BeTheHero = (props: BeTheHeroProps) => {
         d="M420.06,783.52s-.81-78.2,76.57-110l17.92-34.21,18.74-45.62,39.92-9,11.4-48.06s44-15.48,72.5-9.78l5.7,9.78s73.32-.81,76.57,39.1c0,0,7.33,36.66,17.92,43.18,0,0,17.92-4.07,35.84,22l19.55,66.8s51.32,48.06,35.84,92.05c0,0-21.18,30.14-128.71,9.78,0,0-114.86,35-176-13C543.89,796.55,442.06,816.1,420.06,783.52Z"
         fill="#a8a8a8" transform="translate(-66.64 -11.98)" />
     <path d="M471.38,771.3s16.29-22.81,15.48-39.1,3.84-56.05,3.84-56.05" fill="none" opacity="0.1"
-        stroke="#000" stroke-miterlimit="10" transform="translate(-66.64 -11.98)" />
+        stroke="#000" strokeMiterlimit="10" transform="translate(-66.64 -11.98)" />
     <path d="M530.85,710.2s16.29-30.14,14.66-46.43c0,0,17.11-31,30.14-28.51" fill="none"
-        opacity="0.1" stroke="#000" stroke-miterlimit="10" transform="translate(-66.64 -11.98)" />
+        opacity="0.1" stroke="#000" strokeMiterlimit="10" transform="translate(-66.64 -11.98)" />
     <path d="M620.46,624.67s44.8-16.29,47.25-29.33" fill="none" opacity="0.1" stroke="#000"
-        stroke-miterlimit="10" transform="translate(-66.64 -11.98)" />
+        strokeMiterlimit="10" transform="translate(-66.64 -11.98)" />
     <path d="M636.75,662.14S684,641,684,635.26h23.62s34.21,44.8,30.14,64.36" fill="none"
-        opacity="0.1" stroke="#000" stroke-miterlimit="10" transform="translate(-66.64 -11.98)" />
+        opacity="0.1" stroke="#000" strokeMiterlimit="10" transform="translate(-66.64 -11.98)" />
     <path
         d="M692.15,694.72s-45.62-3.26-61.91,9.78-45.62,19.55-45.62,19.55S567.51,760.71,561,767.23s-17.11,29.33-17.11,29.33"
-        fill="none" opacity="0.1" stroke="#000" stroke-miterlimit="10"
+        fill="none" opacity="0.1" stroke="#000" strokeMiterlimit="10"
         transform="translate(-66.64 -11.98)" />
     <path d="M692.15,737.9S697,755,703.55,764.78s16.29,44.8,16.29,44.8" fill="none" opacity="0.1"
-        stroke="#000" stroke-miterlimit="10" transform="translate(-66.64 -11.98)" />
+        stroke="#000" strokeMiterlimit="10" transform="translate(-66.64 -11.98)" />
     <path d="M768.72,787.59s10.34,28.77,19.43,29" fill="none" opacity="0.1" stroke="#000"
-        stroke-miterlimit="10" transform="translate(-66.64 -11.98)" />
+        strokeMiterlimit="10" transform="translate(-66.64 -11.98)" />
     <path d="M701,664.1s26.86,7.26,38.09,24.85,45.57,33.55,45.57,33.55" fill="none" opacity="0.1"
-        stroke="#000" stroke-miterlimit="10" transform="translate(-66.64 -11.98)" />
+        stroke="#000" strokeMiterlimit="10" transform="translate(-66.64 -11.98)" />
     <path d="M712.51,577.42s0,37.47,10.59,37.47S757.32,619,757.32,619" fill="none" opacity="0.1"
-        stroke="#000" stroke-miterlimit="10" transform="translate(-66.64 -11.98)" />
+        stroke="#000" strokeMiterlimit="10" transform="translate(-66.64 -11.98)" />
     <path d="M660.64,532.95s-2.71,64.73-16.55,81.48" fill="none" opacity="0.1" stroke="#000"
-        stroke-miterlimit="10" transform="translate(-66.64 -11.98)" />
+        strokeMiterlimit="10" transform="translate(-66.64 -11.98)" />
     <g opacity="0.05">
         <path
             d="M811.08,706.94l-19.55-66.8c-17.92-26.07-35.84-22-35.84-22C745.1,611.63,737.77,575,737.77,575c-3.26-39.92-76.57-39.1-76.57-39.1l-5.7-9.78c-7.22-1.44-15.43-1.53-23.66-.85,2,.2,3.89.48,5.74.85l5.7,9.78s73.32-.81,76.57,39.1c0,0,7.33,36.66,17.92,43.18,0,0,17.92-4.07,35.84,22l19.55,66.8S844.48,755,829,799c0,0-10.45,14.87-53.93,16.66,58.61,2.15,71.85-16.66,71.85-16.66C862.4,755,811.08,706.94,811.08,706.94Z"
@@ -165,7 +165,7 @@ export const BeTheHero = (props: BeTheHeroProps) => {
         fill="#dfe5ee" transform="translate(-66.64 -11.98)" />
     <path
         d="M985.83,672.35s-13.26-45,2.49-78.14a71.09,71.09,0,0,0,5.75-44.6,119.57,119.57,0,0,0-6.31-20.93"
-        fill="none" stroke="#535461" stroke-miterlimit="10" stroke-width="2"
+        fill="none" stroke="#535461" strokeMiterlimit="10" strokeWidth="2"
         transform="translate(-66.64 -11.98)" />
     <path d="M997.54,507.74c0,5.52-10,21.51-10,21.51s-10-16-10-21.51a10,10,0,0,1,20,0Z"
         fill="var(--color-primary)" transform="translate(-66.64 -11.98)" />
@@ -192,12 +192,12 @@ export const BeTheHero = (props: BeTheHeroProps) => {
         d="M141.26,518.56s41.84,41.84,18.22,103.92S200,787.8,200,787.8s-.69-.1-2-.32C112.08,772.31,69.39,674,117.17,601,134.93,573.89,149.51,542,141.26,518.56Z"
         opacity="0.1" transform="translate(-66.64 -11.98)" />
     <path d="M141.26,517.87s23.62,51.28,0,93.12-4,159.25,58.71,176.12" fill="none" stroke="#535461"
-        stroke-miterlimit="10" transform="translate(-66.64 -11.98)" />
+        strokeMiterlimit="10" transform="translate(-66.64 -11.98)" />
     <path
         d="M66.75,687.08s47.74-7.6,52.09,35.18S210.64,771,210.64,771L209,772.07c-72.2,47.4-141.23,30.19-130.82-32.75C82,715.93,81.73,692.43,66.75,687.08Z"
         fill="var(--color-primary)" transform="translate(-66.64 -11.98)" />
     <path d="M66.75,687.08s37.06,8.13,34,41.83S155.79,803,210.64,771" fill="none" stroke="#535461"
-        stroke-miterlimit="10" transform="translate(-66.64 -11.98)" />
+        strokeMiterlimit="10" transform="translate(-66.64 -11.98)" />
     <path
         d="M945.12,662.8s22.41-.69,29.16-5.5,34.47-10.55,36.14-2.84,33.67,38.35,8.38,38.56-58.78-3.94-65.52-8S945.12,662.8,945.12,662.8Z"
         fill="#a8a8a8" transform="translate(-66.64 -11.98)" />

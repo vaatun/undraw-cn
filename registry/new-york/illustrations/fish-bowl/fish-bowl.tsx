@@ -74,7 +74,7 @@ export const FishBowl = (props: FishBowlProps) => {
         opacity="0.03" transform="translate(-76 -98.55)" />
     <path
         d="M1025.86,758.07c4.86-9-.65-20-7-28s-14-16.35-13.88-26.56c.24-14.67,15.81-23.34,28.26-31.12A137.54,137.54,0,0,0,1058.62,652c3.06-3.12,6-6.46,7.8-10.44,2.57-5.73,2.5-12.26,2.34-18.55q-.81-31.39-3.11-62.74"
-        fill="none" stroke="#3f3d56" stroke-miterlimit="10" stroke-width="4"
+        fill="none" stroke="#3f3d56" strokeMiterlimit="10" strokeWidth="4"
         transform="translate(-76 -98.55)" />
     <path
         d="M1089.31,559.12a22.84,22.84,0,0,0-11.43-18.74l-5.12,10.13.15-12.27a22.88,22.88,0,1,0,16.4,20.88Z"
@@ -108,7 +108,7 @@ export const FishBowl = (props: FishBowlProps) => {
         opacity="0.2" transform="translate(-76 -98.55)" />
     <path
         d="M922,754c-3.17-5.87.43-13.06,4.56-18.29s9.17-10.68,9.06-17.35c-.15-9.58-10.32-15.24-18.45-20.32a89.64,89.64,0,0,1-16.57-13.32,24.33,24.33,0,0,1-5.09-6.81c-1.68-3.75-1.63-8-1.52-12.11q.53-20.52,2-41"
-        fill="none" stroke="#3f3d56" stroke-miterlimit="10" stroke-width="4"
+        fill="none" stroke="#3f3d56" strokeMiterlimit="10" strokeWidth="4"
         transform="translate(-76 -98.55)" />
     <path d="M880.56,624A14.92,14.92,0,0,1,888,611.78l3.34,6.62-.1-8A14.95,14.95,0,1,1,880.56,624Z"
         fill="var(--color-primary)" transform="translate(-76 -98.55)" />

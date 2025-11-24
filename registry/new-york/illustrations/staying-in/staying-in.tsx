@@ -32,10 +32,10 @@ export const StayingIn = (props: StayingInProps) => {
         d="M109.56,351.58S60,429,222.49,430.35c0,0,2.39-67.38-50.73-95.14a47.66,47.66,0,0,0-61.44,15.22Z"
         fill="var(--color-primary)" transform="translate(-102.44 -44.25)" />
     <path d="M109.93,350.28s83.23,16.4,112.56,80.07" fill="none" stroke="#535461"
-        stroke-miterlimit="10" transform="translate(-102.44 -44.25)" />
+        strokeMiterlimit="10" transform="translate(-102.44 -44.25)" />
     <path
         d="M229.75,419.93s-53.44-69.06-48.56-137.14c2-28.57-4.71-57.11-20.21-81.21a222.5,222.5,0,0,0-25.11-32"
-        fill="none" stroke="#535461" stroke-miterlimit="10" stroke-width="2"
+        fill="none" stroke="#535461" strokeMiterlimit="10" strokeWidth="2"
         transform="translate(-102.44 -44.25)" />
     <path
         d="M138.67,126.65c3.73,9.56-2.76,44.05-2.76,44.05s-28.14-21-31.87-30.53a18.59,18.59,0,0,1,34.63-13.52Z"

@@ -72,7 +72,7 @@ export default function Home() {
                   key={item.name}
                   name={item.name}
                   title={item.title}
-                  componentData={illustrations.get(item.name)}
+                  component={illustrations.get(item.name)}
                   packageManager={packageManager}
                   onPackageManagerChange={setPackageManager}
                   onCopy={copyCommand}

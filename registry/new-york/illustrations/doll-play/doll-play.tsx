@@ -25,7 +25,7 @@ export const DollPlay = (props: DollPlayProps) => {
     <ellipse cx="514" cy="603.5" fill="#f2f2f2" rx="514" ry="45" />
     <path
         d="M195.4,725.42c-3-5.51.4-12.27,4.29-17.18s8.61-10,8.51-16.29c-.15-9-9.7-14.31-17.33-19.09a84,84,0,0,1-15.56-12.51,22.8,22.8,0,0,1-4.78-6.4c-1.58-3.52-1.54-7.52-1.44-11.37q.51-19.26,1.91-38.49"
-        fill="none" stroke="#3f3d56" stroke-miterlimit="10" stroke-width="4"
+        fill="none" stroke="#3f3d56" strokeMiterlimit="10" strokeWidth="4"
         transform="translate(-86 -125.75)" />
     <path
         d="M156.49,603.39a14,14,0,0,1,7-11.5l3.14,6.22-.1-7.53a14.22,14.22,0,0,1,4.63-.56,14,14,0,1,1-14.68,13.37Z"

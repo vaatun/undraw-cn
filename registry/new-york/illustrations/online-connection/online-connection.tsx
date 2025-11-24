@@ -130,7 +130,7 @@ export const OnlineConnection = (props: OnlineConnectionProps) => {
     <path
         d="M137.81474,502.73183,149.382,642.69519s.38557,83.66956,12.72394,99.86367S174.82984,766.85,174.82984,766.85l25.44788-13.10952s-13.10951-21.84437-10.41049-25.18844a18.63842,18.63842,0,0,0,3.47016-7.19977l-6.94033-86.36858,13.10952-150.37385Z"
         fill="#2f2e41" transform="translate(-117.0873 -85.39315)" />
-    <path d="M155.55114,766.85" fill="none" stroke="#3f3d56" stroke-miterlimit="10"
+    <path d="M155.55114,766.85" fill="none" stroke="#3f3d56" strokeMiterlimit="10"
         transform="translate(-117.0873 -85.39315)" />
     <polygon fill="#ffb9b9"
         points="52.344 664.492 41.548 693.024 17.064 682.788 29.981 661.407 52.344 664.492" />

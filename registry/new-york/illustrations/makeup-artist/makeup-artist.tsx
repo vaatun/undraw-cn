@@ -36,7 +36,7 @@ export const MakeupArtist = (props: MakeupArtistProps) => {
     <ellipse cx="853.87" cy="718.89" opacity="0.1" rx="45" ry="16" />
     <path
         d="M986.9,770.11s12-40.84-2.26-70.9a64.51,64.51,0,0,1-5.22-40.47,108.49,108.49,0,0,1,5.73-19"
-        fill="none" stroke="#535461" stroke-miterlimit="10" stroke-width="2"
+        fill="none" stroke="#535461" strokeMiterlimit="10" strokeWidth="2"
         transform="translate(-134.85 -48.95)" />
     <path
         d="M976.27,620.75c0,5,9.06,19.52,9.06,19.52s9.06-14.51,9.06-19.52a9.06,9.06,0,1,0-18.13,0Z"
@@ -62,7 +62,7 @@ export const MakeupArtist = (props: MakeupArtistProps) => {
     <ellipse cx="63.87" cy="698.89" opacity="0.1" rx="45" ry="16" />
     <path
         d="M198.76,748s25.67-87.17-4.81-151.32c-12.8-26.93-17-57.15-11.13-86.37A231.54,231.54,0,0,1,195,469.73"
-        fill="none" stroke="#535461" stroke-miterlimit="10" stroke-width="2"
+        fill="none" stroke="#535461" strokeMiterlimit="10" strokeWidth="2"
         transform="translate(-134.85 -48.95)" />
     <path
         d="M176.07,429.18c0,10.68,19.34,41.66,19.34,41.66s19.34-31,19.34-41.66a19.34,19.34,0,0,0-38.68,0Z"

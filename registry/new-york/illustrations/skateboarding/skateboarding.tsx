@@ -17,7 +17,7 @@ export const Skateboarding = (props: SkateboardingProps) => {
         skateboarding
     </title>
     <circle cx="490.58468" cy="418.37146" fill="#fbbebe" r="11" />
-    <line fill="none" stroke="#3f3d56" stroke-miterlimit="10" x2="824" y1="721.5" y2="721.5" />
+    <line fill="none" stroke="#3f3d56" strokeMiterlimit="10" x2="824" y1="721.5" y2="721.5" />
     <circle cx="349.0167" cy="720.80792" fill="#3f3d56" r="7.68642" />
     <circle cx="349.0167" cy="720.80792" opacity="0.1" r="7.68642" />
     <circle cx="292.22257" cy="657.18142" fill="#3f3d56" r="7.68642" />

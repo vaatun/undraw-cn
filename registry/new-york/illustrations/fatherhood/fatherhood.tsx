@@ -74,7 +74,7 @@ export const Fatherhood = (props: FatherhoodProps) => {
         fill="var(--color-primary)" transform="translate(-51.45 -54.56)" />
     <path
         d="M204.25,753s-14.06-47.71,2.63-82.82A75.36,75.36,0,0,0,213,622.89a126.22,126.22,0,0,0-6.69-22.18"
-        fill="none" stroke="#535461" stroke-miterlimit="10" stroke-width="2"
+        fill="none" stroke="#535461" strokeMiterlimit="10" strokeWidth="2"
         transform="translate(-51.45 -54.56)" />
     <path
         d="M216.66,578.51c0,5.85-10.58,22.81-10.58,22.81s-10.59-17-10.59-22.81a10.59,10.59,0,0,1,21.17,0Z"

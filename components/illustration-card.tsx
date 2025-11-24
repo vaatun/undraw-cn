@@ -13,20 +13,10 @@ import {
 
 type PackageManager = "pnpm" | "yarn" | "npm"
 
-interface ComponentData {
-  name: string
-  type: string
-  files: Array<{
-    path: string
-    content: string
-    type: string
-  }>
-}
-
 interface IllustrationCardProps {
   name: string
   title: string
-  componentData: ComponentData | undefined
+  component: React.ComponentType<{ className?: string }> | undefined
   packageManager: PackageManager
   onPackageManagerChange: (pm: PackageManager) => void
   onCopy: (name: string) => void
@@ -36,7 +26,7 @@ interface IllustrationCardProps {
 export function IllustrationCard({
   name,
   title,
-  componentData,
+  component: Component,
   packageManager,
   onPackageManagerChange,
   onCopy,
@@ -46,18 +36,6 @@ export function IllustrationCard({
     onPackageManagerChange(pm)
     onCopy(name)
   }
-
-  // Extract SVG content from the component data
-  const svgContent = React.useMemo(() => {
-    if (!componentData) return null
-
-    const mainFile = componentData.files.find(f => f.type === "registry:ui")
-    if (!mainFile) return null
-
-    // Extract SVG from the component code
-    const svgMatch = mainFile.content.match(/<svg[\s\S]*?<\/svg>/i)
-    return svgMatch ? svgMatch[0] : null
-  }, [componentData])
 
   return (
     <div className="flex flex-col gap-4 border rounded-lg p-4 min-h-[400px] relative">
@@ -100,11 +78,8 @@ export function IllustrationCard({
         </div>
       </div>
       <div className="flex items-center justify-center flex-1 relative">
-        {svgContent ? (
-          <div
-            className="w-full max-w-md"
-            dangerouslySetInnerHTML={{ __html: svgContent }}
-          />
+        {Component ? (
+          <Component className="w-full max-w-md" />
         ) : (
           <div className="flex items-center justify-center w-full h-full">
             <p className="text-xs text-muted-foreground">Loading...</p>

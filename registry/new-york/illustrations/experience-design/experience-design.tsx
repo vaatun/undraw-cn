@@ -28,7 +28,7 @@ export const ExperienceDesign = (props: ExperienceDesignProps) => {
     <g>
         <polygon fill="#ffb6b6"
             points="575.92615 216.07954 572.54224 203.67191 587.76978 198.03206 589.46173 209.31174 575.92615 216.07954" />
-        <polygon isolation="isolate" opacity=".1"
+        <polygon style={{isolation: "isolate"}} opacity=".1"
             points="575.92615 216.07954 572.54224 203.67191 581.50995 199.88928 578.72382 214.51666 575.92615 216.07954" />
         <g>
             <path

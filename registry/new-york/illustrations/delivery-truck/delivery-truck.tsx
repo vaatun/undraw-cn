@@ -106,7 +106,7 @@ export const DeliveryTruck = (props: DeliveryTruckProps) => {
         </g>
         <polygon fill="#ffb6b6"
             points="501.74142 45.27554 504.3773 69.87713 473.62533 67.24124 478.89709 44.39691 501.74142 45.27554" />
-        <polygon isolation="isolate" opacity=".1"
+        <polygon style={{isolation: "isolate"}} opacity=".1"
             points="501.74142 45.27554 504.3773 69.87713 473.62533 67.24124 478.89709 44.39691 501.74142 45.27554" />
         <circle cx="490.75857" cy="28.1423" fill="#ffb6b6" r="20.20844" />
         <polygon fill="#2f2e41"

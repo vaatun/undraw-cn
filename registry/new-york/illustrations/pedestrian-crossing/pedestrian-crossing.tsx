@@ -27,7 +27,7 @@ export const PedestrianCrossing = (props: PedestrianCrossingProps) => {
     </title>
     <path
         d="M156.85,553.26s-10.75-60.88-50.63-91.06c-16.73-12.66-29-29.87-34.32-49.49a148.82,148.82,0,0,1-4.82-28.4"
-        fill="none" stroke="#535461" stroke-miterlimit="10" stroke-width="2"
+        fill="none" stroke="#535461" strokeMiterlimit="10" strokeWidth="2"
         transform="translate(-33.25 -142.99)" />
     <path
         d="M42.07,365.15c3.36,6.53,25.6,19.73,25.6,19.73s2.8-24.66-.55-31.19-11.68-9.26-18.6-6.09S38.72,358.63,42.07,365.15Z"
@@ -73,7 +73,7 @@ export const PedestrianCrossing = (props: PedestrianCrossingProps) => {
         opacity="0.25" transform="translate(-33.25 -142.99)" />
     <path
         d="M155.5,551.66s16.31-59.77-7.2-102.62c-9.87-18-13.67-38.4-10.14-58.37A150.1,150.1,0,0,1,146,362.86"
-        fill="none" stroke="#535461" stroke-miterlimit="10" stroke-width="2"
+        fill="none" stroke="#535461" strokeMiterlimit="10" strokeWidth="2"
         transform="translate(-33.25 -142.99)" />
     <path
         d="M131.3,335.78c.27,7.25,14.94,27.83,14.94,27.83s13.15-21.48,12.88-28.74-6.7-12.92-14.39-12.68S131,328.53,131.3,335.78Z"

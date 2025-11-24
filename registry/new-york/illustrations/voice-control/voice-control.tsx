@@ -208,7 +208,7 @@ export const VoiceControl = (props: VoiceControlProps) => {
         d="M712.58,351.32V462.25c0,1.91-1,2.18-2.69,3.11-5.62,3.12-19.49,8.67-36.13-.12-1.71-.9-2.76-1.21-2.76-3.14V352S692.15,360.56,712.58,351.32Z"
         fill="#333f4f" transform="translate(-113.71 -34.73)" />
     <ellipse cx="578.08" cy="316.52" fill="#2d394a" rx="20.79" ry="4.42" stroke="#40868e"
-        stroke-miterlimit="10" />
+        strokeMiterlimit="10" />
     <g opacity="0.8">
         <circle cx="596.97" cy="362.66" r="0.47" />
         <circle cx="594.61" cy="363.32" r="0.47" />

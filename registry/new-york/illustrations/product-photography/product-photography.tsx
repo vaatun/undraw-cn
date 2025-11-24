@@ -85,7 +85,7 @@ export const ProductPhotography = (props: ProductPhotographyProps) => {
         points="379.831 323.006 376.324 337.011 360.144 321.715 364.196 307.515 379.831 323.006" />
     <polygon fill="none"
         points="354.396 293.155 353.653 296.123 380.648 322.384 382.982 322.968 389.014 321.336 389.346 321.329 390.104 318.302 384.737 312.658 390.223 311.221 378.516 299.856 372.407 301.138 367.507 296.273 370.814 294.951 371.126 293.706 367.12 290.553 354.396 293.155"
-        stroke="#3f3d56" stroke-miterlimit="10" />
+        stroke="#3f3d56" strokeMiterlimit="10" />
     <ellipse cx="526.116" cy="424.60113" fill="var(--color-primary)" rx="1.52396" ry="2.24584"
         transform="translate(-172.80352 700.12301) rotate(-75.94348)" />
     <ellipse cx="543.26592" cy="447.25101" fill="var(--color-primary)" rx="1.52396" ry="2.24584"

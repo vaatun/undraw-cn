@@ -61,7 +61,7 @@ export const MillennialGirl = (props: MillennialGirlProps) => {
         opacity="0.03" transform="translate(-103.81 -59.35)" />
     <path
         d="M242.43,834.06c2.06-3.8-.27-8.46-3-11.86s-5.95-6.92-5.88-11.25c.1-6.21,6.69-9.88,12-13.17a58.45,58.45,0,0,0,10.75-8.64,15.82,15.82,0,0,0,3.3-4.42c1.09-2.43,1.06-5.19,1-7.85q-.35-13.3-1.32-26.58"
-        fill="none" stroke="#3f3d56" stroke-miterlimit="10" stroke-width="4"
+        fill="none" stroke="#3f3d56" strokeMiterlimit="10" strokeWidth="4"
         transform="translate(-103.81 -59.35)" />
     <path d="M269.3,749.81a9.69,9.69,0,0,0-4.84-7.94l-2.17,4.29.07-5.19a9.69,9.69,0,1,0,6.94,8.84Z"
         fill="#57b894" transform="translate(-103.81 -59.35)" />
@@ -94,7 +94,7 @@ export const MillennialGirl = (props: MillennialGirlProps) => {
         opacity="0.2" transform="translate(-103.81 -59.35)" />
     <path
         d="M776.18,834.6c-1.38-2.55.19-5.68,2-8s4-4.65,3.94-7.56c-.06-4.17-4.49-6.63-8-8.84a39.52,39.52,0,0,1-7.21-5.8,10.69,10.69,0,0,1-2.22-3,12.19,12.19,0,0,1-.67-5.28q.24-8.93.89-17.84"
-        fill="none" stroke="#3f3d56" stroke-miterlimit="10" stroke-width="4"
+        fill="none" stroke="#3f3d56" strokeMiterlimit="10" strokeWidth="4"
         transform="translate(-103.81 -59.35)" />
     <path
         d="M758.14,778a6.51,6.51,0,0,1,3.25-5.33l1.46,2.88-.05-3.49a6.38,6.38,0,0,1,2.15-.25,6.51,6.51,0,1,1-6.81,6.19Z"

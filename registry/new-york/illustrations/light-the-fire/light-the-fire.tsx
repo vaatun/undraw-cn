@@ -21,7 +21,7 @@ export const LightTheFire = (props: LightTheFireProps) => {
     <path
         d="M674.5,763.5s-123.5,49.5-211,1l.81-14,7.54-130,7.13-123,8.52-147h164l7.88,147,6.6,123,6.97,130Z"
         fill="#3f3d56" transform="translate(-38 -62)" />
-    <path d="M463.5,350.5" fill="none" stroke="#2f2e41" stroke-miterlimit="10"
+    <path d="M463.5,350.5" fill="none" stroke="#2f2e41" strokeMiterlimit="10"
         transform="translate(-38 -62)" />
     <path d="M674.5,763.5s-113.5,50.5-211,1l.81-14H672.95Z" fill="var(--color-primary)"
         transform="translate(-38 -62)" />

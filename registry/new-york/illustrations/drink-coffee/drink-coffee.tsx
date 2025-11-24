@@ -42,7 +42,7 @@ export const DrinkCoffee = (props: DrinkCoffeeProps) => {
         points="274.62 494.54001 247.5 446.84 148.81 493.28 204.03 564.26001 274.62 494.54001" />
     <path
         d="m215.47,461.91s-71.94,52.67001-69.28,52.37997c2.66-.28998,38.13-19.79999,38.13-19.79999l31.14999-32.58002h0v.00003Z"
-        fill="#272223" isolation="isolate" opacity=".1" />
+        fill="#272223" style={{isolation: "isolate"}} opacity=".1" />
     </svg>
   )
 }

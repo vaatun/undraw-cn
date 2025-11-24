@@ -47,7 +47,7 @@ export const Candidate = (props: CandidateProps) => {
     <polygon fill="#3f3d56" points="702.5 428.5 705.5 443.5 331.5 533.5 331.5 520.5 702.5 428.5" />
     <polygon fill="#3f3d56" points="544.5 455.5 542.5 472.5 564.5 469.5 555.5 452.5 544.5 455.5" />
     <path d="M554.5,431.5s44-3,56,31,40,95,51,104,23,33,21,41" fill="none" stroke="#3f3d56"
-        stroke-miterlimit="10" stroke-width="5" transform="translate(-131 -148)" />
+        strokeMiterlimit="10" strokeWidth="5" transform="translate(-131 -148)" />
     <path
         d="M561,431c0,4.69442-4.99187,8.5-13,8.5s-12-3.80558-12-8.5,3.99187-8.5,12-8.5S561,426.30558,561,431Z"
         fill="var(--color-primary)" transform="translate(-131 -148)" />

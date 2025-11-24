@@ -36,12 +36,12 @@ export const TrackAndField = (props: TrackAndFieldProps) => {
             d="M784.88,591.5s27.51,27.51,12,68.33,26.62,108.7,26.62,108.7l-1.29-.21c-56.5-10-84.57-74.59-53.15-122.59C780.72,627.87,790.31,606.94,784.88,591.5Z"
             opacity="0.1" transform="translate(-101.5 -46)" />
         <path d="M784.88,591s15.53,33.72,0,61.23-2.66,104.71,38.6,115.8" fill="none"
-            stroke="#535461" stroke-miterlimit="10" transform="translate(-101.5 -46)" />
+            stroke="#535461" strokeMiterlimit="10" transform="translate(-101.5 -46)" />
         <path
             d="M735.89,702.3s31.39-5,34.25,23.13,60.36,32,60.36,32l-1.08.72c-47.48,31.17-92.86,19.85-86-21.53C745.95,721.27,745.74,705.81,735.89,702.3Z"
             fill="var(--color-primary)" transform="translate(-101.5 -46)" />
         <path d="M735.89,702.3s24.37,5.35,22.36,27.5,36.18,48.71,72.25,27.66" fill="none"
-            stroke="#535461" stroke-miterlimit="10" transform="translate(-101.5 -46)" />
+            stroke="#535461" strokeMiterlimit="10" transform="translate(-101.5 -46)" />
     </g>
     <g opacity="0.2">
         <path
@@ -51,12 +51,12 @@ export const TrackAndField = (props: TrackAndFieldProps) => {
             d="M458.6,548.06s22.86,22.86,10,56.77,22.12,90.32,22.12,90.32L489.6,695c-46.94-8.29-70.27-62-44.17-101.86C455.14,578.28,463.11,560.89,458.6,548.06Z"
             opacity="0.1" transform="translate(-101.5 -46)" />
         <path d="M458.6,547.68s12.9,28,0,50.87-2.21,87,32.07,96.22" fill="none" stroke="#535461"
-            stroke-miterlimit="10" transform="translate(-101.5 -46)" />
+            strokeMiterlimit="10" transform="translate(-101.5 -46)" />
         <path
             d="M417.89,640.13S444,636,446.35,659.35,496.5,686,496.5,686l-.9.6c-39.45,25.9-77.16,16.5-71.47-17.89C426.24,655.88,426.07,643,417.89,640.13Z"
             fill="var(--color-primary)" transform="translate(-101.5 -46)" />
         <path d="M417.89,640.13s20.24,4.44,18.58,22.85,30.06,40.48,60,23" fill="none"
-            stroke="#535461" stroke-miterlimit="10" transform="translate(-101.5 -46)" />
+            stroke="#535461" strokeMiterlimit="10" transform="translate(-101.5 -46)" />
     </g>
     <g opacity="0.2">
         <path
@@ -66,12 +66,12 @@ export const TrackAndField = (props: TrackAndFieldProps) => {
             d="M362.6,404.06s22.86,22.86,10,56.77,22.12,90.32,22.12,90.32L393.6,551c-46.94-8.29-70.27-62-44.17-101.86C359.14,434.28,367.11,416.89,362.6,404.06Z"
             opacity="0.1" transform="translate(-101.5 -46)" />
         <path d="M362.6,403.68s12.9,28,0,50.87-2.21,87,32.07,96.22" fill="none" stroke="#535461"
-            stroke-miterlimit="10" transform="translate(-101.5 -46)" />
+            strokeMiterlimit="10" transform="translate(-101.5 -46)" />
         <path
             d="M321.89,496.13S348,492,350.35,515.35,400.5,542,400.5,542l-.9.6c-39.45,25.9-77.16,16.5-71.47-17.89C330.24,511.88,330.07,499,321.89,496.13Z"
             fill="var(--color-primary)" transform="translate(-101.5 -46)" />
         <path d="M321.89,496.13s20.24,4.44,18.58,22.85,30.06,40.48,60,23" fill="none"
-            stroke="#535461" stroke-miterlimit="10" transform="translate(-101.5 -46)" />
+            stroke="#535461" strokeMiterlimit="10" transform="translate(-101.5 -46)" />
     </g>
     <polygon fill="#dfe5ee"
         points="14.76 592.38 14.76 578.75 294.05 500.42 344 494.74 344 507.23 65.85 607.13 14.76 592.38" />

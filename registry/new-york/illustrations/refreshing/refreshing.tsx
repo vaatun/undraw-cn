@@ -54,27 +54,27 @@ export const Refreshing = (props: RefreshingProps) => {
         d="M554.31,747.71s-1-95.24,93.26-133.93l21.83-41.67,22.82-55.56,48.61-10.91,13.89-58.54s53.58-18.85,88.3-11.9L850,447.1s89.3-1,93.26,47.62c0,0,8.93,44.65,21.83,52.59,0,0,21.83-5,43.65,26.78l23.81,81.36S1095,714,1076.17,767.56c0,0-25.8,36.7-156.76,11.9,0,0-139.89,42.66-214.29-15.87C705.12,763.59,581.1,787.4,554.31,747.71Z"
         fill="#a8a8a8" transform="translate(-37.41 -50.3)" />
     <path d="M616.82,732.83s19.84-27.78,18.85-47.62S640.34,617,640.34,617" fill="none" opacity="0.1"
-        stroke="#000" stroke-miterlimit="10" transform="translate(-37.41 -50.3)" />
+        stroke="#000" strokeMiterlimit="10" transform="translate(-37.41 -50.3)" />
     <path d="M689.24,658.42s19.84-36.7,17.86-56.55c0,0,20.83-37.7,36.71-34.72" fill="none"
-        opacity="0.1" stroke="#000" stroke-miterlimit="10" transform="translate(-37.41 -50.3)" />
+        opacity="0.1" stroke="#000" strokeMiterlimit="10" transform="translate(-37.41 -50.3)" />
     <path d="M798.37,554.25s54.57-19.84,57.55-35.72" fill="none" opacity="0.1" stroke="#000"
-        stroke-miterlimit="10" transform="translate(-37.41 -50.3)" />
+        strokeMiterlimit="10" transform="translate(-37.41 -50.3)" />
     <path d="M818.22,599.89s57.54-25.8,57.54-32.74h28.77s41.67,54.57,36.71,78.38" fill="none"
-        opacity="0.1" stroke="#000" stroke-miterlimit="10" transform="translate(-37.41 -50.3)" />
+        opacity="0.1" stroke="#000" strokeMiterlimit="10" transform="translate(-37.41 -50.3)" />
     <path
         d="M885.68,639.57s-55.56-4-75.4,11.91-55.56,23.81-55.56,23.81S733.89,719.93,726,727.87s-20.83,35.72-20.83,35.72"
-        fill="none" opacity="0.1" stroke="#000" stroke-miterlimit="10"
+        fill="none" opacity="0.1" stroke="#000" strokeMiterlimit="10"
         transform="translate(-37.41 -50.3)" />
     <path d="M885.68,692.16s6,20.83,13.89,32.74,19.84,54.56,19.84,54.56" fill="none" opacity="0.1"
-        stroke="#000" stroke-miterlimit="10" transform="translate(-37.41 -50.3)" />
+        stroke="#000" strokeMiterlimit="10" transform="translate(-37.41 -50.3)" />
     <path d="M978.94,752.67s12.59,35,23.66,35.38" fill="none" opacity="0.1" stroke="#000"
-        stroke-miterlimit="10" transform="translate(-37.41 -50.3)" />
+        strokeMiterlimit="10" transform="translate(-37.41 -50.3)" />
     <path d="M896.45,602.28s32.72,8.84,46.39,30.26,55.5,40.86,55.5,40.86" fill="none" opacity="0.1"
-        stroke="#000" stroke-miterlimit="10" transform="translate(-37.41 -50.3)" />
+        stroke="#000" strokeMiterlimit="10" transform="translate(-37.41 -50.3)" />
     <path d="M910.48,496.71s0,45.64,12.9,45.64,41.67,5,41.67,5" fill="none" opacity="0.1"
-        stroke="#000" stroke-miterlimit="10" transform="translate(-37.41 -50.3)" />
+        stroke="#000" strokeMiterlimit="10" transform="translate(-37.41 -50.3)" />
     <path d="M847.31,442.55s-3.3,78.83-20.16,99.23" fill="none" opacity="0.1" stroke="#000"
-        stroke-miterlimit="10" transform="translate(-37.41 -50.3)" />
+        strokeMiterlimit="10" transform="translate(-37.41 -50.3)" />
     <g opacity="0.05">
         <path
             d="M1030.53,654.45l-23.81-81.35c-21.83-31.75-43.65-26.79-43.65-26.79-12.9-7.93-21.83-52.58-21.83-52.58-4-48.61-93.26-47.62-93.26-47.62L841,434.2c-8.79-1.75-18.79-1.86-28.83-1,2.4.24,4.74.58,7,1l6.94,11.91s89.29-1,93.26,47.62c0,0,8.93,44.65,21.83,52.58,0,0,21.83-5,43.65,26.79l23.81,81.35s62.51,58.54,43.66,112.11c0,0-12.73,18.11-65.68,20.3,71.38,2.62,87.5-20.3,87.5-20.3C1093,713,1030.53,654.45,1030.53,654.45Z"

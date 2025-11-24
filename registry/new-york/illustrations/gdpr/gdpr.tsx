@@ -156,7 +156,7 @@ export const Gdpr = (props: GdprProps) => {
         fill="#eb6475" transform="translate(-96.51 -5.43)" />
     <path
         d="M209.19,686.35s-13.26-45,2.49-78.14a71.09,71.09,0,0,0,5.75-44.6,119.57,119.57,0,0,0-6.31-20.93"
-        fill="none" stroke="#535461" stroke-miterlimit="10" stroke-width="2"
+        fill="none" stroke="#535461" strokeMiterlimit="10" strokeWidth="2"
         transform="translate(-96.51 -5.43)" />
     <path d="M220.9,521.74c0,5.52-10,21.51-10,21.51s-10-16-10-21.51a10,10,0,0,1,20,0Z"
         fill="var(--color-primary)" transform="translate(-96.51 -5.43)" />
@@ -186,12 +186,12 @@ export const Gdpr = (props: GdprProps) => {
         d="M774.38,434.56s-41.84,41.84-18.22,103.92S715.67,703.8,715.67,703.8s.69-.1,2-.32C803.56,688.31,846.25,590,798.47,517,780.71,489.89,766.13,458,774.38,434.56Z"
         opacity="0.1" transform="translate(-96.51 -5.43)" />
     <path d="M774.38,433.87s-23.62,51.28,0,93.12,4,159.25-58.71,176.12" fill="none" stroke="#535461"
-        stroke-miterlimit="10" transform="translate(-96.51 -5.43)" />
+        strokeMiterlimit="10" transform="translate(-96.51 -5.43)" />
     <path
         d="M848.89,603.08s-47.74-7.6-52.09,35.18S705,687,705,687l1.64,1.09c72.2,47.4,141.23,30.19,130.82-32.75C833.6,631.93,833.91,608.43,848.89,603.08Z"
         fill="var(--color-primary)" transform="translate(-96.51 -5.43)" />
     <path d="M848.89,603.08s-37.06,8.13-34,41.83S759.85,719,705,687" fill="none" stroke="#535461"
-        stroke-miterlimit="10" transform="translate(-96.51 -5.43)" />
+        strokeMiterlimit="10" transform="translate(-96.51 -5.43)" />
     <path
         d="M806.89,688.54S769.29,681,759.26,671s-55.15-27.57-60.16-15S631.42,711.1,674,718.62s100.27,10,112.8,5S806.89,688.54,806.89,688.54Z"
         fill="#a8a8a8" transform="translate(-96.51 -5.43)" />

@@ -50,7 +50,7 @@ export const SocialStrategy = (props: SocialStrategyProps) => {
         fill="#3f3d56" transform="translate(-196 -240.035)" />
     <path
         d="M909.92593,428.83458a27.4562,27.4562,0,1,0-31.74623,27.124v-19.185h-6.97314v-7.939h6.97314v-6.05017c0-6.88,4.1-10.6834,10.37084-10.6834a42.19154,42.19154,0,0,1,6.147.53687v6.75741h-3.4639c-3.40873,0-4.47511,2.1156-4.47511,4.29v5.15049h7.61419l-1.21592,7.939h-6.39828v19.18625a27.46358,27.46358,0,0,0,23.16741-27.12648Z"
-        fill="var(--color-primary)" fill-rule="evenodd" transform="translate(-196 -240.035)" />
+        fill="var(--color-primary)" fillRule="evenodd" transform="translate(-196 -240.035)" />
     <path
         d="M1004,658.965a1.00308,1.00308,0,0,1-1,1H197a1,1,0,0,1,0-2h806A1.00308,1.00308,0,0,1,1004,658.965Z"
         fill="#3f3d56" transform="translate(-196 -240.035)" />

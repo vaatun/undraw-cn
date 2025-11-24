@@ -56,7 +56,7 @@ export const WinterDesigner = (props: WinterDesignerProps) => {
         fill="#fff" transform="translate(-34.96 -43.43)" />
     <circle cx="294.92" cy="82.92" fill="#565661" r="5.57" />
     <polyline fill="none" points="259.22 110.42 294.92 82.92 330.99 110.42" stroke="#565661"
-        stroke-miterlimit="10" />
+        strokeMiterlimit="10" />
     <path d="M335.59,227.62l.44.28.92-.1Z" fill="url(#bc196d5e-e6db-431f-8e4d-c46ceaa79599-2543)"
         transform="translate(-34.96 -43.43)" />
     <path d="M337,227.8l7.71,1A17.93,17.93,0,0,0,337,227.8Z"
@@ -305,18 +305,18 @@ export const WinterDesigner = (props: WinterDesignerProps) => {
         d="M132.2,526.6c36.52,26.42,51.73,67.74,51.73,67.74s-44-1.51-80.53-27.93-51.72-67.73-51.72-67.73S95.69,500.19,132.2,526.6Z"
         fill="var(--color-primary)" transform="translate(-34.96 -43.43)" />
     <path d="M51.68,498.68S97.35,524,112,545s71.92,49.32,71.92,49.32" fill="none" stroke="#535461"
-        stroke-miterlimit="10" stroke-width="2" transform="translate(-34.96 -43.43)" />
+        strokeMiterlimit="10" strokeWidth="2" transform="translate(-34.96 -43.43)" />
     <path
         d="M155.77,473.38c19.88,14.37,28.16,36.87,28.16,36.87s-24-.83-43.83-15.2S112,458.18,112,458.18,135.9,459,155.77,473.38Z"
         fill="var(--color-primary)" transform="translate(-34.96 -43.43)" />
     <path d="M112,458.18s24.86,13.8,32.83,25.22,39.15,26.85,39.15,26.85" fill="none"
-        stroke="#535461" stroke-miterlimit="10" stroke-width="2"
+        stroke="#535461" strokeMiterlimit="10" strokeWidth="2"
         transform="translate(-34.96 -43.43)" />
     <path
         d="M212.81,509.1C190,534.19,185.15,567,185.15,567s32.19-7.9,55-33,27.66-57.88,27.66-57.88S235.64,484,212.81,509.1Z"
         fill="var(--color-primary)" transform="translate(-34.96 -43.43)" />
     <path d="M267.83,476.11s-29.74,25.72-37.3,43.44S185.15,567,185.15,567" fill="none"
-        stroke="#535461" stroke-miterlimit="10" stroke-width="2"
+        stroke="#535461" strokeMiterlimit="10" strokeWidth="2"
         transform="translate(-34.96 -43.43)" />
     <g opacity="0.87">
         <path
@@ -342,26 +342,26 @@ export const WinterDesigner = (props: WinterDesignerProps) => {
             ry="34.89" />
         <rect fill="#565661" height="676.79" width="11.71" x="943.96" y="91.48" />
         <ellipse cx="949.82" cy="132.45" fill="none" rx="52.67" ry="8.51" stroke="#565661"
-            stroke-miterlimit="10" stroke-width="9" />
+            strokeMiterlimit="10" strokeWidth="9" />
         <path
             d="M915.34,131.3A21.76,21.76,0,0,0,905,167.61c6.13,6.29,15.3,8.27,23.85,10.27,16.41,3.84,34,9.86,42.88,24.17a36,36,0,0,1,3.13,31,18,18,0,0,1-4.05,6.75,20.57,20.57,0,0,1-8,4.31,71.14,71.14,0,0,1-41.1,1.1"
-            fill="none" stroke="#565661" stroke-miterlimit="10" stroke-width="9"
+            fill="none" stroke="#565661" strokeMiterlimit="10" strokeWidth="9"
             transform="translate(-34.96 -43.43)" />
         <path
             d="M1052.35,131.3a21.77,21.77,0,0,1,10.34,36.31c-6.13,6.29-15.3,8.27-23.85,10.27-16.41,3.84-34,9.86-42.88,24.17a36,36,0,0,0-3.13,31,18,18,0,0,0,4,6.75,20.57,20.57,0,0,0,8,4.31,71.14,71.14,0,0,0,41.1,1.1"
-            fill="none" stroke="#565661" stroke-miterlimit="10" stroke-width="9"
+            fill="none" stroke="#565661" strokeMiterlimit="10" strokeWidth="9"
             transform="translate(-34.96 -43.43)" />
         <ellipse cx="949.82" cy="527.24" fill="none" rx="48.95" ry="13.83" stroke="#565661"
-            stroke-miterlimit="10" stroke-width="9" />
+            strokeMiterlimit="10" strokeWidth="9" />
         <ellipse cx="949.82" cy="701.04" fill="none" rx="48.95" ry="13.83" stroke="#565661"
-            stroke-miterlimit="10" stroke-width="9" />
+            strokeMiterlimit="10" strokeWidth="9" />
         <path
             d="M937.32,574.88a132,132,0,0,1,38.1,67.29,79.83,79.83,0,0,1,2,14.34c.38,11-2.41,21.92-6,32.35-6.77,19.74-16.83,38.92-32.61,52.56-14.16,12.24-32,19.27-49.75,25.21"
-            fill="none" stroke="#565661" stroke-miterlimit="10" stroke-width="9"
+            fill="none" stroke="#565661" strokeMiterlimit="10" strokeWidth="9"
             transform="translate(-34.96 -43.43)" />
         <path
             d="M1032.23,574.88a132,132,0,0,0-38.1,67.29,80.73,80.73,0,0,0-2,14.34c-.38,11,2.41,21.92,6,32.35,6.76,19.74,16.82,38.92,32.61,52.56,14.15,12.24,32,19.27,49.74,25.21"
-            fill="none" stroke="#565661" stroke-miterlimit="10" stroke-width="9"
+            fill="none" stroke="#565661" strokeMiterlimit="10" strokeWidth="9"
             transform="translate(-34.96 -43.43)" />
         <rect fill="#454b69" height="10.61" width="25.94" x="840.75" y="82.48" />
         <path

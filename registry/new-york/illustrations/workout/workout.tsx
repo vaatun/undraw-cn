@@ -125,41 +125,41 @@ export const Workout = (props: WorkoutProps) => {
     <path
         d="M757.28,794.39s-57.5-188.5,9-264c49.74-56.48,106.21-49.72,131.5-42.74a46.71,46.71,0,0,1,30.16,25.07c8.84,19.08,7.25,50-55.16,86.17-104.5,60.5-111,143.5-111,143.5Z"
         fill="var(--color-primary)" transform="translate(-86.32 -50.56)" />
-    <path d="M888.78,514.39s-169.5,53-131.5,280" fill="none" stroke="#565987" stroke-miterlimit="10"
+    <path d="M888.78,514.39s-169.5,53-131.5,280" fill="none" stroke="#565987" strokeMiterlimit="10"
         transform="translate(-86.32 -50.56)" />
     <path d="M789.78,533.39s23.33,15.73,15.92,39.36" fill="none" stroke="#565987"
-        stroke-miterlimit="10" transform="translate(-86.32 -50.56)" />
+        strokeMiterlimit="10" transform="translate(-86.32 -50.56)" />
     <path d="M871.78,547.39s-14.27-14.52-31.64-6.51" fill="none" stroke="#565987"
-        stroke-miterlimit="10" transform="translate(-86.32 -50.56)" />
+        strokeMiterlimit="10" transform="translate(-86.32 -50.56)" />
     <path d="M804.78,620.39s-25.06-12.72-31.54,3.21" fill="none" stroke="#565987"
-        stroke-miterlimit="10" transform="translate(-86.32 -50.56)" />
-    <path d="M742.78,646.89s18.81-1.5,19.15,7.5" fill="none" stroke="#565987" stroke-miterlimit="10"
+        strokeMiterlimit="10" transform="translate(-86.32 -50.56)" />
+    <path d="M742.78,646.89s18.81-1.5,19.15,7.5" fill="none" stroke="#565987" strokeMiterlimit="10"
         transform="translate(-86.32 -50.56)" />
     <path
         d="M755,795.89s67.34-137,85.84-134c8.79,1.42,12.84,10.07,14.67,18.75A55.1,55.1,0,0,1,851.79,714C842.24,735.91,816.57,777.54,755,795.89Z"
         fill="var(--color-primary)" transform="translate(-86.32 -50.56)" />
     <path d="M840.29,687.89s-70.68,102.5-84.34,107" fill="none" stroke="#565987"
-        stroke-miterlimit="10" transform="translate(-86.32 -50.56)" />
-    <line fill="none" stroke="#565987" stroke-miterlimit="10" x1="760.47" x2="743.97" y1="653.33"
+        strokeMiterlimit="10" transform="translate(-86.32 -50.56)" />
+    <line fill="none" stroke="#565987" strokeMiterlimit="10" x1="760.47" x2="743.97" y1="653.33"
         y2="653.33" />
-    <line fill="none" stroke="#565987" stroke-miterlimit="10" x1="740.71" x2="714.85" y1="690.83"
+    <line fill="none" stroke="#565987" strokeMiterlimit="10" x1="740.71" x2="714.85" y1="690.83"
         y2="691.94" />
-    <line fill="none" stroke="#565987" stroke-miterlimit="10" x1="724.97" x2="727.78" y1="660.83"
+    <line fill="none" stroke="#565987" strokeMiterlimit="10" x1="724.97" x2="727.78" y1="660.83"
         y2="674.3" />
-    <line fill="none" stroke="#565987" stroke-miterlimit="10" x1="697.47" x2="697.97" y1="701.83"
+    <line fill="none" stroke="#565987" strokeMiterlimit="10" x1="697.47" x2="697.97" y1="701.83"
         y2="714.07" />
     <path
         d="M757,795.89s-67.34-137-85.84-134c-8.79,1.42-12.84,10.07-14.67,18.75A55.1,55.1,0,0,0,660.11,714C669.66,735.91,695.33,777.54,757,795.89Z"
         fill="var(--color-primary)" transform="translate(-86.32 -50.56)" />
     <path d="M671.61,687.89s70.68,102.5,84.34,107" fill="none" stroke="#565987"
-        stroke-miterlimit="10" transform="translate(-86.32 -50.56)" />
-    <line fill="none" stroke="#565987" stroke-miterlimit="10" x1="578.78" x2="595.28" y1="653.33"
+        strokeMiterlimit="10" transform="translate(-86.32 -50.56)" />
+    <line fill="none" stroke="#565987" strokeMiterlimit="10" x1="578.78" x2="595.28" y1="653.33"
         y2="653.33" />
-    <line fill="none" stroke="#565987" stroke-miterlimit="10" x1="598.55" x2="624.41" y1="690.83"
+    <line fill="none" stroke="#565987" strokeMiterlimit="10" x1="598.55" x2="624.41" y1="690.83"
         y2="691.94" />
-    <line fill="none" stroke="#565987" stroke-miterlimit="10" x1="614.28" x2="611.48" y1="660.83"
+    <line fill="none" stroke="#565987" strokeMiterlimit="10" x1="614.28" x2="611.48" y1="660.83"
         y2="674.3" />
-    <line fill="none" stroke="#565987" stroke-miterlimit="10" x1="641.78" x2="641.28" y1="701.83"
+    <line fill="none" stroke="#565987" strokeMiterlimit="10" x1="641.78" x2="641.28" y1="701.83"
         y2="714.07" />
     <path
         d="M872.58,827.88a11.63,11.63,0,0,0,3.84-5.78c.49-2.3-.49-5.05-2.68-5.89-2.46-.94-5.09.76-7.08,2.48s-4.28,3.69-6.89,3.32A10.47,10.47,0,0,0,863,812.2a4,4,0,0,0-.9-2c-1.36-1.46-3.84-.83-5.48.32-5.2,3.66-6.65,10.72-6.67,17.08-.53-2.3-.09-4.69-.1-7s-.66-5-2.64-6.22a8,8,0,0,0-4-1c-2.34-.08-4.94.15-6.54,1.86-2,2.12-1.47,5.69.26,8s4.35,3.8,6.76,5.42a14.82,14.82,0,0,1,4.84,4.61,4.41,4.41,0,0,1,.36.82h14.65A40.77,40.77,0,0,0,872.58,827.88Z"

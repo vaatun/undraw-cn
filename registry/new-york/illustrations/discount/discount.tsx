@@ -95,7 +95,7 @@ export const Discount = (props: DiscountProps) => {
         fill="#3f3d56" transform="translate(-28.5 -118.14)" />
     <path
         d="M788.57,750.46c4.12-7.64-.56-17-5.94-23.82s-11.94-13.9-11.8-22.59c.2-12.47,13.44-19.84,24-26.46a117.08,117.08,0,0,0,21.58-17.34,31.68,31.68,0,0,0,6.63-8.88c2.19-4.88,2.12-10.43,2-15.77q-.69-26.72-2.64-53.36"
-        fill="none" stroke="#3f3d56" stroke-miterlimit="10" stroke-width="4"
+        fill="none" stroke="#3f3d56" strokeMiterlimit="10" strokeWidth="4"
         transform="translate(-28.5 -118.14)" />
     <path
         d="M842.52,581.26a19.43,19.43,0,0,0-9.71-15.94l-4.36,8.62.13-10.44a19.69,19.69,0,0,0-6.41-.77,19.46,19.46,0,1,0,20.35,18.53Z"
@@ -123,7 +123,7 @@ export const Discount = (props: DiscountProps) => {
         opacity="0.1" transform="translate(-28.5 -118.14)" />
     <path
         d="M1089.57,749.46c4.12-7.64-.56-17-5.94-23.82s-11.94-13.9-11.8-22.59c.2-12.47,13.44-19.84,24-26.46a117.08,117.08,0,0,0,21.58-17.34,31.68,31.68,0,0,0,6.63-8.88c2.19-4.88,2.12-10.43,2-15.77q-.69-26.72-2.64-53.36"
-        fill="none" stroke="#3f3d56" stroke-miterlimit="10" stroke-width="4"
+        fill="none" stroke="#3f3d56" strokeMiterlimit="10" strokeWidth="4"
         transform="translate(-28.5 -118.14)" />
     <path
         d="M1143.52,580.26a19.43,19.43,0,0,0-9.71-15.94l-4.36,8.62.13-10.44a19.69,19.69,0,0,0-6.41-.77,19.46,19.46,0,1,0,20.35,18.53Z"
@@ -151,7 +151,7 @@ export const Discount = (props: DiscountProps) => {
         opacity="0.1" transform="translate(-28.5 -118.14)" />
     <path
         d="M138.43,736.46c-4.12-7.64.56-17,5.94-23.82s11.94-13.9,11.8-22.59c-.2-12.47-13.44-19.84-24-26.46a117.08,117.08,0,0,1-21.58-17.34,31.68,31.68,0,0,1-6.63-8.88c-2.19-4.88-2.12-10.43-2-15.77q.69-26.72,2.64-53.36"
-        fill="none" stroke="#3f3d56" stroke-miterlimit="10" stroke-width="4"
+        fill="none" stroke="#3f3d56" strokeMiterlimit="10" strokeWidth="4"
         transform="translate(-28.5 -118.14)" />
     <path
         d="M84.48,567.26a19.43,19.43,0,0,1,9.71-15.94l4.36,8.62-.13-10.44a19.69,19.69,0,0,1,6.41-.77,19.46,19.46,0,1,1-20.35,18.53Z"

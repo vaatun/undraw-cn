@@ -45,106 +45,106 @@ export const Goal = (props: GoalProps) => {
         opacity="0.2" transform="translate(-27.8 -50.55)" />
     <polyline fill="none"
         points="993.9 76.97 993.9 464.96 973.9 451.96 973.9 76.97 961.9 76.97 956.9 438.96 937.9 424.96 950.9 71.97"
-        stroke="#e0e0e0" stroke-miterlimit="10" />
-    <line fill="none" stroke="#e0e0e0" stroke-miterlimit="10" x1="1018.91" x2="937.91" y1="104.97"
+        stroke="#e0e0e0" strokeMiterlimit="10" />
+    <line fill="none" stroke="#e0e0e0" strokeMiterlimit="10" x1="1018.91" x2="937.91" y1="104.97"
         y2="109.47" />
-    <line fill="none" stroke="#e0e0e0" stroke-miterlimit="10" x1="1013.91" x2="937.91" y1="124.97"
+    <line fill="none" stroke="#e0e0e0" strokeMiterlimit="10" x1="1013.91" x2="937.91" y1="124.97"
         y2="127.97" />
-    <line fill="none" stroke="#e0e0e0" stroke-miterlimit="10" x1="1013.91" x2="937.91" y1="148.97"
+    <line fill="none" stroke="#e0e0e0" strokeMiterlimit="10" x1="1013.91" x2="937.91" y1="148.97"
         y2="150.97" />
-    <line fill="none" stroke="#e0e0e0" stroke-miterlimit="10" x1="1013.91" x2="937.91" y1="170.97"
+    <line fill="none" stroke="#e0e0e0" strokeMiterlimit="10" x1="1013.91" x2="937.91" y1="170.97"
         y2="173.97" />
-    <line fill="none" stroke="#e0e0e0" stroke-miterlimit="10" x1="1013.91" x2="934.91" y1="195.97"
+    <line fill="none" stroke="#e0e0e0" strokeMiterlimit="10" x1="1013.91" x2="934.91" y1="195.97"
         y2="195.97" />
-    <line fill="none" stroke="#e0e0e0" stroke-miterlimit="10" x1="1013.91" x2="932.91" y1="220.97"
+    <line fill="none" stroke="#e0e0e0" strokeMiterlimit="10" x1="1013.91" x2="932.91" y1="220.97"
         y2="217.97" />
-    <line fill="none" stroke="#e0e0e0" stroke-miterlimit="10" x1="1013.91" x2="932.91" y1="243.97"
+    <line fill="none" stroke="#e0e0e0" strokeMiterlimit="10" x1="1013.91" x2="932.91" y1="243.97"
         y2="239.97" />
-    <line fill="none" stroke="#e0e0e0" stroke-miterlimit="10" x1="1013.91" x2="932.91" y1="268.97"
+    <line fill="none" stroke="#e0e0e0" strokeMiterlimit="10" x1="1013.91" x2="932.91" y1="268.97"
         y2="262.97" />
-    <line fill="none" stroke="#e0e0e0" stroke-miterlimit="10" x1="1015.91" x2="929.91" y1="290.97"
+    <line fill="none" stroke="#e0e0e0" strokeMiterlimit="10" x1="1015.91" x2="929.91" y1="290.97"
         y2="282.97" />
-    <line fill="none" stroke="#e0e0e0" stroke-miterlimit="10" x1="1015.91" x2="929.91" y1="315.97"
+    <line fill="none" stroke="#e0e0e0" strokeMiterlimit="10" x1="1015.91" x2="929.91" y1="315.97"
         y2="302.97" />
-    <line fill="none" stroke="#e0e0e0" stroke-miterlimit="10" x1="1015.91" x2="926.91" y1="344.97"
+    <line fill="none" stroke="#e0e0e0" strokeMiterlimit="10" x1="1015.91" x2="926.91" y1="344.97"
         y2="328.97" />
-    <line fill="none" stroke="#e0e0e0" stroke-miterlimit="10" x1="1015.91" x2="926.91" y1="377.97"
+    <line fill="none" stroke="#e0e0e0" strokeMiterlimit="10" x1="1015.91" x2="926.91" y1="377.97"
         y2="351.97" />
-    <line fill="none" stroke="#e0e0e0" stroke-miterlimit="10" x1="1017.91" x2="923.91" y1="411.97"
+    <line fill="none" stroke="#e0e0e0" strokeMiterlimit="10" x1="1017.91" x2="923.91" y1="411.97"
         y2="374.97" />
-    <line fill="none" stroke="#e0e0e0" stroke-miterlimit="10" x1="1017.91" x2="923.91" y1="442.97"
+    <line fill="none" stroke="#e0e0e0" strokeMiterlimit="10" x1="1017.91" x2="923.91" y1="442.97"
         y2="396.97" />
     <polyline fill="none"
         points="915.9 75.97 899.9 416.96 878.9 416.96 891.9 75.97 868.9 75.97 853.9 416.96 830.9 416.96 843.9 75.97 815.9 75.97 805.9 416.96 780.9 416.96 791.9 78.97 765.9 78.97 759.9 416.96 736.9 416.96 743.9 75.97 720.9 75.97 715.9 416.96 693.9 416.96 698.9 75.97 672.9 75.97 672.9 416.96 646.9 416.96 646.9 75.97 622.9 75.97 626.9 416.96 605.9 416.96 599.9 75.97 575.9 75.97 583.9 416.96 562.9 416.96 552.9 75.97 531.9 75.97 539.9 416.96 520.9 416.96 505.9 75.97 485.9 75.97 501.9 416.96 481.9 416.96 459.9 75.97 435.9 75.97 463.9 416.96 444.9 416.96 417.9 75.97 398.9 75.97 426.9 416.96 405.9 416.96 378.9 71.97 359.9 71.97 390.9 416.96 370.9 416.96 338.9 71.97"
-        stroke="#e0e0e0" stroke-miterlimit="10" />
+        stroke="#e0e0e0" strokeMiterlimit="10" />
     <polyline fill="none"
         points="293.9 76.97 323.9 422.96 308.9 434.96 285.9 76.97 269.9 76.97 285.9 447.96 262.9 462.96 253.91 71.97"
-        stroke="#e0e0e0" stroke-miterlimit="10" />
-    <line fill="none" stroke="#e0e0e0" stroke-miterlimit="10" x1="231.91" x2="323.91" y1="115.97"
+        stroke="#e0e0e0" strokeMiterlimit="10" />
+    <line fill="none" stroke="#e0e0e0" strokeMiterlimit="10" x1="231.91" x2="323.91" y1="115.97"
         y2="115.97" />
-    <line fill="none" stroke="#e0e0e0" stroke-miterlimit="10" x1="231.91" x2="323.91" y1="140.97"
+    <line fill="none" stroke="#e0e0e0" strokeMiterlimit="10" x1="231.91" x2="323.91" y1="140.97"
         y2="140.97" />
-    <line fill="none" stroke="#e0e0e0" stroke-miterlimit="10" x1="231.91" x2="323.91" y1="168.97"
+    <line fill="none" stroke="#e0e0e0" strokeMiterlimit="10" x1="231.91" x2="323.91" y1="168.97"
         y2="165.97" />
-    <line fill="none" stroke="#e0e0e0" stroke-miterlimit="10" x1="231.91" x2="327.91" y1="192.97"
+    <line fill="none" stroke="#e0e0e0" strokeMiterlimit="10" x1="231.91" x2="327.91" y1="192.97"
         y2="187.97" />
-    <line fill="none" stroke="#e0e0e0" stroke-miterlimit="10" x1="231.91" x2="327.91" y1="219.97"
+    <line fill="none" stroke="#e0e0e0" strokeMiterlimit="10" x1="231.91" x2="327.91" y1="219.97"
         y2="215.97" />
-    <line fill="none" stroke="#e0e0e0" stroke-miterlimit="10" x1="231.91" x2="331.91" y1="248.97"
+    <line fill="none" stroke="#e0e0e0" strokeMiterlimit="10" x1="231.91" x2="331.91" y1="248.97"
         y2="243.97" />
-    <line fill="none" stroke="#e0e0e0" stroke-miterlimit="10" x1="231.91" x2="331.91" y1="276.97"
+    <line fill="none" stroke="#e0e0e0" strokeMiterlimit="10" x1="231.91" x2="331.91" y1="276.97"
         y2="266.97" />
-    <line fill="none" stroke="#e0e0e0" stroke-miterlimit="10" x1="231.91" x2="331.91" y1="308.97"
+    <line fill="none" stroke="#e0e0e0" strokeMiterlimit="10" x1="231.91" x2="331.91" y1="308.97"
         y2="284.97" />
-    <line fill="none" stroke="#e0e0e0" stroke-miterlimit="10" x1="231.91" x2="335.91" y1="336.97"
+    <line fill="none" stroke="#e0e0e0" strokeMiterlimit="10" x1="231.91" x2="335.91" y1="336.97"
         y2="301.97" />
-    <line fill="none" stroke="#e0e0e0" stroke-miterlimit="10" x1="231.91" x2="335.91" y1="365.97"
+    <line fill="none" stroke="#e0e0e0" strokeMiterlimit="10" x1="231.91" x2="335.91" y1="365.97"
         y2="325.97" />
-    <line fill="none" stroke="#e0e0e0" stroke-miterlimit="10" x1="228.91" x2="332.44" y1="393.97"
+    <line fill="none" stroke="#e0e0e0" strokeMiterlimit="10" x1="228.91" x2="332.44" y1="393.97"
         y2="350.52" />
-    <line fill="none" stroke="#e0e0e0" stroke-miterlimit="10" x1="228.91" x2="335.91" y1="425.97"
+    <line fill="none" stroke="#e0e0e0" strokeMiterlimit="10" x1="228.91" x2="335.91" y1="425.97"
         y2="371.97" />
-    <line fill="none" stroke="#e0e0e0" stroke-miterlimit="10" x1="228.91" x2="338.91" y1="454.97"
+    <line fill="none" stroke="#e0e0e0" strokeMiterlimit="10" x1="228.91" x2="338.91" y1="454.97"
         y2="393.97" />
-    <line fill="none" stroke="#e0e0e0" stroke-miterlimit="10" x1="937.91" x2="323.91" y1="104.97"
+    <line fill="none" stroke="#e0e0e0" strokeMiterlimit="10" x1="937.91" x2="323.91" y1="104.97"
         y2="109.97" />
-    <line fill="none" stroke="#e0e0e0" stroke-miterlimit="10" x1="937.41" x2="323.41" y1="122.97"
+    <line fill="none" stroke="#e0e0e0" strokeMiterlimit="10" x1="937.41" x2="323.41" y1="122.97"
         y2="127.97" />
-    <line fill="none" stroke="#e0e0e0" stroke-miterlimit="10" x1="936.91" x2="322.91" y1="140.97"
+    <line fill="none" stroke="#e0e0e0" strokeMiterlimit="10" x1="936.91" x2="322.91" y1="140.97"
         y2="145.97" />
-    <line fill="none" stroke="#e0e0e0" stroke-miterlimit="10" x1="936.41" x2="322.41" y1="158.97"
+    <line fill="none" stroke="#e0e0e0" strokeMiterlimit="10" x1="936.41" x2="322.41" y1="158.97"
         y2="163.97" />
-    <line fill="none" stroke="#e0e0e0" stroke-miterlimit="10" x1="935.91" x2="321.91" y1="176.97"
+    <line fill="none" stroke="#e0e0e0" strokeMiterlimit="10" x1="935.91" x2="321.91" y1="176.97"
         y2="181.97" />
-    <line fill="none" stroke="#e0e0e0" stroke-miterlimit="10" x1="935.41" x2="329.41" y1="194.97"
+    <line fill="none" stroke="#e0e0e0" strokeMiterlimit="10" x1="935.41" x2="329.41" y1="194.97"
         y2="199.97" />
-    <line fill="none" stroke="#e0e0e0" stroke-miterlimit="10" x1="934.91" x2="328.91" y1="212.97"
+    <line fill="none" stroke="#e0e0e0" strokeMiterlimit="10" x1="934.91" x2="328.91" y1="212.97"
         y2="217.97" />
-    <line fill="none" stroke="#e0e0e0" stroke-miterlimit="10" x1="934.41" x2="328.41" y1="230.97"
+    <line fill="none" stroke="#e0e0e0" strokeMiterlimit="10" x1="934.41" x2="328.41" y1="230.97"
         y2="235.97" />
-    <line fill="none" stroke="#e0e0e0" stroke-miterlimit="10" x1="933.91" x2="327.91" y1="248.97"
+    <line fill="none" stroke="#e0e0e0" strokeMiterlimit="10" x1="933.91" x2="327.91" y1="248.97"
         y2="253.97" />
-    <line fill="none" stroke="#e0e0e0" stroke-miterlimit="10" x1="933.41" x2="333.41" y1="266.97"
+    <line fill="none" stroke="#e0e0e0" strokeMiterlimit="10" x1="933.41" x2="333.41" y1="266.97"
         y2="271.97" />
-    <line fill="none" stroke="#e0e0e0" stroke-miterlimit="10" x1="932.91" x2="332.91" y1="284.97"
+    <line fill="none" stroke="#e0e0e0" strokeMiterlimit="10" x1="932.91" x2="332.91" y1="284.97"
         y2="289.97" />
-    <line fill="none" stroke="#e0e0e0" stroke-miterlimit="10" x1="932.41" x2="332.41" y1="302.97"
+    <line fill="none" stroke="#e0e0e0" strokeMiterlimit="10" x1="932.41" x2="332.41" y1="302.97"
         y2="307.97" />
-    <line fill="none" stroke="#e0e0e0" stroke-miterlimit="10" x1="931.91" x2="335.91" y1="320.97"
+    <line fill="none" stroke="#e0e0e0" strokeMiterlimit="10" x1="931.91" x2="335.91" y1="320.97"
         y2="325.97" />
-    <line fill="none" stroke="#e0e0e0" stroke-miterlimit="10" x1="931.41" x2="335.41" y1="338.97"
+    <line fill="none" stroke="#e0e0e0" strokeMiterlimit="10" x1="931.41" x2="335.41" y1="338.97"
         y2="343.97" />
-    <line fill="none" stroke="#e0e0e0" stroke-miterlimit="10" x1="930.91" x2="337.91" y1="356.97"
+    <line fill="none" stroke="#e0e0e0" strokeMiterlimit="10" x1="930.91" x2="337.91" y1="356.97"
         y2="361.97" />
-    <line fill="none" stroke="#e0e0e0" stroke-miterlimit="10" x1="930.41" x2="337.41" y1="374.97"
+    <line fill="none" stroke="#e0e0e0" strokeMiterlimit="10" x1="930.41" x2="337.41" y1="374.97"
         y2="379.97" />
-    <line fill="none" stroke="#e0e0e0" stroke-miterlimit="10" x1="929.91" x2="336.91" y1="392.97"
+    <line fill="none" stroke="#e0e0e0" strokeMiterlimit="10" x1="929.91" x2="336.91" y1="392.97"
         y2="397.97" />
     <polyline fill="none" points="1017.9 481.96 926.9 416.96 335.9 416.96 231.91 481.96"
-        stroke="#e0e0e0" stroke-miterlimit="10" stroke-width="3" />
+        stroke="#e0e0e0" strokeMiterlimit="10" strokeWidth="3" />
     <path
         d="M1051.35,462.18s2.31-68.26,39.23-106.81a103.48,103.48,0,0,0,28.38-59,174,174,0,0,0,.87-31.81"
-        fill="none" stroke="#535461" stroke-miterlimit="10" stroke-width="2"
+        fill="none" stroke="#535461" strokeMiterlimit="10" strokeWidth="2"
         transform="translate(-27.8 -50.55)" />
     <path
         d="M1142.95,240.13c-2.53,7.62-23.65,25.14-23.65,25.14s-6.47-26.68-3.94-34.3a14.54,14.54,0,0,1,27.6,9.15Z"
@@ -169,7 +169,7 @@ export const Goal = (props: GoalProps) => {
         fill="var(--color-primary)" transform="translate(-27.8 -50.55)" />
     <path
         d="M1066.35,523.18s2.31-68.26,39.23-106.81a103.48,103.48,0,0,0,28.38-59,174,174,0,0,0,.87-31.81"
-        fill="none" stroke="#535461" stroke-miterlimit="10" stroke-width="2"
+        fill="none" stroke="#535461" strokeMiterlimit="10" strokeWidth="2"
         transform="translate(-27.8 -50.55)" />
     <path
         d="M1157.95,301.13c-2.53,7.62-23.65,25.14-23.65,25.14s-6.47-26.68-3.94-34.3a14.54,14.54,0,0,1,27.6,9.15Z"
@@ -197,7 +197,7 @@ export const Goal = (props: GoalProps) => {
         fill="#e0e0e0" transform="translate(-27.8 -50.55)" />
     <path
         d="M235.57,540.6s-3.24-52.86,22.43-85.34a80.24,80.24,0,0,0,17.57-47.62A135,135,0,0,0,273.89,383"
-        fill="none" stroke="#535461" stroke-miterlimit="10" stroke-width="2"
+        fill="none" stroke="#535461" strokeMiterlimit="10" strokeWidth="2"
         transform="translate(-27.8 -50.55)" />
     <path
         d="M289.95,362.46c-1.39,6.07-16.41,21.15-16.41,21.15s-7-20.12-5.57-26.18a11.27,11.27,0,1,1,22,5Z"
@@ -346,23 +346,23 @@ export const Goal = (props: GoalProps) => {
         fill="url(#796bd2e3-6922-48c9-8d61-1a37047129f5-2621)" transform="translate(-27.8 -50.55)" />
     <path d="M629.58,232.51a36.13,36.13,0,1,0,7.51-22A36.12,36.12,0,0,0,629.58,232.51Z"
         fill="#e0e0e0" transform="translate(-27.8 -50.55)" />
-    <line fill="none" stroke="#535461" stroke-miterlimit="10" x1="617.66" x2="617.66" y1="164.21"
+    <line fill="none" stroke="#535461" strokeMiterlimit="10" x1="617.66" x2="617.66" y1="164.21"
         y2="178.23" />
-    <line fill="none" stroke="#535461" stroke-miterlimit="10" x1="644.44" x2="629.81" y1="176.98"
+    <line fill="none" stroke="#535461" strokeMiterlimit="10" x1="644.44" x2="629.81" y1="176.98"
         y2="186.64" />
-    <line fill="none" stroke="#535461" stroke-miterlimit="10" x1="629.81" x2="646.94" y1="155.5"
+    <line fill="none" stroke="#535461" strokeMiterlimit="10" x1="629.81" x2="646.94" y1="155.5"
         y2="162.66" />
-    <line fill="none" stroke="#535461" stroke-miterlimit="10" x1="658.46" x2="657.52" y1="179.47"
+    <line fill="none" stroke="#535461" strokeMiterlimit="10" x1="658.46" x2="657.52" y1="179.47"
         y2="201.27" />
-    <line fill="none" stroke="#535461" stroke-miterlimit="10" x1="646.94" x2="627.63" y1="207.81"
+    <line fill="none" stroke="#535461" strokeMiterlimit="10" x1="646.94" x2="627.63" y1="207.81"
         y2="198.16" />
-    <line fill="none" stroke="#535461" stroke-miterlimit="10" x1="617.66" x2="617.66" y1="199.72"
+    <line fill="none" stroke="#535461" strokeMiterlimit="10" x1="617.66" x2="617.66" y1="199.72"
         y2="211.89" />
-    <line fill="none" stroke="#535461" stroke-miterlimit="10" x1="610.5" x2="602.08" y1="190.37"
+    <line fill="none" stroke="#535461" strokeMiterlimit="10" x1="610.5" x2="602.08" y1="190.37"
         y2="186.64" />
-    <line fill="none" stroke="#535461" stroke-miterlimit="10" x1="657.52" x2="656.88" y1="161.41"
+    <line fill="none" stroke="#535461" strokeMiterlimit="10" x1="657.52" x2="656.88" y1="161.41"
         y2="151.22" />
-    <line fill="none" stroke="#535461" stroke-miterlimit="10" x1="663.13" x2="673.57" y1="173.25"
+    <line fill="none" stroke="#535461" strokeMiterlimit="10" x1="663.13" x2="673.57" y1="173.25"
         y2="176.23" />
     <polygon fill="var(--color-primary)"
         points="665.93 173.25 657.84 159.23 644.45 161.41 644.45 176.98 658.77 184.46 665.93 173.25" />
@@ -377,23 +377,23 @@ export const Goal = (props: GoalProps) => {
         fill="url(#fd3c50c2-1925-4067-85c5-f26d2d595195-2622)" transform="translate(-27.8 -50.55)" />
     <path d="M137.46,498.11a30.3,30.3,0,1,0,6.29-18.49A30.3,30.3,0,0,0,137.46,498.11Z"
         fill="#e0e0e0" transform="translate(-27.8 -50.55)" />
-    <line fill="none" stroke="#535461" stroke-miterlimit="10" x1="122.98" x2="122.98" y1="432.67"
+    <line fill="none" stroke="#535461" strokeMiterlimit="10" x1="122.98" x2="122.98" y1="432.67"
         y2="444.43" />
-    <line fill="none" stroke="#535461" stroke-miterlimit="10" x1="145.44" x2="133.16" y1="443.38"
+    <line fill="none" stroke="#535461" strokeMiterlimit="10" x1="145.44" x2="133.16" y1="443.38"
         y2="451.48" />
-    <line fill="none" stroke="#535461" stroke-miterlimit="10" x1="133.16" x2="147.53" y1="425.36"
+    <line fill="none" stroke="#535461" strokeMiterlimit="10" x1="133.16" x2="147.53" y1="425.36"
         y2="431.37" />
-    <line fill="none" stroke="#535461" stroke-miterlimit="10" x1="157.19" x2="156.41" y1="445.47"
+    <line fill="none" stroke="#535461" strokeMiterlimit="10" x1="157.19" x2="156.41" y1="445.47"
         y2="463.76" />
-    <line fill="none" stroke="#535461" stroke-miterlimit="10" x1="147.53" x2="131.33" y1="469.24"
+    <line fill="none" stroke="#535461" strokeMiterlimit="10" x1="147.53" x2="131.33" y1="469.24"
         y2="461.14" />
-    <line fill="none" stroke="#535461" stroke-miterlimit="10" x1="122.98" x2="122.98" y1="462.45"
+    <line fill="none" stroke="#535461" strokeMiterlimit="10" x1="122.98" x2="122.98" y1="462.45"
         y2="472.66" />
-    <line fill="none" stroke="#535461" stroke-miterlimit="10" x1="116.97" x2="109.91" y1="454.61"
+    <line fill="none" stroke="#535461" strokeMiterlimit="10" x1="116.97" x2="109.91" y1="454.61"
         y2="451.48" />
-    <line fill="none" stroke="#535461" stroke-miterlimit="10" x1="156.41" x2="155.87" y1="430.32"
+    <line fill="none" stroke="#535461" strokeMiterlimit="10" x1="156.41" x2="155.87" y1="430.32"
         y2="421.78" />
-    <line fill="none" stroke="#535461" stroke-miterlimit="10" x1="161.11" x2="169.87" y1="440.25"
+    <line fill="none" stroke="#535461" strokeMiterlimit="10" x1="161.11" x2="169.87" y1="440.25"
         y2="442.75" />
     <polygon fill="var(--color-primary)"
         points="163.46 440.25 156.67 428.5 145.44 430.32 145.44 443.38 157.45 449.65 163.46 440.25" />
@@ -407,23 +407,23 @@ export const Goal = (props: GoalProps) => {
         fill="url(#1c0a27d4-1f07-420a-99e3-d67bda5d7f31-2623)" transform="translate(-27.8 -50.55)" />
     <path d="M114.36,535.92a30.3,30.3,0,1,0,6.29-18.49A30.3,30.3,0,0,0,114.36,535.92Z"
         fill="#e0e0e0" transform="translate(-27.8 -50.55)" />
-    <line fill="none" stroke="#535461" stroke-miterlimit="10" x1="99.88" x2="99.88" y1="470.48"
+    <line fill="none" stroke="#535461" strokeMiterlimit="10" x1="99.88" x2="99.88" y1="470.48"
         y2="482.23" />
-    <line fill="none" stroke="#535461" stroke-miterlimit="10" x1="122.34" x2="110.07" y1="481.19"
+    <line fill="none" stroke="#535461" strokeMiterlimit="10" x1="122.34" x2="110.07" y1="481.19"
         y2="489.29" />
-    <line fill="none" stroke="#535461" stroke-miterlimit="10" x1="110.07" x2="124.43" y1="463.17"
+    <line fill="none" stroke="#535461" strokeMiterlimit="10" x1="110.07" x2="124.43" y1="463.17"
         y2="469.18" />
-    <line fill="none" stroke="#535461" stroke-miterlimit="10" x1="134.09" x2="133.31" y1="483.28"
+    <line fill="none" stroke="#535461" strokeMiterlimit="10" x1="134.09" x2="133.31" y1="483.28"
         y2="501.56" />
-    <line fill="none" stroke="#535461" stroke-miterlimit="10" x1="124.43" x2="108.24" y1="507.05"
+    <line fill="none" stroke="#535461" strokeMiterlimit="10" x1="124.43" x2="108.24" y1="507.05"
         y2="498.95" />
-    <line fill="none" stroke="#535461" stroke-miterlimit="10" x1="99.88" x2="99.88" y1="500.26"
+    <line fill="none" stroke="#535461" strokeMiterlimit="10" x1="99.88" x2="99.88" y1="500.26"
         y2="510.47" />
-    <line fill="none" stroke="#535461" stroke-miterlimit="10" x1="93.87" x2="86.81" y1="492.42"
+    <line fill="none" stroke="#535461" strokeMiterlimit="10" x1="93.87" x2="86.81" y1="492.42"
         y2="489.29" />
-    <line fill="none" stroke="#535461" stroke-miterlimit="10" x1="133.31" x2="132.77" y1="468.13"
+    <line fill="none" stroke="#535461" strokeMiterlimit="10" x1="133.31" x2="132.77" y1="468.13"
         y2="459.59" />
-    <line fill="none" stroke="#535461" stroke-miterlimit="10" x1="138.01" x2="146.77" y1="478.06"
+    <line fill="none" stroke="#535461" strokeMiterlimit="10" x1="138.01" x2="146.77" y1="478.06"
         y2="480.56" />
     <polygon fill="var(--color-primary)"
         points="140.36 478.06 133.57 466.3 122.34 468.13 122.34 481.19 134.36 487.46 140.36 478.06" />

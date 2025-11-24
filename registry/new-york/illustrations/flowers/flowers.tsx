@@ -28,22 +28,22 @@ export const Flowers = (props: FlowersProps) => {
     <polygon fill="#f2f2f2" points="560 652 0 652 0 4 560 178 560 652" />
     <rect fill="#3f3d56" height="205" width="440" x="52.12934" y="423" />
     <circle cx="396.83866" cy="323.46296" fill="var(--color-primary)" r="61.18574" />
-    <line fill="#3f3d56" stroke="#3f3d56" stroke-miterlimit="10" stroke-width="2" x1="396.28445"
+    <line fill="#3f3d56" stroke="#3f3d56" strokeMiterlimit="10" strokeWidth="2" x1="396.28445"
         x2="396.7858" y1="434.11356" y2="323.12613" />
     <circle cx="396.7858" cy="323.12613" fill="#3f3d56" r="15.69535" />
     <path d="M531.34747,515.53s-2.02434-48.23445-48.01415-42.83665" fill="#3f3d56"
         transform="translate(-134.87066 -124)" />
     <circle cx="140.52351" cy="200.62056" fill="var(--color-primary)" r="61.18574" />
-    <line fill="#3f3d56" stroke="#3f3d56" stroke-miterlimit="10" stroke-width="2" x1="137.059"
+    <line fill="#3f3d56" stroke="#3f3d56" strokeMiterlimit="10" strokeWidth="2" x1="137.059"
         x2="140.5804" y1="426.50259" y2="200.55291" />
     <circle cx="140.5804" cy="200.55291" fill="#3f3d56" r="15.69535" />
     <path d="M274.455,388.46531s-1.49043-48.2539-47.53716-43.36537" fill="#3f3d56"
         transform="translate(-134.87066 -124)" />
     <path d="M271.99689,546.18878s11.53376-92.56819-46.68631-97.96047" fill="none" stroke="#3f3d56"
-        stroke-miterlimit="10" stroke-width="2" transform="translate(-134.87066 -124)" />
+        strokeMiterlimit="10" strokeWidth="2" transform="translate(-134.87066 -124)" />
     <circle cx="90.43993" cy="324.22831" fill="#3f3d56" r="15.69535" />
     <circle cx="272.10295" cy="64.78526" fill="var(--color-primary)" r="61.18574" />
-    <line fill="#3f3d56" stroke="#3f3d56" stroke-miterlimit="10" stroke-width="2" x1="272.14133"
+    <line fill="#3f3d56" stroke="#3f3d56" strokeMiterlimit="10" strokeWidth="2" x1="272.14133"
         x2="272.14133" y1="435.21584" y2="65.01003" />
     <circle cx="272.14133" cy="64.83464" fill="#3f3d56" r="15.69535" />
     <circle cx="223.93418" cy="332.68044" fill="#3f3d56" r="15.69535" />
@@ -52,10 +52,10 @@ export const Flowers = (props: FlowersProps) => {
     <path d="M407.012,405.71915s-2.24219-48.22481-48.20715-42.61933" fill="#3f3d56"
         transform="translate(-134.87066 -124)" />
     <path d="M407.012,554.9015s10.08987-93.73668-48.20715-98.22106" fill="none" stroke="#3f3d56"
-        stroke-miterlimit="10" stroke-width="2" transform="translate(-134.87066 -124)" />
+        strokeMiterlimit="10" strokeWidth="2" transform="translate(-134.87066 -124)" />
     <circle cx="321.31139" cy="185.45226" fill="#3f3d56" r="15.69535" />
     <path d="M407.97489,402.67332S397.885,313.93664,456.182,309.45226" fill="none" stroke="#3f3d56"
-        stroke-miterlimit="10" stroke-width="2" transform="translate(-134.87066 -124)" />
+        strokeMiterlimit="10" strokeWidth="2" transform="translate(-134.87066 -124)" />
     <path
         d="M537.87066,274a22,22,0,1,1,22-22A22.02489,22.02489,0,0,1,537.87066,274Zm0-42a20,20,0,1,0,20,20A20.02291,20.02291,0,0,0,537.87066,232Z"
         fill="#3f3d56" transform="translate(-134.87066 -124)" />
@@ -158,7 +158,7 @@ export const Flowers = (props: FlowersProps) => {
             d="M983.7843,250.66462a28.39508,28.39508,0,0,1-21.98035,29.977,28.54951,28.54951,0,0,1-6.56751,5.29288,28.36866,28.36866,0,0,0,28.54786-35.26993Z"
             transform="translate(-134.87066 -124)" />
     </g>
-    <line fill="none" stroke="#6c63ff" stroke-miterlimit="10" stroke-width="2" x1="760.65583"
+    <line fill="none" stroke="#6c63ff" strokeMiterlimit="10" strokeWidth="2" x1="760.65583"
         x2="756.98675" y1="308.46877" y2="197.54087" />
     <circle cx="756.98675" cy="197.54087" fill="var(--color-primary)" r="15.69535" />
     <path d="M894.11873,389.908s-3.83519-48.12433-49.58972-41.0024" fill="var(--color-primary)"

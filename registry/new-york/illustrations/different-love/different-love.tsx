@@ -26,12 +26,12 @@ export const DifferentLove = (props: DifferentLoveProps) => {
             opacity="0.1" transform="translate(-226.66547 -50.81143)" />
         <ellipse cx="385.17986" cy="656.86691" fill="#3f3d56" rx="361.17986" ry="12.89928" />
     </g>
-    <line fill="#3f3d56" stroke="#3f3d56" stroke-miterlimit="10" stroke-width="2" x1="730.2518"
+    <line fill="#3f3d56" stroke="#3f3d56" strokeMiterlimit="10" strokeWidth="2" x1="730.2518"
         x2="730.2518" y1="653.34892" y2="537.2554" />
     <circle cx="730.2518" cy="537.2554" fill="#3f3d56" r="16.41727" />
     <path d="M956.91727,659.61767s-2.34533-50.44293-50.42446-44.57962" fill="#3f3d56"
         transform="translate(-226.66547 -50.81143)" />
-    <line fill="#3f3d56" stroke="#3f3d56" stroke-miterlimit="10" stroke-width="2" x1="66.84173"
+    <line fill="#3f3d56" stroke="#3f3d56" strokeMiterlimit="10" strokeWidth="2" x1="66.84173"
         x2="66.84173" y1="662.0036" y2="280" />
     <circle cx="66.84173" cy="279.81655" fill="#3f3d56" r="16.41727" />
     <circle cx="16.41727" cy="559.98201" fill="#3f3d56" r="16.41727" />
@@ -40,20 +40,20 @@ export const DifferentLove = (props: DifferentLoveProps) => {
     <path d="M293.50719,557.48817s-2.34532-50.44292-50.42446-44.57961" fill="#3f3d56"
         transform="translate(-226.66547 -50.81143)" />
     <path d="M293.50719,708.30226s10.554-92.81816-50.42446-97.50881" fill="none" stroke="#3f3d56"
-        stroke-miterlimit="10" stroke-width="2" transform="translate(-226.66547 -50.81143)" />
+        strokeMiterlimit="10" strokeWidth="2" transform="translate(-226.66547 -50.81143)" />
     <circle cx="117.27338" cy="559.98201" fill="#3f3d56" r="16.41727" />
     <path d="M293.51439,708.30226s-10.554-92.81816,50.42446-97.50881" fill="none" stroke="#3f3d56"
-        stroke-miterlimit="10" stroke-width="2" transform="translate(-226.66547 -50.81143)" />
+        strokeMiterlimit="10" strokeWidth="2" transform="translate(-226.66547 -50.81143)" />
     <circle cx="118.27338" cy="405.98201" fill="#3f3d56" r="16.41727" />
     <path d="M294.51439,554.30226s-10.554-92.81816,50.42446-97.50881" fill="none" stroke="#3f3d56"
-        stroke-miterlimit="10" stroke-width="2" transform="translate(-226.66547 -50.81143)" />
-    <line fill="#3f3d56" stroke="#3f3d56" stroke-miterlimit="10" stroke-width="2" x1="603.97842"
+        strokeMiterlimit="10" strokeWidth="2" transform="translate(-226.66547 -50.81143)" />
+    <line fill="#3f3d56" stroke="#3f3d56" strokeMiterlimit="10" strokeWidth="2" x1="603.97842"
         x2="603.97842" y1="651.0036" y2="418.81655" />
     <circle cx="603.97842" cy="418.81655" fill="#3f3d56" r="16.41727" />
     <path d="M830.64388,536.48817s2.34533-50.44292,50.42447-44.57961" fill="#3f3d56"
         transform="translate(-226.66547 -50.81143)" />
     <path d="M830.64388,697.30226s-10.55395-92.81816,50.42447-97.50881" fill="none" stroke="#3f3d56"
-        stroke-miterlimit="10" stroke-width="2" transform="translate(-226.66547 -50.81143)" />
+        strokeMiterlimit="10" strokeWidth="2" transform="translate(-226.66547 -50.81143)" />
     <circle cx="654.40288" cy="548.98201" fill="#3f3d56" r="16.41727" />
     <circle cx="584.34532" cy="178" fill="#ff6584" r="64" />
     <circle cx="478.74191" cy="543.9364" fill="#2f2e41" r="79" />
@@ -77,7 +77,7 @@ export const DifferentLove = (props: DifferentLoveProps) => {
     <path
         d="M721.21193,629.24783a18,18,0,0,1-36,0c0-9.94113,8.05887-12,18-12S721.21193,619.3067,721.21193,629.24783Z"
         fill="#fff" transform="translate(-226.66547 -50.81143)" />
-    <line fill="none" stroke="#6c63ff" stroke-miterlimit="10" stroke-width="2" x1="384.58273"
+    <line fill="none" stroke="#6c63ff" strokeMiterlimit="10" strokeWidth="2" x1="384.58273"
         x2="384.58273" y1="520.34892" y2="404.2554" />
     <circle cx="384.58273" cy="404.2554" fill="var(--color-primary)" r="16.41727" />
     <path d="M611.2482,526.61767s-2.34532-50.44293-50.42446-44.57962" fill="var(--color-primary)"
@@ -104,7 +104,7 @@ export const DifferentLove = (props: DifferentLoveProps) => {
     <path
         d="M494.01079,540.0219s-15,15-15,17,10,11,3,23-7,42-7,42l-24,5-45-4-7-69s18,3,22,6,15-4,23-4,31-4,31-4l-2-8,8-14Z"
         fill="var(--color-primary)" transform="translate(-226.66547 -50.81143)" />
-    <path d="M497.51079,646.5219" fill="none" stroke="#ffb9b9" stroke-miterlimit="10"
+    <path d="M497.51079,646.5219" fill="none" stroke="#ffb9b9" strokeMiterlimit="10"
         transform="translate(-226.66547 -50.81143)" />
     <path
         d="M437.51079,646.5219s101-45,109-16,9,99,9,99,5,48,11,53,0,20,0,20l-15,5-14-6-6-16s-2-36-10-54-8-60-7-62c0,0-39,48-77,45s-43.5-11.5-43.5-11.5S412.51079,646.5219,437.51079,646.5219Z"

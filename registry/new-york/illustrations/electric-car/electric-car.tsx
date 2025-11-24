@@ -37,7 +37,7 @@ export const ElectricCar = (props: ElectricCarProps) => {
         fill="var(--color-primary)" opacity="0.1" transform="translate(-87.95 -61.51)" />
     <path
         d="M956.08,408.59s-14.56-49.45,2.73-85.84a78.1,78.1,0,0,0,6.32-49,131.35,131.35,0,0,0-6.94-23"
-        fill="none" stroke="#535461" stroke-miterlimit="10" stroke-width="2"
+        fill="none" stroke="#535461" strokeMiterlimit="10" strokeWidth="2"
         transform="translate(-87.95 -61.51)" />
     <path d="M969,227.76c0,6.06-11,23.63-11,23.63s-11-17.57-11-23.63a11,11,0,1,1,21.94,0Z"
         fill="var(--color-primary)" transform="translate(-87.95 -61.51)" />
@@ -77,7 +77,7 @@ export const ElectricCar = (props: ElectricCarProps) => {
         fill="var(--color-primary)" opacity="0.1" transform="translate(-87.95 -61.51)" />
     <path
         d="M1017.08,487.59s-14.56-49.45,2.73-85.84a78.1,78.1,0,0,0,6.32-49,131.35,131.35,0,0,0-6.94-23"
-        fill="none" stroke="#535461" stroke-miterlimit="10" stroke-width="2"
+        fill="none" stroke="#535461" strokeMiterlimit="10" strokeWidth="2"
         transform="translate(-87.95 -61.51)" />
     <path d="M1030,306.76c0,6.06-11,23.63-11,23.63s-11-17.57-11-23.63a11,11,0,1,1,21.94,0Z"
         fill="var(--color-primary)" transform="translate(-87.95 -61.51)" />
@@ -173,8 +173,8 @@ export const ElectricCar = (props: ElectricCarProps) => {
     <ellipse cx="369.02" cy="503.34" opacity="0.05" rx="82.85" ry="90.67" />
     <ellipse cx="387.43" cy="503.34" fill="#4b5c7a" rx="82.85" ry="90.67" />
     <circle cx="385.59" cy="503.8" opacity="0.05" r="36.82" />
-    <circle cx="385.59" cy="503.8" fill="none" r="11.05" stroke="#6f7d95" stroke-miterlimit="10"
-        stroke-width="2" />
+    <circle cx="385.59" cy="503.8" fill="none" r="11.05" stroke="#6f7d95" strokeMiterlimit="10"
+        strokeWidth="2" />
     <circle cx="385.59" cy="484.47" fill="#6f7d95" r="2.76" />
     <circle cx="488.65" cy="551.31" fill="#6f7d95" r="2.76"
         transform="translate(-328.01 381.57) rotate(-40)" />
@@ -198,8 +198,8 @@ export const ElectricCar = (props: ElectricCarProps) => {
     <ellipse cx="895.02" cy="435.02" opacity="0.05" rx="63.01" ry="68.96" />
     <ellipse cx="909.02" cy="435.02" fill="#4b5c7a" rx="63.01" ry="68.96" />
     <circle cx="907.62" cy="435.37" opacity="0.05" r="28" />
-    <circle cx="907.62" cy="435.37" fill="none" r="8.4" stroke="#6f7d95" stroke-miterlimit="10"
-        stroke-width="2" />
+    <circle cx="907.62" cy="435.37" fill="none" r="8.4" stroke="#6f7d95" strokeMiterlimit="10"
+        strokeWidth="2" />
     <circle cx="907.62" cy="420.67" fill="#6f7d95" r="2.1" />
     <circle cx="1007.07" cy="486.23" fill="#6f7d95" r="2.1"
         transform="translate(-164.89 699.58) rotate(-40)" />
@@ -268,12 +268,12 @@ export const ElectricCar = (props: ElectricCarProps) => {
     <path
         d="M864.09,371.8c-1.79,5.61-.44,11.78,9.93,16.05,8.63,3.56,18.75-.56,21.7-9.41,1.72-5.16.54-11-8.76-15.75S867.22,362,864.09,371.8Z"
         opacity="0.05" transform="translate(-87.95 -61.51)" />
-    <path d="M115.63,526.88s54.06,28,92.86,17.4" fill="none" stroke="#ff4d52" stroke-miterlimit="10"
+    <path d="M115.63,526.88s54.06,28,92.86,17.4" fill="none" stroke="#ff4d52" strokeMiterlimit="10"
         transform="translate(-87.95 -61.51)" />
     <path d="M117.54,542s34.93,26.94,105.53,20.68" fill="none" stroke="#ff4d52"
-        stroke-miterlimit="10" transform="translate(-87.95 -61.51)" />
+        strokeMiterlimit="10" transform="translate(-87.95 -61.51)" />
     <path d="M119.15,554.69S153.8,584.76,225,575.23" fill="none" stroke="#ff4d52"
-        stroke-miterlimit="10" transform="translate(-87.95 -61.51)" />
+        strokeMiterlimit="10" transform="translate(-87.95 -61.51)" />
     <path d="M864.64,353.67S836.46,378,810.74,389C810.74,389,849.8,395.95,864.64,353.67Z"
         opacity="0.05" transform="translate(-87.95 -61.51)" />
     <path d="M566.1,425.28s133.72,12.63,184.32.82c0,0,2.7,1.79-13.41-5.43Z" opacity="0.1"
@@ -406,12 +406,12 @@ export const ElectricCar = (props: ElectricCarProps) => {
     <path d="M369,373.22s11.95,36.64,11.15,42.21-2.39,66.9-2.39,66.9l-2.39-.8.8-66.9Z" opacity="0.1"
         transform="translate(-87.95 -61.51)" />
     <path d="M872.12,476.83s17.5,34.35,3.24,53.14,1.3,70,1.3,70" fill="none" stroke="#6c63ff"
-        stroke-miterlimit="10" transform="translate(-87.95 -61.51)" />
+        strokeMiterlimit="10" transform="translate(-87.95 -61.51)" />
     <path
         d="M877.3,466.14c0,6.62-4.86,12-4.86,12s-4.86-5.37-4.86-12,4.86-12,4.86-12S877.3,459.52,877.3,466.14Z"
         fill="var(--color-primary)" transform="translate(-87.95 -61.51)" />
     <path d="M881.19,476.83s-17.5,34.35-3.24,53.14-1.3,70-1.3,70" fill="none" stroke="#6c63ff"
-        stroke-miterlimit="10" transform="translate(-87.95 -61.51)" />
+        strokeMiterlimit="10" transform="translate(-87.95 -61.51)" />
     <path
         d="M876,466.14c0,6.62,4.86,12,4.86,12s4.86-5.37,4.86-12-4.86-12-4.86-12S876,459.52,876,466.14Z"
         fill="var(--color-primary)" transform="translate(-87.95 -61.51)" />
@@ -419,7 +419,7 @@ export const ElectricCar = (props: ElectricCarProps) => {
         d="M876,466.14c0,6.62,4.86,12,4.86,12s4.86-5.37,4.86-12-4.86-12-4.86-12S876,459.52,876,466.14Z"
         opacity="0.1" transform="translate(-87.95 -61.51)" />
     <path d="M888.32,476.83s17.5,34.35,3.24,53.14,1.3,70,1.3,70" fill="none" stroke="#6c63ff"
-        stroke-miterlimit="10" transform="translate(-87.95 -61.51)" />
+        strokeMiterlimit="10" transform="translate(-87.95 -61.51)" />
     <path
         d="M893.5,466.14c0,6.62-4.86,12-4.86,12s-4.86-5.37-4.86-12,4.86-12,4.86-12S893.5,459.52,893.5,466.14Z"
         fill="var(--color-primary)" transform="translate(-87.95 -61.51)" />
@@ -439,7 +439,7 @@ export const ElectricCar = (props: ElectricCarProps) => {
         d="M870.37,479.86c5.52,3.66,7.31,10.68,7.31,10.68S870.51,491.62,865,488s-7.31-10.68-7.31-10.68S864.85,476.2,870.37,479.86Z"
         opacity="0.1" transform="translate(-87.95 -61.51)" />
     <path d="M897.39,476.83s-17.5,34.35-3.24,53.14-1.3,70-1.3,70" fill="none" stroke="#6c63ff"
-        stroke-miterlimit="10" transform="translate(-87.95 -61.51)" />
+        strokeMiterlimit="10" transform="translate(-87.95 -61.51)" />
     <path
         d="M892.21,466.14c0,6.62,4.86,12,4.86,12s4.86-5.37,4.86-12-4.86-12-4.86-12S892.21,459.52,892.21,466.14Z"
         fill="var(--color-primary)" transform="translate(-87.95 -61.51)" />
@@ -455,16 +455,16 @@ export const ElectricCar = (props: ElectricCarProps) => {
     <path
         d="M902.72,527c-4.65,4.72-5,12-5,12s7.23-.41,11.88-5.13,5-12,5-12S907.37,522.26,902.72,527Z"
         fill="var(--color-primary)" transform="translate(-87.95 -61.51)" />
-    <path d="M889.31,519.77s10.53-16.6,25.32-17" fill="none" stroke="#6c63ff" stroke-miterlimit="10"
+    <path d="M889.31,519.77s10.53-16.6,25.32-17" fill="none" stroke="#6c63ff" strokeMiterlimit="10"
         transform="translate(-87.95 -61.51)" />
     <path d="M881.11,509.74s-10.53-16.6-25.32-17" fill="none" stroke="#6c63ff"
-        stroke-miterlimit="10" transform="translate(-87.95 -61.51)" />
-    <path d="M879.74,533.44s10.53-16.6,25.32-17" fill="none" stroke="#6c63ff" stroke-miterlimit="10"
+        strokeMiterlimit="10" transform="translate(-87.95 -61.51)" />
+    <path d="M879.74,533.44s10.53-16.6,25.32-17" fill="none" stroke="#6c63ff" strokeMiterlimit="10"
         transform="translate(-87.95 -61.51)" />
     <circle cx="826.19" cy="441.17" fill="var(--color-primary)" r="2.73" />
     <circle cx="768.09" cy="431.37" fill="var(--color-primary)" r="2.73" />
     <path d="M887.49,538.91s-10.53-16.6-25.32-17" fill="none" stroke="#6c63ff"
-        stroke-miterlimit="10" transform="translate(-87.95 -61.51)" />
+        strokeMiterlimit="10" transform="translate(-87.95 -61.51)" />
     <circle cx="774.47" cy="460.54" fill="var(--color-primary)" r="2.73" />
     <circle cx="817.31" cy="455.07" fill="var(--color-primary)" r="2.73" />
     <path

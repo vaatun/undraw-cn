@@ -197,7 +197,7 @@ export const WindTurbine = (props: WindTurbineProps) => {
         transform="translate(-28 -86.39)" />
     <path
         d="M252.93,527.73s-6.09,17.78-2.63,21.4-24.86,5.76-24.86,5.76,11.85-21.23,10.7-26.5S252.93,527.73,252.93,527.73Z"
-        fill="none" stroke="#6c63ff" stroke-miterlimit="10" transform="translate(-28 -86.39)" />
+        fill="none" stroke="#6c63ff" strokeMiterlimit="10" transform="translate(-28 -86.39)" />
     <path
         d="M278.29,649c0,.43,0,.84,0,1.24-.33,8.4-15.31,25.35-18.77,22.55s-27-8.4-27-8.4-3.46-5.43-7.08-5.43a18.51,18.51,0,0,1-5.95-1.54l.68-9.65S271.36,639,277,646.07A9,9,0,0,1,278.29,649Z"
         opacity="0.1" transform="translate(-28 -86.39)" />

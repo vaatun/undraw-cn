@@ -17,7 +17,7 @@ export const CreativeExperiment = (props: CreativeExperimentProps) => {
         creative experiment
     </title>
     <rect fill="#f2f2f2" height="272" width="248" x="264" y="27" />
-    <rect fill="none" height="272" stroke="#3f3d56" stroke-miterlimit="10" stroke-width="2"
+    <rect fill="none" height="272" stroke="#3f3d56" strokeMiterlimit="10" strokeWidth="2"
         width="248" x="289" y="1" />
     <rect fill="var(--color-primary)" height="13.37143" width="13.37143" x="302" y="242.31429" />
     <rect fill="#3f3d56" height="13.37143" width="13.37143" x="321.31429" y="242.31429" />
@@ -44,17 +44,17 @@ export const CreativeExperiment = (props: CreativeExperimentProps) => {
     <rect fill="var(--color-primary)" height="50"
         transform="matrix(0.81503, -0.57942, 0.57942, 0.81503, -223.08114, 559.81431)" width="50"
         x="907.86031" y="462.78515" />
-    <rect fill="none" height="50" stroke="#3f3d56" stroke-miterlimit="10" stroke-width="2"
+    <rect fill="none" height="50" stroke="#3f3d56" strokeMiterlimit="10" strokeWidth="2"
         transform="matrix(0.81503, -0.57942, 0.57942, 0.81503, -216.14735, 559.69458)" width="50"
         x="911.13969" y="451.86518" />
     <circle cx="750" cy="341.90033" fill="var(--color-primary)" r="21" />
-    <circle cx="744" cy="338.90033" fill="none" r="21" stroke="#3f3d56" stroke-miterlimit="10"
-        stroke-width="2" />
+    <circle cx="744" cy="338.90033" fill="none" r="21" stroke="#3f3d56" strokeMiterlimit="10"
+        strokeWidth="2" />
     <polygon fill="var(--color-primary)"
         points="687.934 425.82 713.068 440.287 738.201 454.754 713.105 469.287 688.01 483.82 687.972 454.82 687.934 425.82" />
     <polygon fill="none"
         points="683.895 436.803 709.028 451.271 734.162 465.738 709.066 480.271 683.97 494.803 683.932 465.803 683.895 436.803"
-        stroke="#3f3d56" stroke-miterlimit="10" stroke-width="2" />
+        stroke="#3f3d56" strokeMiterlimit="10" strokeWidth="2" />
     <path
         d="M698.43492,449.64862a87.83931,87.83931,0,0,1,55.55779-59.22684c3.6301-1.248,2.0705-7.04588-1.595-5.78567a94.08133,94.08133,0,0,0-59.74843,63.41747c-1.02951,3.7274,4.75739,5.318,5.78568,1.595Z"
         fill="#fff" transform="translate(-113 -70.92483)" />

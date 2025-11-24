@@ -31,7 +31,7 @@ export const NewYearTwoZeroTwoThree = (props: NewYearTwoZeroTwoThreeProps) => {
         y="255.97017" />
     <polygon fill="#fdadb0"
         points="102.40847 308.68269 110.7789 279.06425 131.38306 279.70811 138.46571 303.53166 102.40847 308.68269" />
-    <polygon isolation="isolate" opacity=".1"
+    <polygon style={{isolation: "isolate"}} opacity=".1"
         points="102.40847 308.68269 110.7789 279.06425 131.38306 279.70811 138.46571 303.53166 102.40847 308.68269" />
     <g>
         <circle cx="123.69866" cy="259.47642" fill="#fdadb0" r="27.36301" />
