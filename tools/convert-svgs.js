@@ -2,8 +2,8 @@ const fs = require('fs');
 const path = require('path');
 
 // Source and destination directories
-const SVG_SOURCE_DIR = '/Users/sudomakes/code/undraw-svg-collection/svgs';
-const OUTPUT_DIR = '/Users/sudomakes/code/undraw-cn/registry/new-york/illustrations';
+const SVG_SOURCE_DIR = path.join(__dirname,  '..', '..' , 'undraw-svg-collection', 'svgs');
+const OUTPUT_DIR = path.join(__dirname, '..' , 'registry', 'new-york', 'illustrations');
 
 // for handling file names like 3DModels -> ThreeDModels
 // Map of numbers to words
